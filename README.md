@@ -273,6 +273,7 @@
 
 ## C# # 
 
+- [HoofedEar/Jern](https://github.com/HoofedEar/Jern) - A secure, portable journaling tool; made to live on a flash drive
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [zigurous/unity-super-mario-tutorial](https://github.com/zigurous/unity-super-mario-tutorial) - 🌻🍄 Learn to make Super Mario Bros in Unity.
 - [zigurous/unity-tetris-tutorial](https://github.com/zigurous/unity-tetris-tutorial) - 🧩🧱 Learn to make Tetris in Unity.
@@ -1157,6 +1158,7 @@
 
 ## HTML 
 
+- [unoptimal/lurkstagram](https://github.com/unoptimal/lurkstagram) - A chrome extension that hides all Like buttons and disables double-click on Instagram. Lurk in peace.
 - [saraferreirascf/Photo-and-video-manipulations-detector](https://github.com/saraferreirascf/Photo-and-video-manipulations-detector) - Autopsy plugins meant to detect photo and video manipulations.
 - [Fingel/django-llm-poison](https://github.com/Fingel/django-llm-poison) - A django app that poisons content when served to AI bots. ☠️
 - [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
@@ -1300,6 +1302,7 @@
 
 ## Java 
 
+- [Retera/WarsmashModEngine](https://github.com/Retera/WarsmashModEngine) - An emulation engine to improve Warcraft III modding
 - [rashahacks/jsmon-burpsuite-extension](https://github.com/rashahacks/jsmon-burpsuite-extension) - 
 - [Hack23/cia](https://github.com/Hack23/cia) - Citizen Intelligence Agency (OSINT) , monitoring key political figures and institutions, provides insights into financial performance, risk metrics, and political trends
 - [Black-Smith-Of-Fire/laser_escape](https://github.com/Black-Smith-Of-Fire/laser_escape) - 
@@ -1375,6 +1378,8 @@
 
 ## JavaScript 
 
+- [stuffbymax/you-are-idiot-hahaha](https://github.com/stuffbymax/you-are-idiot-hahaha) - 
+- [unoptimal/experimental-email-signatures](https://github.com/unoptimal/experimental-email-signatures) - Chrome extension that lets you generate random email signatures
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [bxdoan/airdrop-tools](https://github.com/bxdoan/airdrop-tools) - Airdrop tools for all telegram bot
 - [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
@@ -1875,6 +1880,7 @@
 
 ## Others 
 
+- [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [javedali99/python-resources-for-earth-sciences](https://github.com/javedali99/python-resources-for-earth-sciences) - A Curated List of Python Resources for Earth Sciences
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
@@ -3770,7 +3776,7 @@
 - [GoldenStack/stupidfs](https://github.com/GoldenStack/stupidfs) - More files per file: hide files by storing them in the metadata of other files
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) - 802.11 Attack Tool
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
-- [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support
+- [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image rendering support
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -4135,6 +4141,10 @@
 
 ## TypeScript 
 
+- [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files, bookmarks, tags, properties, and ribbon commands.
+- [oxdc/obsidian-vertical-tabs](https://github.com/oxdc/obsidian-vertical-tabs) - An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.
+- [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
+- [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) - ⚡ Supercharge your Obsidian.md canvas experience! Create presentations, flowcharts and more!
 - [protontypes/open-climate-fund](https://github.com/protontypes/open-climate-fund) - Building an open science funding revolution for open source climate action!
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Open-source platform that turns your internal APIs and tools into conversational AI agents ✨
