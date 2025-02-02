@@ -88,6 +88,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -444,7 +445,7 @@
 - [Technion-Kishony-lab/data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) - data-to-paper: Backward-traceable AI-driven scientific research
 - [samuelrince/awesome-green-ai](https://github.com/samuelrince/awesome-green-ai) - A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
-- [evilsocket/nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
+- [dreadnode/nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -463,7 +464,7 @@
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
 - [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) - A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 - [mika314/UELlama](https://github.com/mika314/UELlama) - Llama plugin for Unreal Engine 5
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
@@ -3366,6 +3367,7 @@
 
 - [javedali99/python-resources-for-earth-sciences](https://github.com/javedali99/python-resources-for-earth-sciences) - A Curated List of Python Resources for Earth Sciences
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [Hack23/cia](https://github.com/Hack23/cia) - Comprehensive open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering de
 - [narunlifescience/AlphaPlot](https://github.com/narunlifescience/AlphaPlot) - :chart_with_upwards_trend: Application for statistical analysis and data visualization which can generate different types of publication quality 2D and 3D plots with extensive visual customization.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources
@@ -3435,6 +3437,7 @@
 
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
+- [Hack23/cia](https://github.com/Hack23/cia) - Comprehensive open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering de
 - [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
 - [thedoubler/awesome-maps-data](https://github.com/thedoubler/awesome-maps-data) - Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized!
 - [narunlifescience/AlphaPlot](https://github.com/narunlifescience/AlphaPlot) - :chart_with_upwards_trend: Application for statistical analysis and data visualization which can generate different types of publication quality 2D and 3D plots with extensive visual customization.
@@ -4071,6 +4074,18 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+
+## facebook 
+
+- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning.
+- [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
+- [awesome-yasin/Media-Downloader](https://github.com/awesome-yasin/Media-Downloader) - Download Instagram Reels, Stories, Post, Stalk Instagram Profile, Facebook Public Videos, YouTube Videos and YouTube to MP3 converter, SoundCloud MP3 and Dailymotion videos. Made from Node JS Express 
+- [sibaturaspirman/facefilter-blinkrunninggame](https://github.com/sibaturaspirman/facefilter-blinkrunninggame) - Face Filter - Blink Running Game with AR Spark Studio
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
+- [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
+- [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
+- [Azim-Vau/crack-pro](https://github.com/Azim-Vau/crack-pro) - NEW FACEBOOK COINING TOOL
+- [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
 ## finance 
 
@@ -7075,7 +7090,7 @@
 - [rmusser01/tldw](https://github.com/rmusser01/tldw) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [Technion-Kishony-lab/data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) - data-to-paper: Backward-traceable AI-driven scientific research
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
-- [evilsocket/nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
+- [dreadnode/nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) - A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT
@@ -7820,7 +7835,7 @@
 
 ## open-data 
 
-- [Hack23/cia](https://github.com/Hack23/cia) - Citizen Intelligence Agency (OSINT) , monitoring key political figures and institutions, provides insights into financial performance, risk metrics, and political trends
+- [Hack23/cia](https://github.com/Hack23/cia) - Comprehensive open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering de
 - [ZoranPandovski/awesome-open-science](https://github.com/ZoranPandovski/awesome-open-science) - :books: :microscope: :unlock:  :mag: A curated list of resources, data, tools, scholarship related to Open Access, Data and Open Science :books: :microscope: :unlock:  :mag:
 - [UtrechtUniversity/awesome-utrecht-university](https://github.com/UtrechtUniversity/awesome-utrecht-university) - A curated list of awesome open source projects from Utrecht University.
 - [asoplata/open-science-resources](https://github.com/asoplata/open-science-resources) - A publicly-editable collection of open science resources, including tools, datasets, meta-resources, etc.
@@ -7962,7 +7977,7 @@
 - [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
-- [evilsocket/nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
+- [dreadnode/nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
@@ -8067,7 +8082,7 @@
 - [digitaldisarray/OSINT-Tools](https://github.com/digitaldisarray/OSINT-Tools) - :eyes: Some of my favorite OSINT tools.
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [lacdis/instakilo](https://github.com/lacdis/instakilo) - Anonymously observe Instagram accounts.
-- [Hack23/cia](https://github.com/Hack23/cia) - Citizen Intelligence Agency (OSINT) , monitoring key political figures and institutions, provides insights into financial performance, risk metrics, and political trends
+- [Hack23/cia](https://github.com/Hack23/cia) - Comprehensive open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering de
 - [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (35 features). Perfect for investigators, pe
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 OSINT tool for searching people's digital footprint and leaked passwords across various social networks, written in Go.
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
@@ -9788,7 +9803,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 - [mamoniem/UnrealEditorPythonScripts](https://github.com/mamoniem/UnrealEditorPythonScripts) - Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project and any purpose as long as it is not violating the LICENSE file or the Unreal Engine EULA.
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
