@@ -429,6 +429,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [whiteSHADOW1234/PetCam](https://github.com/whiteSHADOW1234/PetCam) - 🐱A real-time pet camera application that allows users to remotely monitor and interact with their pets using a web browser, with video streamed from a designated client device to a central server and 
 - [LasagnaCake/Makai](https://github.com/LasagnaCake/Makai) - A C++20 3D (+"2D") application & game framework library.
@@ -1036,6 +1037,10 @@
 
 ## Go 
 
+- [msprev/fzf-bibtex](https://github.com/msprev/fzf-bibtex) - a BibTeX source for fzf
+- [yorukot/tmlshock](https://github.com/yorukot/tmlshock) - A terminal ttl clock and stopwatch build by golang
+- [nalgeon/howto](https://github.com/nalgeon/howto) - Humble command-line assistant
+- [acheong08/obi-sync](https://github.com/acheong08/obi-sync) - Reverse engineering of the native Obsidian sync and publish server
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [Kaamkiya/gg](https://github.com/Kaamkiya/gg) - :space_invader: Games you can play in your terminal written in Go
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
@@ -1468,6 +1473,9 @@
 
 ## JavaScript 
 
+- [SublimeText/Spacegray](https://github.com/SublimeText/Spacegray) - A Hyperminimal UI Theme for Sublime Text
+- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
+- [mapbox/magic-tape](https://github.com/mapbox/magic-tape) - tape plus some goodies
 - [M3-org/CharacterStudio](https://github.com/M3-org/CharacterStudio) - Open source web based custom VRM avatar creation platform
 - [Bilovodskyi/3D-shooter-game](https://github.com/Bilovodskyi/3D-shooter-game) - 3D city built entirely in Blender. I used react-three-fiber to render the Blender city map in the browser, and react-three/rapier for physics. More features are in progress…
 - [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. 🛩
@@ -2000,6 +2008,7 @@
 
 ## Others 
 
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [crochetparade/CrochetPARADE](https://github.com/crochetparade/CrochetPARADE) - CrochetPARADE (Crochet PAttern Renderer, Analyzer, and DEbugger) is a platform that allows users to create, visualize, and analyze both 2D and 3D crochet patterns.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
@@ -2956,6 +2965,13 @@
 
 ## Python 
 
+- [makehumancommunity/makehuman](https://github.com/makehumancommunity/makehuman) - This is the main repository for the MakeHuman application as such.
+- [LaTeXing/LaTeXing](https://github.com/LaTeXing/LaTeXing) - LaTeXing - Professional Typesetting - An extension for Sublime Text which makes your life  easier and more comfortable while creating your documents.
+- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text
+- [vanvalenlab/deepcell-tf](https://github.com/vanvalenlab/deepcell-tf) - Deep Learning Library for Single Cell Analysis
+- [pH-7/Download-Simply-Videos-From-YouTube](https://github.com/pH-7/Download-Simply-Videos-From-YouTube) - Allows you to download and save very easily any of your favorite videos and entire playlists from YouTube. All you need to do is just run this Python script and follow the prompt :)
+- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file
+- [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [joachimbbp/neurovolume](https://github.com/joachimbbp/neurovolume) - 🧠 Converts neurological MRI scans to VDBs for visualizations.
 - [navis-org/navis](https://github.com/navis-org/navis) - Python library for analysis of neuroanatomical data.
 - [behreajj/HexGrid](https://github.com/behreajj/HexGrid) - A Blender add-on to make hexagon grids
@@ -3971,6 +3987,7 @@
 
 ## R 
 
+- [rstudio/gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
 - [ropensci/webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web
 - [r-barnes/webglobe](https://github.com/r-barnes/webglobe) - 3D globe visualization for R
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
@@ -4017,6 +4034,8 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [joshka/tui-widgets](https://github.com/joshka/tui-widgets) - A collection of useful widgets for building terminal user interfaces using Ratatui
 - [Chleba/tui-slides](https://github.com/Chleba/tui-slides) - Terminal Presentation program with modern TUI
@@ -4142,6 +4161,7 @@
 
 ## SCSS 
 
+- [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [drshika/jekyll-theme-manpage](https://github.com/drshika/jekyll-theme-manpage) - jekyll theme inspired by my personal website
 - [msurguy/rad-lines](https://github.com/msurguy/rad-lines) - Beautiful Vector Generator Tool
 - [sahaba-ai/awesome-arabic-speakers](https://github.com/sahaba-ai/awesome-arabic-speakers) - A curated and collaborative list of awesome Arabic speaker's contributions in tech regardless of their ethnicity, nationality, or location.
@@ -4160,6 +4180,7 @@
 
 ## Shell 
 
+- [Hiro427/creader](https://github.com/Hiro427/creader) - Read and Download Manga from MangaDex
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [iamwithyou11/Bruteinsta](https://github.com/iamwithyou11/Bruteinsta) - This an Instagram Bruteforcing tool
 - [izabera/pseudo3d](https://github.com/izabera/pseudo3d) - a raycaster in bash
@@ -4321,7 +4342,7 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
-- [base-org/node](https://github.com/base-org/node) - Everything required to run your own Base node
+- [base/node](https://github.com/base/node) - Everything required to run your own Base node
 - [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
@@ -4407,6 +4428,10 @@
 
 ## TeX 
 
+- [dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code) - latex code from my first year of engineering.
+- [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX.
+- [davecap/markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
+- [JensErat/scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
@@ -4425,6 +4450,11 @@
 
 ## TypeScript 
 
+- [j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
+- [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
+- [akopdev/obsidian-bibtex-manager](https://github.com/akopdev/obsidian-bibtex-manager) - Create literature notes in Obsidian from BibTeX entries, display formatted reference lists, and instantly generate citations.
+- [clairefro/obsidian-plugin-etymology-lookup](https://github.com/clairefro/obsidian-plugin-etymology-lookup) - Obsidian plugin for looking up the etymology of words in your notes with one click
+- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Ru
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
