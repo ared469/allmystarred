@@ -612,7 +612,7 @@
 - [VegetableWithChicken/OpenCVForUnreal](https://github.com/VegetableWithChicken/OpenCVForUnreal) - OpenCV Plugin and it support UE5.0, UE5.1 UE5.2,   UE4.27,and also suppoted Face recognition, object recognition, gender recognition, image conversion, etc
 - [iwer/GeoReference](https://github.com/iwer/GeoReference) - Unreal Engine Plugin to provide a spatial reference between geo-coordinates and game-coordinates.
 - [unrealgt/unrealgt](https://github.com/unrealgt/unrealgt) - A framework for synthetic test data generation for computer vision with the Unreal Engine.
-- [daftsoftware/FGMovement](https://github.com/daftsoftware/FGMovement) - Custom Movement using Mover on Unreal Engine 5.
+- [daftsoftware/DaftMover](https://github.com/daftsoftware/DaftMover) - Custom Movement using Mover on Unreal Engine 5.
 - [Mountea-Framework/MounteaInteractionSystem](https://github.com/Mountea-Framework/MounteaInteractionSystem) - Open-source components based tool for smart Actor Interaction with other Actors. Developed with Designers in mind to allow you as easy as possible implementation while maintaining high scalability and
 - [JanSeliv/CustomShapeButton](https://github.com/JanSeliv/CustomShapeButton) - Open-source plugin that allows to make buttons of any shape in UE5.4
 - [Drakynfly/HeartGraph](https://github.com/Drakynfly/HeartGraph) - A generic runtime node graph editor and viewer for Unreal Engine
@@ -1575,7 +1575,7 @@
 - [microbium/microbium-app](https://github.com/microbium/microbium-app) - Draw new worlds
 - [charliegerard/whoosh](https://github.com/charliegerard/whoosh) - [Prototype] Control a 3D spaceship with hand movements
 - [rolyatmax/watercolor-canvas](https://github.com/rolyatmax/watercolor-canvas) - Creating watercolor-style canvas art
-- [q5js/q5.js](https://github.com/q5js/q5.js) - A sequel to p5.js that's optimized for interactive art!
+- [q5js/q5.js](https://github.com/q5js/q5.js) - Beginner friendly graphics framework that's optimized for interactive art!
 - [salil-naik/css-art-gallery](https://github.com/salil-naik/css-art-gallery) - A collection of CSS Arts.
 - [stc/face-tracking-p5js](https://github.com/stc/face-tracking-p5js) - Using facetracking with p5js to create playful or critical web applications
 - [kekkorider/threejs-audio-reactive-visual](https://github.com/kekkorider/threejs-audio-reactive-visual) - Audio-reactive visual created with ThreeJS
@@ -3520,7 +3520,6 @@
 - [ared469/garak](https://github.com/ared469/garak) - the LLM vulnerability scanner
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [NIRVANALAN/GaussianAnything](https://github.com/NIRVANALAN/GaussianAnything) - High-quality and editable surfel 3D Gaussian generation through native 3D diffusion (ICLR 2025)
-- [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [damozhang/awesome-ios-star](https://github.com/damozhang/awesome-ios-star) - All data is from https://github.com/vsouza/awesome-ios. Only the GitHub star count is added to this list.  Update weekly.
 - [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
@@ -4194,7 +4193,6 @@
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) - Run Ubuntu GUI on your termux with much features.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-- [BashScripts-com/bashscripts](https://github.com/BashScripts-com/bashscripts) - Bash scripts for networking, devops, monitoring, security, installation, and other Linux/CLI things.
 - [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy) - Automated WPA/WPA2 PSK attack tool.
 - [cloudposse/packages](https://github.com/cloudposse/packages) - 🏗️ Linux packages for popular DevOps tools. Supports Ubuntu, CentOS, and Alpine.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
@@ -4623,7 +4621,7 @@
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
-- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
+- [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
@@ -4739,6 +4737,7 @@
 
 ## YARA 
 
+- [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
 - [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) - ReversingLabs YARA Rules
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 - [qwqdanchun/DefenderYara](https://github.com/qwqdanchun/DefenderYara) - Extracted Yara rules from Defender mpavbase.vdm and mpasbase
