@@ -384,7 +384,7 @@
 - [EliotVU/Unreal-Library](https://github.com/EliotVU/Unreal-Library) - UnrealScript decompiler library for Unreal package files (.upk, .u, .uasset; etc), with support for Unreal Engine 1, 2, and 3
 - [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 - [StevenRice99/Unity-Tutorials](https://github.com/StevenRice99/Unity-Tutorials) - Samples from the slides for CSSE-4900 Game Design, Development, and Tools.
-- [learning-game-development/learning-unity-game-development](https://github.com/learning-game-development/learning-unity-game-development) - Projects, samples and templates created to learn game development with Unity
+- [learning-game-development/learning-unity-game-development-old](https://github.com/learning-game-development/learning-unity-game-development-old) - Projects, samples and templates created to learn game development with Unity
 - [No78Vino/gameplay-ability-system-for-unity](https://github.com/No78Vino/gameplay-ability-system-for-unity) - Gameplay-Ability-System For Unity
 - [microdee/Nuke.Unreal](https://github.com/microdee/Nuke.Unreal) - Automate Unreal tasks in style with Nuke and C#
 - [andydbc/unity-texture-packer](https://github.com/andydbc/unity-texture-packer) - :hammer: Utility to combine color channels from different textures into a single output.
@@ -1403,7 +1403,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -1619,7 +1618,7 @@
 - [capJavert/fight-club](https://github.com/capJavert/fight-club) - HTML5 powered Multiplayer Fighter game.
 - [Soft8Soft/threejs-blender-template](https://github.com/Soft8Soft/threejs-blender-template) - Starter project for creating WebGL apps with Blender and Three.js
 - [codetiger/Font23D](https://github.com/codetiger/Font23D) - Convert any text to a 3d mesh using any font style
-- [yushiang-demo/pano-to-mesh](https://github.com/yushiang-demo/pano-to-mesh) - Panorama layout editor for creating 3D mesh from scratch.
+- [tsengyushiang/pano-to-mesh](https://github.com/tsengyushiang/pano-to-mesh) - Panorama layout editor for creating 3D mesh from scratch.
 - [sibaturaspirman/facefilter-blinkrunninggame](https://github.com/sibaturaspirman/facefilter-blinkrunninggame) - Face Filter - Blink Running Game with AR Spark Studio
 - [nitin42/react-text-fun](https://github.com/nitin42/react-text-fun) - React meets Blotter.js
 - [jasonwebb/2d-diffusion-limited-aggregation-experiments](https://github.com/jasonwebb/2d-diffusion-limited-aggregation-experiments) - Visual experiments exploring diffusion-limited aggregation (DLA) as a 2D morphogenesis tool.
@@ -1861,6 +1860,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [brendankenny/call-trace](https://github.com/brendankenny/call-trace) - 
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -1980,7 +1980,7 @@
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display diagnostic messages where the cursor is, with icons and colors.
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
-- [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
+- [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.
 - [deathbeam/dotfiles](https://github.com/deathbeam/dotfiles) - My awesome dotfiles :rocket:
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [vanillaiice/flappybird-love2d](https://github.com/vanillaiice/flappybird-love2d) - Flappy Bird clone with Lua and LÖVE2D
@@ -4216,6 +4216,7 @@
 
 ## Rust 
 
+- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [AlbanDAVID/Toutui](https://github.com/AlbanDAVID/Toutui) - 🦜 Toutui is a TUI Audiobookshelf client for Linux.
 - [omid/awesome-persian-youtubers](https://github.com/omid/awesome-persian-youtubers) - لیست یوتیوبرهای فارسی‌زبان
@@ -4628,7 +4629,7 @@
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
-- [hantang/latex-templates](https://github.com/hantang/latex-templates) - A collection of awesome LaTeX Thesis/Dissertation templates and beyond! （LaTeX / Word / Typst / Markdown 格式的学位论文、演示文稿、报告、项目申请书、简历、书籍等模板收藏）
+- [hantang/latex-templates](https://github.com/hantang/latex-templates) - A collection of awesome LaTeX Thesis/Dissertation templates and beyond! //（LaTeX / Word / Typst / Markdown 格式的学位论文、演示文稿、报告、项目申请书、简历、书籍等模板收藏）
 - [applied-bioinformatics/iab2](https://github.com/applied-bioinformatics/iab2) - An Introduction to Applied Bioinformatics, 2nd Edition
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 - [fabriziomiano/tex-cv](https://github.com/fabriziomiano/tex-cv) - My CV in LaTeX
