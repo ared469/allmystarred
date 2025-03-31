@@ -16,11 +16,13 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [CUE](#cue)
 - [Classic ASP](#classic-asp)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Common Workflow Language](#common-workflow-language)
 - [Crystal](#crystal)
 - [Cuda](#cuda)
 - [Dart](#dart)
@@ -155,6 +157,8 @@
 
 ## C 
 
+- [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+- [t00sh/elf-poison](https://github.com/t00sh/elf-poison) - Proof Of Concept for inserting code in ELF binaries.
 - [vinz9/CudaSortTOP](https://github.com/vinz9/CudaSortTOP) - TouchDesigner TOP wrapper for Cuda Thrust sort_by_key function
 - [JosefPelz/ISF_TouchDesigner](https://github.com/JosefPelz/ISF_TouchDesigner) - real-time implementation of Incompressible Schrödinger Flow in TouchDesigner
 - [ared469/zlib](https://github.com/ared469/zlib) - A massively spiffy yet delicately unobtrusive compression library.
@@ -318,6 +322,8 @@
 
 ## C# # 
 
+- [justinpbarnett/unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
+- [ryholmdahl/vibe-gamedev](https://github.com/ryholmdahl/vibe-gamedev) - A tool for vibecoding in Unity.
 - [seansirota/Genetics-Simulation](https://github.com/seansirota/Genetics-Simulation) - This is my genetics simulation project which simulates various concepts of genetics and reproduction
 - [ddoak/peppy](https://github.com/ddoak/peppy) - A VR app which allows creation and manipulation of dynamic models of polypeptides. Focus is fun and learning.
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
@@ -759,8 +765,13 @@
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
+## CMake 
+
+- [WerWolv/ImHex-Plugin-Template](https://github.com/WerWolv/ImHex-Plugin-Template) - 
+
 ## CSS 
 
+- [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [KawaiiHannah/pixel-character](https://github.com/KawaiiHannah/pixel-character) - A pixel art character generator that delivers in under 10kb
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
@@ -806,6 +817,10 @@
 ## CoffeeScript 
 
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
+
+## Common Workflow Language 
+
+- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text
 
 ## Crystal 
 
@@ -1085,6 +1100,10 @@
 
 ## Go 
 
+- [iudicium/pryingdeep](https://github.com/iudicium/pryingdeep) - Prying Deep - An OSINT tool to collect intelligence on the dark web.
+- [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+- [digitalghost-dev/poke-cli](https://github.com/digitalghost-dev/poke-cli) - A hybrid CLI/TUI tool written in Go for viewing Pokémon data from the terminal!
+- [tuxx/fancylock](https://github.com/tuxx/fancylock) - Screenlock utility to play videos or show images for linux.
 - [c3l3si4n/pugdns](https://github.com/c3l3si4n/pugdns) - An experimental high-performance DNS query bruteforce tool built with AF_XDP for extremely fast and accurate bulk DNS lookups.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
 - [fogleman/ribbon](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in #golang.
@@ -1220,7 +1239,7 @@
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and 
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
@@ -1309,6 +1328,9 @@
 
 ## HTML 
 
+- [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+- [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
+- [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版
 - [Avogadro/avogadro.cc](https://github.com/Avogadro/avogadro.cc) - The Avogadro website
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
@@ -1454,6 +1476,7 @@
 
 ## Haskell 
 
+- [hzlmn/haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Huge list of  videos, talks, courses for Haskell programming language.
 - [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
 - [silky/awesome-open-science](https://github.com/silky/awesome-open-science) - some links to projects/tools related to "open science".
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -1466,6 +1489,7 @@
 
 ## Java 
 
+- [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [Chlanda-Lab/cryoCLEM](https://github.com/Chlanda-Lab/cryoCLEM) - Toolbox for post-correlation cryo-CLEM workflow developed at Chlanda Lab, Heidelberg University.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [stipple-effect/stipple-effect](https://github.com/stipple-effect/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
@@ -1549,6 +1573,9 @@
 
 ## JavaScript 
 
+- [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
+- [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn) - tiny directory of tech blogs
+- [simplefastfunnels254/tg-cybersec](https://github.com/simplefastfunnels254/tg-cybersec) - Telegram cybersecurity channels
 - [tonypan2/minesweeper-mcp-server](https://github.com/tonypan2/minesweeper-mcp-server) - An MCP server for playing Minesweeper
 - [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
 - [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
@@ -1942,6 +1969,9 @@
 
 ## Jupyter Notebook 
 
+- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+- [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
+- [kingridda/voice-cloning-AI](https://github.com/kingridda/voice-cloning-AI) - Voice cloning AI (deepfake for voice). Using cloned voice from only 5-10 seconds of targeted voice.
 - [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Practical Cheminformatics Tutorials
 - [samberry19/evcomplex-interaction-scoring](https://github.com/samberry19/evcomplex-interaction-scoring) - Code for using EVcomplex to generate "interaction scores" for individual sequences in a multiple sequence alignment.
 - [avaamini/protease_activity_analysis](https://github.com/avaamini/protease_activity_analysis) - Python toolkit and package for analyzing enzyme activity data
@@ -2019,6 +2049,7 @@
 
 ## Kotlin 
 
+- [androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
 - [EmergeTools/hackernews](https://github.com/EmergeTools/hackernews) - A simple Hackernews client for Android and iOS
 - [waifu-motivator/waifu-motivator-plugin](https://github.com/waifu-motivator/waifu-motivator-plugin) - OSS Waifu Motivator Plugin for JetBrains IDEs to help boost your motivation while coding!
 - [feelfreelinux/octo4a](https://github.com/feelfreelinux/octo4a) - Use your old Android device as an OctoPrint server.
@@ -2086,6 +2117,7 @@
 
 ## Markdown 
 
+- [hyperupcall/awesome-mastodon](https://github.com/hyperupcall/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [MrRobinOfficial/Guide-UnrealEngine](https://github.com/MrRobinOfficial/Guide-UnrealEngine) - This repository is designed to help developers learn how to get started with Unreal Engine and C++.
@@ -2142,6 +2174,87 @@
 
 ## Others 
 
+- [lookr-fyi/job-application-bot-by-ollama-ai](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai) - JobHuntr.fyi is a native macOS desktop app that uses Ollama-powered AI to apply for jobs on LinkedIn—automatically, 24/7. No OpenAI API key required.
+- [Daisy-Zhang/Awesome-Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes) - A list of datasets, tools, papers and code related to Deepfakes.
+- [dootss/shodan-dorks](https://github.com/dootss/shodan-dorks) - An auto-updating list of shodan dorks with info on the amount of results they return!
+- [0xPugal/Awesome-Dorks](https://github.com/0xPugal/Awesome-Dorks) - Dorks for Bug Bounty Hunting
+- [humblelad/Shodan-Dorks](https://github.com/humblelad/Shodan-Dorks) - Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.
+- [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
+- [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
+- [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
+- [ivbeg/awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) - Awesome list of digital forensic tools
+- [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) - collect all  awesome about IT
+- [guardrailsio/awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security) - Awesome .NET Security Resources
+- [ReversingID/Awesome-Reversing](https://github.com/ReversingID/Awesome-Reversing) - A curated list of awesome reverse engineering resources for various topics
+- [learn-anything/blogs](https://github.com/learn-anything/blogs) - Awesome Blogs
+- [phmullins/awesome-macos-commandline](https://github.com/phmullins/awesome-macos-commandline) - A curated list of awesome command-line software for macOS.
+- [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) - Collect libraries and packages about cryptography in Rust.
+- [mxm0z/awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing) - Collection of awesome resources on intelligence writing, including manuals/guides, standards, books, tranings, articles, videos, etc
+- [craftcms/awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
+- [AccordBox/awesome-scrapy](https://github.com/AccordBox/awesome-scrapy) - A curated list of awesome packages, articles, and other cool resources from the Scrapy community.
+- [matiasmascioto/awesome-soccer-analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) - :soccer::chart_with_upwards_trend: A curated list of awesome resources related to Soccer Analytics.
+- [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
+- [BretFisher/awesome-swarm](https://github.com/BretFisher/awesome-swarm) - All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)
+- [marcosValle/awesome-windows-red-team](https://github.com/marcosValle/awesome-windows-red-team) - A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams
+- [showlab/Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) - 💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.
+- [stratosphereips/awesome-ml-privacy-attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks) - An awesome list of papers on privacy attacks against machine learning
+- [Funkmyster/awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) - A curated list of awesome cloud security blogs, podcasts, standards, projects, and examples.
+- [smashism/awesome-macadmin-tools](https://github.com/smashism/awesome-macadmin-tools) - 🕶 Awesome Mac Admin Tools list
+- [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
+- [re50urces/Awesome-AI](https://github.com/re50urces/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
+- [puresec/awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+- [3DFaceBody/awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers) - 😎Awesome list of papers about 3D body
+- [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
+- [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
+- [gmh5225/awesome-llvm-security](https://github.com/gmh5225/awesome-llvm-security) - awesome llvm security [Welcome to PR]
+- [wsxiaoys/awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding) - Awesome AI Coding
+- [krantiparida/awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual) - A curated list of different papers and datasets in various areas of audio-visual processing
+- [nepaul/awesome-flutter](https://github.com/nepaul/awesome-flutter) - 💗 A curated list of awesome Flutter libraries, tools, tutorials, articles and more.. All you should know about Flutter development!
+- [simoninithomas/awesome-ai-tools-for-game-dev](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev) - A curated list of awesome AI tools for game developers
+- [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap-projects
+- [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
+- [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
+- [gaerae/awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) - A curated list to learning and practicing about algorithm.
+- [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
+- [ctreffs/xcode-defaults](https://github.com/ctreffs/xcode-defaults) - Awesome and useful Xcode defaults
+- [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
+- [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) - An awesome curated knowledge-base about atomic systems
+- [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
+- [tnfe/awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic) - 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺
+- [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
+- [trycua/acu](https://github.com/trycua/acu) - A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
+- [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
+- [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
+- [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
+- [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
+- [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
+- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
+- [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
+- [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
+- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
+- [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
+- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
+- [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
+- [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
+- [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) - Awesome list of computational biology.
+- [cenoura/awesome-ads](https://github.com/cenoura/awesome-ads) - A curated list of awesome advertising content, resources and libraries.
+- [ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) - A curated list of host-parasite information
+- [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
+- [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
+- [YSGStudyHards/Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 🛠Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
+- [jameswlane/stars](https://github.com/jameswlane/stars) - A curated list of my GitHub stars
+- [Correia-jpv/fucking-awesome-android](https://github.com/Correia-jpv/fucking-awesome-android) - A curated list of awesome Android packages and resources. With repository stars⭐ and forks🍴
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [xjorma/TouchDesignerShare](https://github.com/xjorma/TouchDesignerShare) - Touchdesigner projects I decided to share with the community
 - [tgreiser/etherdream-touch-designer](https://github.com/tgreiser/etherdream-touch-designer) - Laser control code and examples for EtherDream and TouchDesigner
 - [L05/TouchDesigner](https://github.com/L05/TouchDesigner) - A collection of TouchDesigner tools and examples.
@@ -2501,7 +2614,7 @@
 - [Correia-jpv/fucking-awesome](https://github.com/Correia-jpv/fucking-awesome) - 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [sechelper/awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家
-- [gravitygamesinc/game-dev-news](https://github.com/gravitygamesinc/game-dev-news) - Curated list of gaming forums and news sources to keep you updated on industry trends, discussions, and developments.
+- [teamgravitydev/game-dev-news](https://github.com/teamgravitydev/game-dev-news) - Curated list of gaming forums and news sources to keep you updated on industry trends, discussions, and developments.
 - [OshekharO/awesome-entertainment](https://github.com/OshekharO/awesome-entertainment) - List of awesome apps and website for entertainment.
 - [next-dev-team/awesome-front-end](https://github.com/next-dev-team/awesome-front-end) - 
 - [janesmae/awesome-drones](https://github.com/janesmae/awesome-drones) - A curated list of Awesome Drones resources
@@ -2838,7 +2951,6 @@
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [hoya012/awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources
 - [talsec/Free-RASP-Community](https://github.com/talsec/Free-RASP-Community) - SDK providing app protection and threat monitoring for mobile devices. Works with Flutter, React Native, Android and iOS. Shield your app with free RASP. Detect reverse engineering, root (Magisk), jai
-- [casterbyte/NetworkNightmare](https://github.com/casterbyte/NetworkNightmare) - Network Pentesting Mindmap
 - [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -3173,6 +3285,36 @@
 
 ## Python 
 
+- [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
+- [azmenak/InfiniteYou](https://github.com/azmenak/InfiniteYou) - 🔥 InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
+- [sliday/resume-job-matcher](https://github.com/sliday/resume-job-matcher) - AI-powered Python script for automated resume-job matching with scoring, PDF generation, and personalized email responses.
+- [sahilg06/EmoGen](https://github.com/sahilg06/EmoGen) - PyTorch Implementation for Paper "Emotionally Enhanced Talking Face Generation" (ICCVW'23 and ACM-MMW'23)
+- [natanielruiz/disrupting-deepfakes](https://github.com/natanielruiz/disrupting-deepfakes) - 🔥🔥Defending Against Deepfakes Using Adversarial Attacks on Conditional Image Translation Networks
+- [EndlessSora/DeeperForensics-1.0](https://github.com/EndlessSora/DeeperForensics-1.0) - [CVPR 2020] A Large-Scale Dataset for Real-World Face Forgery Detection
+- [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
+- [xaviviro/refacer](https://github.com/xaviviro/refacer) - Refacer: One-Click Deepfake Multi-Face Swap Tool
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+- [SBCV/Blender-Addon-Photogrammetry-Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Addon to import different photogrammetry formats into Blender
+- [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy importer for Blender
+- [the3dadvantage/Modeling-Cloth-2_8](https://github.com/the3dadvantage/Modeling-Cloth-2_8) - New modeling Cloth tools
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [ai-forever/ghost](https://github.com/ai-forever/ghost) - A new one shot face swap approach for image and video domains
+- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
+- [cyberpunkOS/CyberPunkOS](https://github.com/cyberpunkOS/CyberPunkOS) - CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News
+- [HackUnderway/WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT) - View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂️
+- [HackUnderway/OsintNum](https://github.com/HackUnderway/OsintNum) - Tool to make OSINT to phone numbers with the help of APILayer, using its api together with Number Verification API. 🕵🏽‍♂️
+- [awake1t/Awesome-hacking-tools](https://github.com/awake1t/Awesome-hacking-tools) - 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助
+- [progrmoiz/python-snippets](https://github.com/progrmoiz/python-snippets) - :100: The most useful python snippets
+- [curieuxjy/Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) - Awesome Quadrupedal Robots
+- [hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
+- [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+- [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
+- [XiaomingX/indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) - 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools wid
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [tznurmin/TEA](https://github.com/tznurmin/TEA) - Taxonomic Entity Augmentation makes biomedical texts less repetitive
 - [teomotun/LAMMPS-Water-Methanol-Simulation](https://github.com/teomotun/LAMMPS-Water-Methanol-Simulation) - Molecular Dynamics Simulation of Water-Methanol Mixture to determine physical properties like self-diffusion coefficient, density and shear viscosity for a system consisting of 216 molecules of water 
 - [Avogadro/two.avogadro.cc](https://github.com/Avogadro/two.avogadro.cc) - Documentation and development website for Avogadro2
@@ -3299,7 +3441,6 @@
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [makehumancommunity/makehuman](https://github.com/makehumancommunity/makehuman) - This is the main repository for the MakeHuman application as such.
 - [LaTeXing/LaTeXing](https://github.com/LaTeXing/LaTeXing) - LaTeXing - Professional Typesetting - An extension for Sublime Text which makes your life  easier and more comfortable while creating your documents.
-- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text
 - [vanvalenlab/deepcell-tf](https://github.com/vanvalenlab/deepcell-tf) - Deep Learning Library for Single Cell Analysis
 - [pH-7/Download-Simply-Videos-From-YouTube](https://github.com/pH-7/Download-Simply-Videos-From-YouTube) - Allows you to download and save very easily any of your favorite videos and entire playlists from YouTube. All you need to do is just run this Python script and follow the prompt :)
 - [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file
@@ -3739,7 +3880,7 @@
 - [oanegros/MicroscopyNodes](https://github.com/oanegros/MicroscopyNodes) - Loading and handling microscopy data in blender
 - [specklesystems/speckle-blender](https://github.com/specklesystems/speckle-blender) - 
 - [maqq1e/CustomScriptManager](https://github.com/maqq1e/CustomScriptManager) - Easy way to control your custom python script and N-Panel extensions. No need to always load scripts in blender or creating separated junk addons. Only one addon for control all of them.
-- [Tams3d/T3D-GN-Presets](https://github.com/Tams3d/T3D-GN-Presets) - A Collection of Incredibly useful nodes for Geometry Nodes - Blender 4.3 & below.
+- [Tams3d/T3D-GN-Presets](https://github.com/Tams3d/T3D-GN-Presets) - A Collection of Incredibly useful nodes for Geometry Nodes - Blender
 - [enenra/space-engineers-utilities](https://github.com/enenra/space-engineers-utilities) - A Blender 4.0+ addon to streamline working on assets for Space Engineers.
 - [soupday/cc_blender_tools](https://github.com/soupday/cc_blender_tools) - Add-on for Blender, for importing and auto-setup of character creator 3 & 4 and iClone 7 & 8 character exports into Blender.
 - [CGCookie/retopoflow](https://github.com/CGCookie/retopoflow) - A suite of retopology tools for Blender
@@ -3886,7 +4027,7 @@
 - [Dene33/blender_jarvis](https://github.com/Dene33/blender_jarvis) - Control Blender through text prompts with help of ChatGPT
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [scorpion81/Blender-Molecular-Script](https://github.com/scorpion81/Blender-Molecular-Script) - This is the molecular python script for blender, originally coded by Pyroevil.  A bit similar to Lagoa Multiphysic in Softimage.
 - [microsoft/AirSim-NeurIPS2019-Drone-Racing](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing) - Drone Racing @ NeurIPS 2019, built on Microsoft AirSim
 - [Jim-Kroovy/Mr-Mannequins-Tools](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools) - Read the wiki installation instructions for sublime character rigging, intuitive Blender imports and easy Unreal exports!
@@ -4317,6 +4458,7 @@
 
 ## R 
 
+- [birdflow-science/BirdFlowR](https://github.com/birdflow-science/BirdFlowR) - BirdFlow R Package
 - [rstudio/gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
 - [ropensci/webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web
 - [r-barnes/webglobe](https://github.com/r-barnes/webglobe) - 3D globe visualization for R
@@ -4324,6 +4466,9 @@
 
 ## Ruby 
 
+- [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
+- [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
+- [cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:
 - [adenta/fire_red_agent](https://github.com/adenta/fire_red_agent) - 
 - [nekolr/awesome-collections](https://github.com/nekolr/awesome-collections) - ❤️ Collections
 - [thegeeklab/homebrew-tap](https://github.com/thegeeklab/homebrew-tap) - Homebrew Tap of Geeklab tools
@@ -4367,6 +4512,7 @@
 
 ## Rust 
 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [smparsons/retroboy](https://github.com/smparsons/retroboy) - A Game Boy emulator written in Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
@@ -4522,6 +4668,9 @@
 
 ## Shell 
 
+- [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [sroberts/awesome-iocs](https://github.com/sroberts/awesome-iocs) - A collection of sources of indicators of compromise.
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
@@ -4558,12 +4707,12 @@
 - [Cod3r-Ak/TermuX-Custom](https://github.com/Cod3r-Ak/TermuX-Custom) - TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [gavinlyonsrepo/bashmultitool](https://github.com/gavinlyonsrepo/bashmultitool) - A library  for bash shell scripting containing useful  helper functions.
-- [themanyone/voice_typing](https://github.com/themanyone/voice_typing) - State-of-the-art voice typing everywhere + txt terminals (Linux or WFL sesson on Windows.) with a simple bash script. Usable with X. Does not require X.
+- [themanyone/voice_typing](https://github.com/themanyone/voice_typing) - State-of-the-art offline voice typing everywhere + txt terminals (Linux or WFL sesson on Windows.) with a simple bash script. Usable with X. Does not require X.
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
 - [Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴
 - [homelab-alpha/shell-script](https://github.com/homelab-alpha/shell-script) - Unlock the power of shell scripting to simplify complex tasks, automate processes, enhance efficiency, and boost productivity.
 - [isqua/bureau](https://github.com/isqua/bureau) - 🚀 Informative and fast ZSH prompt with git status. Works well with HUGE repositories. Show username, hostname, path, git branch and status.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
@@ -4736,6 +4885,9 @@
 
 ## Swift 
 
+- [carekit-apple/CareKit](https://github.com/carekit-apple/CareKit) - CareKit is an open source software framework for creating apps that help people better understand and manage their health.
+- [Toni77777/awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - :rocket: Awesome SwiftUI Libraries
+- [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
@@ -4781,7 +4933,7 @@
 
 ## TeX 
 
-- [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed) - A slide-based tool for fast sketching and animating ideas (powered by Excalidraw)
+- [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed) - a slide-based tool for creating stop motion animations and slides with Excalidraw
 - [dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code) - latex code from my first year of engineering.
 - [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX.
 - [davecap/markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
@@ -4804,7 +4956,12 @@
 
 ## TypeScript 
 
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
+- [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective.
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+- [martin226/vibe-draw](https://github.com/martin226/vibe-draw) - 🎨 Turn your roughest sketches into stunning 3D worlds by vibe drawing
+- [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - Excalidraw fork that helps in making presentations with smart animations
+- [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - Learn Japanese grammar with TypeScript
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [xaya1001/obsidian-Chemical-Structure-Renderer](https://github.com/xaya1001/obsidian-Chemical-Structure-Renderer) - Render chemical structures from SMILES strings into PNG or SVG format using Ketcher and Indigo Service.
 - [Acylation/obsidian-chem](https://github.com/Acylation/obsidian-chem) - Chemistry support for Obsidian. Rendering SMILES strings into chemistry structures.
@@ -4981,7 +5138,7 @@
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) - This is a place where I post sketches, experiments and the like based on Three.js
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [arthuro555/THNK](https://github.com/arthuro555/THNK) - An authoritative multiplayer games framework for GDevelop.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
