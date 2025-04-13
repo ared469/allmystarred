@@ -70,6 +70,7 @@
 - [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -300,7 +301,7 @@
 - [collidingScopes/red-panda-vibes](https://github.com/collidingScopes/red-panda-vibes) - 3D red panda exploration game -- open source web game built with three.js
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [fogleman/ribbon](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in #golang.
-- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
+- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [gdquest-demos/godot-4-3D-Characters](https://github.com/gdquest-demos/godot-4-3D-Characters) - Beautiful 3D animated game characters for the Godot game engine, ready to drag and drop into your projects
@@ -425,7 +426,8 @@
 
 ## ai 
 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [runablehq/mobile-mcp](https://github.com/runablehq/mobile-mcp) - A Model Context Protocol (MCP) server that provides mobile automation capabilities.
 - [razbakov/ai-secretary](https://github.com/razbakov/ai-secretary) - AI-First Organization
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -435,6 +437,7 @@
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [xaviviro/refacer](https://github.com/xaviviro/refacer) - Refacer: One-Click Deepfake Multi-Face Swap Tool
 - [re50urces/Awesome-AI](https://github.com/re50urces/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
+- [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [wsxiaoys/awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding) - Awesome AI Coding
 - [simoninithomas/awesome-ai-tools-for-game-dev](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev) - A curated list of awesome AI tools for game developers
 - [trycua/acu](https://github.com/trycua/acu) - A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
@@ -547,7 +550,7 @@
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
 - [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) - A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
 - [mika314/UELlama](https://github.com/mika314/UELlama) - Llama plugin for Unreal Engine 5
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
@@ -656,7 +659,6 @@
 - [Correia-jpv/fucking-awesome-android](https://github.com/Correia-jpv/fucking-awesome-android) - A curated list of awesome Android packages and resources. With repository stars⭐ and forks🍴
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [feelfreelinux/octo4a](https://github.com/feelfreelinux/octo4a) - Use your old Android device as an OctoPrint server.
 - [Zian25/UniTools-Termux](https://github.com/Zian25/UniTools-Termux) - Instalador hacking para termux
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
@@ -1042,7 +1044,6 @@
 - [smashism/awesome-macadmin-tools](https://github.com/smashism/awesome-macadmin-tools) - 🕶 Awesome Mac Admin Tools list
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [re50urces/Awesome-AI](https://github.com/re50urces/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
-- [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [puresec/awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 - [3DFaceBody/awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers) - 😎Awesome list of papers about 3D body
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
@@ -1346,7 +1347,7 @@
 - [Correia-jpv/fucking-awesome-pentest](https://github.com/Correia-jpv/fucking-awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things. With repository stars⭐ and forks🍴
 - [developer-sumit/awesome-software-licenses](https://github.com/developer-sumit/awesome-software-licenses) - A comprehensive guide to understanding various open-source licenses. This repository explains the terms and conditions of each license, helping developers make informed decisions when using, modifying
 - [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
-- [blefnk/awesome](https://github.com/blefnk/awesome) - ✨ A large number of GitHub repos on all kinds of interesting topics, which @blefnk  considers awesome, have been starred and recommended to everyone, especially the @reliverse community. The current c
+- [blefnk/awesome-github-repos](https://github.com/blefnk/awesome-github-repos) - ✨ A large number of GitHub repos on all kinds of interesting topics, which @blefnk  considers awesome, have been starred and recommended to everyone. The current collection contains over 1700 really c
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [Kiran1689/kiran1689](https://github.com/Kiran1689/kiran1689) - Dynamic readme profile template. Do not just fork, Give Star too :)
 - [aldi/bulma-login-template](https://github.com/aldi/bulma-login-template) - Bulma Login Template designed using Bulma CSS Framework
@@ -1890,7 +1891,6 @@
 - [smashism/awesome-macadmin-tools](https://github.com/smashism/awesome-macadmin-tools) - 🕶 Awesome Mac Admin Tools list
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [re50urces/Awesome-AI](https://github.com/re50urces/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
-- [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [3DFaceBody/awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers) - 😎Awesome list of papers about 3D body
 - [wsxiaoys/awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding) - Awesome AI Coding
 - [krantiparida/awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual) - A curated list of different papers and datasets in various areas of audio-visual processing
@@ -3045,6 +3045,7 @@
 
 ## chatgpt 
 
+- [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Reasoning in LLMs: Papers and Resources, including Chain-of-Thought, OpenAI o1, and DeepSeek-R1 🍓
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
@@ -3416,7 +3417,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -3622,7 +3623,7 @@
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [RahulChandra99/recreate-climbing-mechanics-cpp](https://github.com/RahulChandra99/recreate-climbing-mechanics-cpp) - Recreating the Climbing Mechanics using C++ in UE5
+- [RahulChandra99/recreate-climbing-mechanics-cpp](https://github.com/RahulChandra99/recreate-climbing-mechanics-cpp) - parkour, climbing
 - [dsavosin/SimpleGAS](https://github.com/dsavosin/SimpleGAS) - A SimpleGAS is a set of tutorials for entry-level Unreal Engine enthusiasts who wants to leverage the power of the Gameplay Ability System in their prototypes with minimum C++ setup and focus on creat
 - [m-abdullahabid/Gameplay-Ability-System](https://github.com/m-abdullahabid/Gameplay-Ability-System) - The Gameplay Ability System is a powerful framework designed for handling complex gameplay mechanics, including character abilities, buffs, debuffs, and more. It offers a flexible and data-driven appr
 - [Venage5603/Tokyo-Night-Dark-Enhanced](https://github.com/Venage5603/Tokyo-Night-Dark-Enhanced) - an edit of tokyo night dark with some small changes and additions
@@ -3812,7 +3813,7 @@
 ## cybersecurity 
 
 - [firetix/vibe-coding-penetration-tester](https://github.com/firetix/vibe-coding-penetration-tester) - Vibe Coding? Cool story. But your vibe might be "security breach waiting to happen." Introducing VibePenTester, the AI pen-tester who rolls its eyes at your half-baked code, discovers your vulnerabili
-- [clickswave/voyage](https://github.com/clickswave/voyage) - Stateful subdomain enumeration toolkit
+- [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance
 - [dootss/shodan-dorks](https://github.com/dootss/shodan-dorks) - An auto-updating list of shodan dorks with info on the amount of results they return!
 - [humblelad/Shodan-Dorks](https://github.com/humblelad/Shodan-Dorks) - Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -3920,7 +3921,6 @@
 ## dart 
 
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
@@ -4314,6 +4314,29 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
+## development 
+
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+- [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [gaerae/awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) - A curated list to learning and practicing about algorithm.
+- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning.
+- [Chrismettal/flipper-zero-backpacks](https://github.com/Chrismettal/flipper-zero-backpacks) - Backpack-style addon boards for the Flipper Zero!
+- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
+- [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
+- [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [pamepeixinho/awesome-list-dev-memes](https://github.com/pamepeixinho/awesome-list-dev-memes) - A dev memes awesome list (including PRs memes to approve/comment and request changes)
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
 ## devops 
 
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -4498,7 +4521,6 @@
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [khast3x/Redcloud](https://github.com/khast3x/Redcloud) - Automated Red Team Infrastructure deployement using Docker
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
@@ -4801,7 +4823,7 @@
 
 ## firefox 
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into web documents.
@@ -4845,7 +4867,6 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [nepaul/awesome-flutter](https://github.com/nepaul/awesome-flutter) - 💗 A curated list of awesome Flutter libraries, tools, tutorials, articles and more.. All you should know about Flutter development!
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
@@ -4917,7 +4938,7 @@
 - [Correia-jpv/fucking-awesome-web-effect](https://github.com/Correia-jpv/fucking-awesome-web-effect) - A series of exquisite and compact web page cool effects. With repository stars⭐ and forks🍴
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
 - [Mountea-Framework/MounteaInventoryEquipment](https://github.com/Mountea-Framework/MounteaInventoryEquipment) - Mountea Inventory & Equipment is an Open-source Mountea Framework components based simple framework allowing you to construct Inventory systems fast, easily and with advanced options.
 - [Mountea-Framework/MounteaDialogueSystem](https://github.com/Mountea-Framework/MounteaDialogueSystem) - Mountea Dialogue System is an Open-source Mountea Framework tool for Unreal Engine for creating (not just) complex dialogues! Provides its own Dialogue Tree editor and validation system.
 - [Mountea-Framework/MounteaInteractionSystem](https://github.com/Mountea-Framework/MounteaInteractionSystem) - Open-source components based tool for smart Actor Interaction with other Actors. Developed with Designers in mind to allow you as easy as possible implementation while maintaining high scalability and
@@ -5483,7 +5504,7 @@
 
 ## git 
 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
@@ -5513,7 +5534,6 @@
 
 ## github 
 
-- [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [XiaomingX/indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) - 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools wid
 - [0xvashishth/CalcHub](https://github.com/0xvashishth/CalcHub) - 🚀 A curated collection of calculators for various aspects of mathematics. Anyone with a little understanding of web development may design a unique calculator and make a pull.
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
@@ -5581,7 +5601,7 @@
 - [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) - collect all  awesome about IT
 - [digitalghost-dev/poke-cli](https://github.com/digitalghost-dev/poke-cli) - A hybrid CLI/TUI tool written in Go for viewing Pokémon data from the terminal!
 - [fogleman/ribbon](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in #golang.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
@@ -5661,7 +5681,7 @@
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -5922,7 +5942,7 @@
 - [elva-labs/awsesh](https://github.com/elva-labs/awsesh) - A charming TUI for AWS SSO session management ✨
 - [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [Kaamkiya/gg](https://github.com/Kaamkiya/gg) - :space_invader: Games you can play in your terminal written in Go
@@ -6024,7 +6044,7 @@
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
@@ -7093,7 +7113,6 @@
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [Correia-jpv/fucking-awesome-ios-ui](https://github.com/Correia-jpv/fucking-awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries. With repository stars⭐ and forks🍴
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
@@ -7824,13 +7843,12 @@
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [tasdikrahman/spaceShooter](https://github.com/tasdikrahman/spaceShooter) - :video_game: The classic retro game recreated using Pygame and python
 - [Xaviertya/.dotfiles](https://github.com/Xaviertya/.dotfiles) - $HOME/.dotfiles Includes configs for neovim, tmux, and zsh
 - [Akzestia/waifu-colorscripts](https://github.com/Akzestia/waifu-colorscripts) - Adds anime Waifu to your terminal ^_^
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5 & 3).
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
@@ -7842,7 +7860,7 @@
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 - [SHROUDSOURAV/Linux-Essentials-for-Hackers](https://github.com/SHROUDSOURAV/Linux-Essentials-for-Hackers) - This repository will contain Linux basic commands which is going to help the user navigate and learn how to use the linux efficiently
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image rendering support
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) - Run Ubuntu GUI on your termux with much features.
@@ -8041,7 +8059,7 @@
 
 ## llm 
 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [CartographAI/atlas-docs-mcp](https://github.com/CartographAI/atlas-docs-mcp) - Provide LLMs hosted, clean markdown documentation of libraries and frameworks
 - [runablehq/mobile-mcp](https://github.com/runablehq/mobile-mcp) - A Model Context Protocol (MCP) server that provides mobile automation capabilities.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -8062,7 +8080,7 @@
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -8249,7 +8267,7 @@
 - [diegoinacio/creative-coding-notebooks](https://github.com/diegoinacio/creative-coding-notebooks) - 🎨 An authorial set of fundamental Python recipes on Creative Coding and Computer Art.
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [siapy/siapy-lib](https://github.com/siapy/siapy-lib) - 🖼️ A tool for efficient processing of spectral images with Python.
+- [siapy/siapy-lib](https://github.com/siapy/siapy-lib) - 🖼️ A Python package for efficient processing of spectral images
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
@@ -8384,7 +8402,6 @@
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player.
@@ -8749,7 +8766,7 @@
 
 ## nextjs 
 
-- [blefnk/relirules](https://github.com/blefnk/relirules) - ❇️ Neatly composed rules for AI LLMs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
+- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ Neatly composed rules for AI LLMs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free, Open-Source Invoice PDF Generator – Live Preview, Runs in Your Browser, No Sign-Up
@@ -8774,7 +8791,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 ## nim 
 
@@ -8837,7 +8854,6 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -8912,7 +8928,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 
@@ -8985,7 +9001,6 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [collidingScopes/red-panda-vibes](https://github.com/collidingScopes/red-panda-vibes) - 3D red panda exploration game -- open source web game built with three.js
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
@@ -9110,7 +9125,7 @@
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard DNS filter
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -9243,7 +9258,7 @@
 
 ## osint 
 
-- [clickswave/voyage](https://github.com/clickswave/voyage) - Stateful subdomain enumeration toolkit
+- [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance
 - [dootss/shodan-dorks](https://github.com/dootss/shodan-dorks) - An auto-updating list of shodan dorks with info on the amount of results they return!
 - [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [iudicium/pryingdeep](https://github.com/iudicium/pryingdeep) - Prying Deep - An OSINT tool to collect intelligence on the dark web.
@@ -9260,7 +9275,7 @@
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [lacdis/instakilo](https://github.com/lacdis/instakilo) - Anonymously observe Instagram accounts.
 - [Hack23/cia](https://github.com/Hack23/cia) - Comprehensive open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering de
-- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (60 features). Perfect for investigators, pe
+- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (70+ features). Perfect for investigators, p
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [DFW1N/DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT) - Australian Open Source Intelligence Gathering Resources,                                                                              Australias Largest Open Source Intelligence Repository for Cyber P
@@ -9328,6 +9343,7 @@
 
 ## others 
 
+- [Marc-Pk/ProcrastiScan](https://github.com/Marc-Pk/ProcrastiScan) - 
 - [TANABEDAIGAKU/vndb-mcp](https://github.com/TANABEDAIGAKU/vndb-mcp) - A Model Context Protocol (MCP) server for accessing the Visual Novel Database (VNDB) API. This enables Claude AI to search and retrieve visual novel information.
 - [blairjordan/blair-room-3d](https://github.com/blairjordan/blair-room-3d) - 💻 My office - in 3D
 - [gianlucatruda/music-melee](https://github.com/gianlucatruda/music-melee) - High-speed parkour FPS for making beautiful sounds and high scores
@@ -9339,13 +9355,12 @@
 - [PavelLaptev/warp-svg](https://github.com/PavelLaptev/warp-svg) - Warp and distort SVG files online
 - [ared469/StegaCube](https://github.com/ared469/StegaCube) - A web tool to encode and decode messages using 3×3 Rubik’s Cube color tiles
 - [xtncl/StegaCube](https://github.com/xtncl/StegaCube) - A web tool to encode and decode messages using 3×3 Rubik’s Cube color tiles
-- [pietrozullo/mcp-use](https://github.com/pietrozullo/mcp-use) - 
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
 - [meetbryce/vibe-saver](https://github.com/meetbryce/vibe-saver) - Save your code to GitHub and never worry about losing your work. Vibe code safely with vibe saver.
 - [Qwertic/cursorrules](https://github.com/Qwertic/cursorrules) - A collection of .cursorrules
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [timkpaine/jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version jupyter notebooks in JupyterLab
-- [agentica-project/deepscaler](https://github.com/agentica-project/deepscaler) - Democratizing Reinforcement Learning for LLMs
+- [agentica-project/rllm](https://github.com/agentica-project/rllm) - Democratizing Reinforcement Learning for LLMs
 - [DKeAlvaro/CV-Parser](https://github.com/DKeAlvaro/CV-Parser) - CV scorer system that PARSES and analyzes resumes using GPT-4o Vision.
 - [roboco-io/awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) - A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between 
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - Last9 MCP Server
@@ -9445,7 +9460,7 @@
 - [lukasturcani/stk](https://github.com/lukasturcani/stk) - A Python library which allows construction and manipulation of complex molecules, as well as automatic molecular design and the creation of molecular databases.
 - [bio-tools/biotoolsRegistry](https://github.com/bio-tools/biotoolsRegistry) - biotoolsregistry : discovery portal for bioinformatics
 - [CalebBell/thermo](https://github.com/CalebBell/thermo) - Thermodynamics and Phase Equilibrium component of Chemical Engineering Design Library (ChEDL)
-- [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) - 
+- [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) - Ray tracing and hybrid rasterization of Gaussian particles
 - [ared469/zlib](https://github.com/ared469/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [n8n-io/n8n-desktop-app](https://github.com/n8n-io/n8n-desktop-app) - n8n Desktop App
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -9741,7 +9756,7 @@
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
-- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional v2025.1.*
+- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.*.*
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -9936,7 +9951,7 @@
 - [danielforgacs/houdini-tools](https://github.com/danielforgacs/houdini-tools) - Python Scripts for Sidefx Houdini
 - [firehawkvfx/firehawk-houdini-tools](https://github.com/firehawkvfx/firehawk-houdini-tools) - A collection of useful hda's and scripts used in the open firehawk vfx pipeline.
 - [qLab/qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini. https://www.facebook.com/qLibHoudini
-- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to build Awesome Scrapers.
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 - [logangoins/Cable](https://github.com/logangoins/Cable) - .NET post-exploitation toolkit for Active Directory reconnaissance and exploitation
 - [matthewwithanm/python-markdownify](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown
@@ -10267,7 +10282,7 @@
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. Docs 文档 :point_right:
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库 Red Teaming and Offensive Security
+- [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识库。A knowledge base for red teaming and offensive security.
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [R3DHULK/404](https://github.com/R3DHULK/404) - 404 Series
 - [R3DHULK/403](https://github.com/R3DHULK/403) - Listed Down All 403 Projects Together
@@ -10350,7 +10365,6 @@
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [arhaxor21/BruteList](https://github.com/arhaxor21/BruteList) - Brute List is an updated word list for brute-forcing the assets. This is not like a normal outdated word list. I have collected several lists from many resources and created them as a single list.
-- [mr-medi/HostPanic](https://github.com/mr-medi/HostPanic) - 
 - [so87/OSCP-PwK](https://github.com/so87/OSCP-PwK) - This is my cheatsheet and scripts developed while taking the Offensive Security Penetration Testing with Kali Linux course.
 - [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRAMP, FISMA, etc.), Frameworks, Threat Models, Encryption, and Benchmarks.
 - [whoisflynn/OSCP-Exam-Report-Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template) - Modified template for the OSCP Exam and Labs. Used during my passing attempt
@@ -10502,7 +10516,7 @@
 ## penetration-testing 
 
 - [firetix/vibe-coding-penetration-tester](https://github.com/firetix/vibe-coding-penetration-tester) - Vibe Coding? Cool story. But your vibe might be "security breach waiting to happen." Introducing VibePenTester, the AI pen-tester who rolls its eyes at your half-baked code, discovers your vulnerabili
-- [clickswave/voyage](https://github.com/clickswave/voyage) - Stateful subdomain enumeration toolkit
+- [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance
 - [kraloveckey/venom](https://github.com/kraloveckey/venom) - 👽 The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [ClaudiasLibrary/hacking-101](https://github.com/ClaudiasLibrary/hacking-101) - A comprehensive guide to becoming a hacker, covering skills, tools, and best practices to master cybersecurity and hacking techniques.
@@ -11178,7 +11192,7 @@
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [ceuk/spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [siapy/siapy-lib](https://github.com/siapy/siapy-lib) - 🖼️ A tool for efficient processing of spectral images with Python.
+- [siapy/siapy-lib](https://github.com/siapy/siapy-lib) - 🖼️ A Python package for efficient processing of spectral images
 - [4GeeksAcademy/python-beginner-programming-exercises](https://github.com/4GeeksAcademy/python-beginner-programming-exercises) - Practice your Python programming skills with this interactive and auto-graded set of exercises.
 - [sangaline/advanced-web-scraping-tutorial](https://github.com/sangaline/advanced-web-scraping-tutorial) - The Zipru scraper developed in the Advanced Web Scraping Tutorial.
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
@@ -11380,7 +11394,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
 - [mamoniem/UnrealEditorPythonScripts](https://github.com/mamoniem/UnrealEditorPythonScripts) - Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project and any purpose as long as it is not violating the LICENSE file or the Unreal Engine EULA.
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
@@ -11949,7 +11963,7 @@
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
@@ -12163,7 +12177,7 @@
 - [hlsxx/tuicam](https://github.com/hlsxx/tuicam) - Terminal based ASCII camera
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [ssnover/game-of-life](https://github.com/ssnover/game-of-life) - Conway's Game of Life implemented for Game Boy Advance in Rust
-- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image rendering support
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -12566,7 +12580,7 @@
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -12713,7 +12727,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -13178,7 +13192,6 @@
 - [fuelen/owl](https://github.com/fuelen/owl) - A toolkit for writing command-line user interfaces.
 - [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals
 - [security-cheatsheet/cmd-command-cheat-sheet](https://github.com/security-cheatsheet/cmd-command-cheat-sheet) - CMD - Command Cheat Sheat ✅
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [BoboTiG/py-candlestick-chart](https://github.com/BoboTiG/py-candlestick-chart) - Draw candlesticks charts right into your terminal, using Python!
@@ -13348,7 +13361,6 @@
 ## termux 
 
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee) - Create Best Wordlist From Python Tool In Termux
 - [Zian25/UniTools-Termux](https://github.com/Zian25/UniTools-Termux) - Instalador hacking para termux
 - [MrHarshArora/CyberGhostWeapon](https://github.com/MrHarshArora/CyberGhostWeapon) - This is a SMS And Call Bomber For Linux And Termux
@@ -13595,7 +13607,7 @@
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [Telegram-Mini-Apps/telegram-apps](https://github.com/Telegram-Mini-Apps/telegram-apps) - Made from scratch TypeScript packages, examples and documentation you will surely need to start developing on Telegram Mini Apps.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 ## ubuntu 
 
@@ -13716,7 +13728,7 @@
 - [barsdeveloper/ueblueprint](https://github.com/barsdeveloper/ueblueprint) - Unreal Engine's Blueprint visualization web library
 - [EliotVU/Unreal-Library](https://github.com/EliotVU/Unreal-Library) - UnrealScript decompiler library for Unreal package files (.upk, .u, .uasset; etc), with support for Unreal Engine 1, 2, and 3
 - [Cutter-H/ResourceComponentPlugin](https://github.com/Cutter-H/ResourceComponentPlugin) - Unreal Engine Plugin | Actor Component that can be used for various resources. Includes a modifiable Health component and a ready-made Health component with UI elements.
-- [RahulChandra99/recreate-climbing-mechanics-cpp](https://github.com/RahulChandra99/recreate-climbing-mechanics-cpp) - Recreating the Climbing Mechanics using C++ in UE5
+- [RahulChandra99/recreate-climbing-mechanics-cpp](https://github.com/RahulChandra99/recreate-climbing-mechanics-cpp) - parkour, climbing
 - [Tangha-Technologies/UnrealEnginePluginsDemo](https://github.com/Tangha-Technologies/UnrealEnginePluginsDemo) - All Demos of Unreal Engine Plugins In Fab
 - [Harrison1/unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
 - [dsavosin/SimpleGAS](https://github.com/dsavosin/SimpleGAS) - A SimpleGAS is a set of tutorials for entry-level Unreal Engine enthusiasts who wants to leverage the power of the Gameplay Ability System in their prototypes with minimum C++ setup and focus on creat
@@ -14062,7 +14074,6 @@
 - [flick9000/awesome-alternatives](https://github.com/flick9000/awesome-alternatives) - A curated list of free and open-source alternatives to common proprietary software.
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [security-cheatsheet/cmd-command-cheat-sheet](https://github.com/security-cheatsheet/cmd-command-cheat-sheet) - CMD - Command Cheat Sheat ✅
-- [azkadev/terminal_flutter](https://github.com/azkadev/terminal_flutter) - Terminal Flutter Cross platform with flutter and dart
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [tasdikrahman/spaceShooter](https://github.com/tasdikrahman/spaceShooter) - :video_game: The classic retro game recreated using Pygame and python
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
