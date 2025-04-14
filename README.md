@@ -1704,7 +1704,7 @@
 - [arsh9806/Cool-Animations-And-Transitions](https://github.com/arsh9806/Cool-Animations-And-Transitions) - This is some cool and beautiful stuff I am developing using pure HTML, CSS, and JS
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [learning-zone/website-templates](https://github.com/learning-zone/website-templates) - 150+ HTML5 Website Templates
-- [css-doodle/cli](https://github.com/css-doodle/cli) - A command-line tool for css-doodle to preview and generate images/videos.
+- [css-doodle/cli](https://github.com/css-doodle/cli) - Command-line tool for css-doodle to preview and generate images/videos.
 - [css-doodle/svg](https://github.com/css-doodle/svg) - SVG playground
 - [Edditoria/markdown-plus-plus](https://github.com/Edditoria/markdown-plus-plus) - Markdown syntax highlighting for Notepad++, by customized UDL file (user defined language)
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
@@ -3390,7 +3390,7 @@
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [XiaomingX/indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) - 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools wid
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [tznurmin/TEA](https://github.com/tznurmin/TEA) - Taxonomic Entity Augmentation makes biomedical texts less repetitive
 - [teomotun/LAMMPS-Water-Methanol-Simulation](https://github.com/teomotun/LAMMPS-Water-Methanol-Simulation) - Molecular Dynamics Simulation of Water-Methanol Mixture to determine physical properties like self-diffusion coefficient, density and shear viscosity for a system consisting of 216 molecules of water 
