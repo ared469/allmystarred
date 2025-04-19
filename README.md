@@ -177,7 +177,6 @@
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [onotelli/justniffer](https://github.com/onotelli/justniffer) - Justniffer  Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate web server log files, track re
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-- [aleatd/ConnectIV](https://github.com/aleatd/ConnectIV) - My version of "Connect Four"
 - [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals
 - [VUEngine/VUEngine-Core](https://github.com/VUEngine/VUEngine-Core) - A versatile, object oriented Nintendo Virtual Boy game engine.
 - [EstebanFuentealba/MALVEKE-Flipper-Zero](https://github.com/EstebanFuentealba/MALVEKE-Flipper-Zero) - GAME BOY Tools for Flipper Zero. The perfect companion for your Flipper Zero. Equipped with ESP32-S2 for WiFi. MALVEKE allows you to connect all GAME BOY peripherals and additional accessories such as
@@ -299,7 +298,6 @@
 - [h3xduck/Umbra](https://github.com/h3xduck/Umbra) - A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can spawn a reverse shell to a remote host, launch malware and more.
 - [h3xduck/aircrack-ng](https://github.com/h3xduck/aircrack-ng) - WiFi security auditing tools suite
 - [h3xduck/TaintBlade](https://github.com/h3xduck/TaintBlade) - 
-- [nil0x42/duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [EntySec/Pwny](https://github.com/EntySec/Pwny) - Pwny is an implementation of an advanced payload written in pure C and designed for portability and extensibility.
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [microsoft/msquic](https://github.com/microsoft/msquic) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
@@ -427,7 +425,7 @@
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 - [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
-- [CSharpRedotTools/Template](https://github.com/CSharpRedotTools/Template) - A template used for quickly setting up new Redot 4 C# games.
+- [CSharpGodotTools/Template](https://github.com/CSharpGodotTools/Template) - A template used for quickly setting up new Godot 4 C# games.
 - [MinaPecheux/godot-tutorials](https://github.com/MinaPecheux/godot-tutorials) - The code & assets for Godot/C# tutorials I published in video/text format on YouTube and Medium (🇬🇧 + 🇫🇷).
 - [2Retr0/GodotGrass](https://github.com/2Retr0/GodotGrass) - Per-blade grass rendering inspired by "Ghost of Tsushima", implemented in Godot
 - [chickensoft-games/GodotEnv](https://github.com/chickensoft-games/GodotEnv) - Manage Godot versions and addons from the command line on Windows, macOS, and Linux.
@@ -632,7 +630,6 @@
 - [Tylrin/Interaction](https://github.com/Tylrin/Interaction) - The Interaction plugin is a versetile system meant for actor to actor communication. The project includes ways for player interaction and a logic building block system for level interactions. Future g
 - [Sixze/FabulousUtility](https://github.com/Sixze/FabulousUtility) - A collection of utility functions, nodes and other things that can come in handy in Unreal Engine projects of any type.
 - [pafuhana1213/KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
-- [ChangeStudios/ProjectCrash](https://github.com/ChangeStudios/ProjectCrash) - Platformer fighting game made with Unreal Engine 5.
 - [apchavan/GameplayAbilitySystem_Aura](https://github.com/apchavan/GameplayAbilitySystem_Aura) - Source repo for Aura game developed while learning Stephen's Gameplay Ability System (GAS) course on Udemy.
 - [getsentry/sentry-unreal](https://github.com/getsentry/sentry-unreal) - Unreal Engine
 - [OudomMunint/Unreal-3rd-person-shooter-4.27](https://github.com/OudomMunint/Unreal-3rd-person-shooter-4.27) - A 3rd person shooter, this was a solo university assignment in Games design and development. Feel free to use it as a template for your own projects.
@@ -739,6 +736,7 @@
 - [qwqdanchun/trochilus](https://github.com/qwqdanchun/trochilus) - A Fast & free Windows remote administration tool.
 - [qwqdanchun/vmprotect-3.5.1](https://github.com/qwqdanchun/vmprotect-3.5.1) - 
 - [h3xduck/ncnn](https://github.com/h3xduck/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [nil0x42/duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [Lomasterrrr/HackWebTool](https://github.com/Lomasterrrr/HackWebTool) - CloudFlare bypass, Breacher, FindPerson, GeneratorIP
 - [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
 - [ElliotAlderson51/Bypass-UAC](https://github.com/ElliotAlderson51/Bypass-UAC) - Bypass Windows UAC Tool
@@ -911,7 +909,7 @@
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
 - [plaans/gobot-sim](https://github.com/plaans/gobot-sim) - High-level robotic simulator based on the Godot engine.
 - [geegaz/Multiple-Windows-tutorial](https://github.com/geegaz/Multiple-Windows-tutorial) - Godot 4 tutorial for making a character that moves outside of the game window
-- [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - [mirror] 99 Managers Futsal Edition, is a futsal manager game made with Godot Engine 4
+- [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - [mirror] 99 Managers Futsal Edition, is a Futsal Manager game made with Godot Engine 4
 - [TokisanGames/Sky3D](https://github.com/TokisanGames/Sky3D) - Atmospheric Day/Night Cycle for Godot 4
 - [blackears/cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder) - A Godot plugin to let you block in levels inside the Godot editor.
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
@@ -1987,7 +1985,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -2092,7 +2089,7 @@
 
 ## Kotlin 
 
-- [nizarmah/igatha](https://github.com/nizarmah/igatha) - Offline SOS signaling and recovery app for wars and disasters (iOS & Android).
+- [igatha/flare-gun](https://github.com/igatha/flare-gun) - Offline SOS signaling and recovery app for wars and disasters (iOS & Android) — like a digital flare-gun.
 - [androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
 - [EmergeTools/hackernews](https://github.com/EmergeTools/hackernews) - A simple Hackernews client for Android and iOS
 - [waifu-motivator/waifu-motivator-plugin](https://github.com/waifu-motivator/waifu-motivator-plugin) - OSS Waifu Motivator Plugin for JetBrains IDEs to help boost your motivation while coding!
@@ -2151,6 +2148,7 @@
 - [gcui-art/awesome-ai-writing](https://github.com/gcui-art/awesome-ai-writing) - A curated list of AI writing tools, platforms and resources. From content creation to writing assistance.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -2221,7 +2219,7 @@
 ## Others 
 
 - [BlueBirdBack/godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) - 🎮 Comprehensive .cursorrules configuration for Godot 4.4 game development in Cursor AI. Includes coding standards, best practices, and performance optimization guidelines for modern Godot projects.
-- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ Neatly composed rules for AI LLMs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
+- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ Neatly composed rules for AI IDEs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
 - [Qwertic/cursorrules](https://github.com/Qwertic/cursorrules) - A collection of .cursorrules
 - [razbakov/ai-secretary](https://github.com/razbakov/ai-secretary) - AI-First Organization
 - [hao-ji-xing/awesome-cursor](https://github.com/hao-ji-xing/awesome-cursor) - A curated collection of tools and resources for Cursor.
@@ -3276,7 +3274,7 @@
 - [MTK911/KHATA](https://github.com/MTK911/KHATA) - WebHook for Red Team
 - [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
 - [phptodayorg/php-must-watch](https://github.com/phptodayorg/php-must-watch) - list of interesting conference talks and videos on PHP -
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 
 ## Pascal 
 
@@ -3349,7 +3347,7 @@
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [pietrozullo/mcp-use](https://github.com/pietrozullo/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [timkpaine/jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version jupyter notebooks in JupyterLab
 - [roboco-io/awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) - A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between 
 - [firetix/vibe-coding-penetration-tester](https://github.com/firetix/vibe-coding-penetration-tester) - Vibe Coding? Cool story. But your vibe might be "security breach waiting to happen." Introducing VibePenTester, the AI pen-tester who rolls its eyes at your half-baked code, discovers your vulnerabili
@@ -3780,7 +3778,7 @@
 - [HugoTini/DeepBump](https://github.com/HugoTini/DeepBump) - Normal & height maps generation from single pictures
 - [benrugg/AI-Render](https://github.com/benrugg/AI-Render) - Stable Diffusion in Blender
 - [LuxCoreRender/BlendLuxCore](https://github.com/LuxCoreRender/BlendLuxCore) - Blender Integration for LuxCore
-- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.2.3.0.
+- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.3.0.0.
 - [joelibaceta/video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference.
 - [AhmetHamzaEmra/Intelegent_Lock](https://github.com/AhmetHamzaEmra/Intelegent_Lock) - lock mechanism with face recognition and liveness detection
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
@@ -4105,7 +4103,7 @@
 - [Dene33/blender_jarvis](https://github.com/Dene33/blender_jarvis) - Control Blender through text prompts with help of ChatGPT
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [scorpion81/Blender-Molecular-Script](https://github.com/scorpion81/Blender-Molecular-Script) - This is the molecular python script for blender, originally coded by Pyroevil.  A bit similar to Lagoa Multiphysic in Softimage.
 - [microsoft/AirSim-NeurIPS2019-Drone-Racing](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing) - Drone Racing @ NeurIPS 2019, built on Microsoft AirSim
 - [Jim-Kroovy/Mr-Mannequins-Tools](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools) - Read the wiki installation instructions for sublime character rigging, intuitive Blender imports and easy Unreal exports!
@@ -4993,7 +4991,7 @@
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [tuist/Noora](https://github.com/tuist/Noora) - 🎨 A design system for building CLIs in Swift
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [inline-chat/inline](https://github.com/inline-chat/inline) - 🎈 Incredibly fast, native chat app for teams
+- [inline-chat/inline](https://github.com/inline-chat/inline) - 💬 A better way to chat for teams
 - [producthunt/producthunt-osx](https://github.com/producthunt/producthunt-osx) - The best new products, every day on Mac.
 - [tuxu/nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
@@ -5053,7 +5051,7 @@
 ## TypeScript 
 
 - [gianlucatruda/music-melee](https://github.com/gianlucatruda/music-melee) - High-speed parkour FPS for making beautiful sounds and high scores
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [runablehq/mobile-mcp](https://github.com/runablehq/mobile-mcp) - A Model Context Protocol (MCP) server that provides mobile automation capabilities.
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
