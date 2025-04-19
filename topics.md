@@ -274,7 +274,6 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
-- [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vagrant](#vagrant)
@@ -427,8 +426,8 @@
 
 ## ai 
 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [pietrozullo/mcp-use](https://github.com/pietrozullo/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [runablehq/mobile-mcp](https://github.com/runablehq/mobile-mcp) - A Model Context Protocol (MCP) server that provides mobile automation capabilities.
 - [razbakov/ai-secretary](https://github.com/razbakov/ai-secretary) - AI-First Organization
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -551,7 +550,7 @@
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
 - [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) - A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [mika314/UELlama](https://github.com/mika314/UELlama) - Llama plugin for Unreal Engine 5
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
@@ -650,7 +649,7 @@
 
 ## android 
 
-- [nizarmah/igatha](https://github.com/nizarmah/igatha) - Offline SOS signaling and recovery app for wars and disasters (iOS & Android).
+- [igatha/flare-gun](https://github.com/igatha/flare-gun) - Offline SOS signaling and recovery app for wars and disasters (iOS & Android) — like a digital flare-gun.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [runablehq/mobile-mcp](https://github.com/runablehq/mobile-mcp) - A Model Context Protocol (MCP) server that provides mobile automation capabilities.
 - [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) - collect all  awesome about IT
@@ -2921,7 +2920,6 @@
 - [alessandrofrancesconi/gimp-plugin-bimp](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) - BIMP. Batch Image Manipulation Plugin for GIMP.
 - [Okerew/biobridge](https://github.com/Okerew/biobridge) - Biobridge is a Python library for simulating biological processes and systems also analyzing them, visualising them, and interacting with them.
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-- [aleatd/ConnectIV](https://github.com/aleatd/ConnectIV) - My version of "Connect Four"
 - [xemeds/obstruction-game](https://github.com/xemeds/obstruction-game) - Console version of the pen and paper game Obstruction with the Minimax algorithm.
 - [pavlosdais/Quoridor](https://github.com/pavlosdais/Quoridor) - A terminal implementation of the game Quoridor with an engine
 - [nielssp/csol](https://github.com/nielssp/csol) - A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.) to play in the terminal
@@ -3272,6 +3270,7 @@
 - [Petesta/dotfiles](https://github.com/Petesta/dotfiles) - 🗂️ Some of my dotfiles.
 - [flex-development/colors](https://github.com/flex-development/colors) - :rainbow: a small library for coloring and styling messages
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
+- [onotelli/justniffer](https://github.com/onotelli/justniffer) - Justniffer  Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate web server log files, track re
 - [Hiro427/creader](https://github.com/Hiro427/creader) - Read and Download manga in the terminal
 - [yorukot/tmlshock](https://github.com/yorukot/tmlshock) - A terminal ttl clock and stopwatch build by golang
 - [nalgeon/howto](https://github.com/nalgeon/howto) - Humble command-line assistant
@@ -3628,7 +3627,6 @@
 - [dsavosin/SimpleGAS](https://github.com/dsavosin/SimpleGAS) - A SimpleGAS is a set of tutorials for entry-level Unreal Engine enthusiasts who wants to leverage the power of the Gameplay Ability System in their prototypes with minimum C++ setup and focus on creat
 - [m-abdullahabid/Gameplay-Ability-System](https://github.com/m-abdullahabid/Gameplay-Ability-System) - The Gameplay Ability System is a powerful framework designed for handling complex gameplay mechanics, including character abilities, buffs, debuffs, and more. It offers a flexible and data-driven appr
 - [Venage5603/Tokyo-Night-Dark-Enhanced](https://github.com/Venage5603/Tokyo-Night-Dark-Enhanced) - an edit of tokyo night dark with some small changes and additions
-- [ChangeStudios/ProjectCrash](https://github.com/ChangeStudios/ProjectCrash) - Platformer fighting game made with Unreal Engine 5.
 - [tomlooman/ue4-tutorials](https://github.com/tomlooman/ue4-tutorials) - Collection of Unreal 4 Tutorials & Experiments.
 - [JonasReich/OpenUnrealUtilities](https://github.com/JonasReich/OpenUnrealUtilities) - Open Unreal Utilities - Open Source Utilties for Unreal Engine
 - [Drakynfly/FaerieDataSystem](https://github.com/Drakynfly/FaerieDataSystem) - Multi-purpose inventory, equipment, and crafting system
@@ -3714,7 +3712,7 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
-- [CSharpRedotTools/Template](https://github.com/CSharpRedotTools/Template) - A template used for quickly setting up new Redot 4 C# games.
+- [CSharpGodotTools/Template](https://github.com/CSharpGodotTools/Template) - A template used for quickly setting up new Godot 4 C# games.
 - [MinaPecheux/godot-tutorials](https://github.com/MinaPecheux/godot-tutorials) - The code & assets for Godot/C# tutorials I published in video/text format on YouTube and Medium (🇬🇧 + 🇫🇷).
 - [nathanhoad/godot_sound_manager](https://github.com/nathanhoad/godot_sound_manager) - A simple music and sound effect player for the Godot Engine
 - [paulloz/godot-ink](https://github.com/paulloz/godot-ink) - Ink integration for Godot Engine.
@@ -4939,7 +4937,7 @@
 - [Correia-jpv/fucking-awesome-web-effect](https://github.com/Correia-jpv/fucking-awesome-web-effect) - A series of exquisite and compact web page cool effects. With repository stars⭐ and forks🍴
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [Mountea-Framework/MounteaInventoryEquipment](https://github.com/Mountea-Framework/MounteaInventoryEquipment) - Mountea Inventory & Equipment is an Open-source Mountea Framework components based simple framework allowing you to construct Inventory systems fast, easily and with advanced options.
 - [Mountea-Framework/MounteaDialogueSystem](https://github.com/Mountea-Framework/MounteaDialogueSystem) - Mountea Dialogue System is an Open-source Mountea Framework tool for Unreal Engine for creating (not just) complex dialogues! Provides its own Dialogue Tree editor and validation system.
 - [Mountea-Framework/MounteaInteractionSystem](https://github.com/Mountea-Framework/MounteaInteractionSystem) - Open-source components based tool for smart Actor Interaction with other Actors. Developed with Designers in mind to allow you as easy as possible implementation while maintaining high scalability and
@@ -5043,7 +5041,7 @@
 - [zigurous/unity-super-mario-tutorial](https://github.com/zigurous/unity-super-mario-tutorial) - 🌻🍄 Learn to make Super Mario Bros in Unity.
 - [zigurous/unity-tetris-tutorial](https://github.com/zigurous/unity-tetris-tutorial) - 🧩🧱 Learn to make Tetris in Unity.
 - [nuno-faria/pixelfoosball](https://github.com/nuno-faria/pixelfoosball) - An arcade foosball (table football) game
-- [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - [mirror] 99 Managers Futsal Edition, is a futsal manager game made with Godot Engine 4
+- [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - [mirror] 99 Managers Futsal Edition, is a Futsal Manager game made with Godot Engine 4
 - [msokalski/asciicker](https://github.com/msokalski/asciicker) - 3D ASCII game concept
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
@@ -5405,7 +5403,7 @@
 - [akien-mga/dynadungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using Godot Engine - Not actively developed since 2015.
 - [RayMarch/ferris3d](https://github.com/RayMarch/ferris3d) - A free 3D model of Ferris the rustacean
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
-- [CSharpRedotTools/Template](https://github.com/CSharpRedotTools/Template) - A template used for quickly setting up new Redot 4 C# games.
+- [CSharpGodotTools/Template](https://github.com/CSharpGodotTools/Template) - A template used for quickly setting up new Godot 4 C# games.
 - [rbarongr/GodotFirstPersonController](https://github.com/rbarongr/GodotFirstPersonController) - Basic First Person Controller for Godot 4
 - [paulloz/godot-colorblindness](https://github.com/paulloz/godot-colorblindness) - A colorblindness simulator to help you design for everyone.
 - [kevinw/GodotVision](https://github.com/kevinw/GodotVision) - Godot in RealityKit / visionOS
@@ -5505,7 +5503,7 @@
 
 ## git 
 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
@@ -5779,7 +5777,7 @@
 - [awnagel/Godot-Thief-Controller](https://github.com/awnagel/Godot-Thief-Controller) - A first-person character controller, inspired by the Thief games.
 - [GodotVR/godot_openxr_vendors](https://github.com/GodotVR/godot_openxr_vendors) - Godot 4 wrapper for OpenXR vendors loaders and extensions
 - [db0/hypnagonia](https://github.com/db0/hypnagonia) - Therapy through Nightmares
-- [CSharpRedotTools/Template](https://github.com/CSharpRedotTools/Template) - A template used for quickly setting up new Redot 4 C# games.
+- [CSharpGodotTools/Template](https://github.com/CSharpGodotTools/Template) - A template used for quickly setting up new Godot 4 C# games.
 - [Oen44/Godot-Inventory](https://github.com/Oen44/Godot-Inventory) - Available at Asset Library
 - [cloudofoz/godot-smashthemesh](https://github.com/cloudofoz/godot-smashthemesh) - Smash The Mesh (STM) is a Godot add-on that allows you to break 3D meshes into multiple pieces and apply physics to each fragment. It includes features for saving the results to disk (cache) for quick
 - [kevinw/GodotVisionExample](https://github.com/kevinw/GodotVisionExample) - Example template for GodotVision
@@ -7005,6 +7003,7 @@
 
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
+- [onotelli/justniffer](https://github.com/onotelli/justniffer) - Justniffer  Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate web server log files, track re
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -7102,7 +7101,7 @@
 
 ## ios 
 
-- [nizarmah/igatha](https://github.com/nizarmah/igatha) - Offline SOS signaling and recovery app for wars and disasters (iOS & Android).
+- [igatha/flare-gun](https://github.com/igatha/flare-gun) - Offline SOS signaling and recovery app for wars and disasters (iOS & Android) — like a digital flare-gun.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [runablehq/mobile-mcp](https://github.com/runablehq/mobile-mcp) - A Model Context Protocol (MCP) server that provides mobile automation capabilities.
 - [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
@@ -8060,7 +8059,7 @@
 
 ## llm 
 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [CartographAI/atlas-docs-mcp](https://github.com/CartographAI/atlas-docs-mcp) - Provide LLMs hosted, clean markdown documentation of libraries and frameworks
 - [runablehq/mobile-mcp](https://github.com/runablehq/mobile-mcp) - A Model Context Protocol (MCP) server that provides mobile automation capabilities.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -8767,7 +8766,7 @@
 
 ## nextjs 
 
-- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ Neatly composed rules for AI LLMs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
+- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ Neatly composed rules for AI IDEs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free, Open-Source Invoice PDF Generator – Live Preview, Runs in Your Browser, No Sign-Up
@@ -9085,7 +9084,7 @@
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [akien-mga/dynadungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using Godot Engine - Not actively developed since 2015.
-- [CSharpRedotTools/Template](https://github.com/CSharpRedotTools/Template) - A template used for quickly setting up new Redot 4 C# games.
+- [CSharpGodotTools/Template](https://github.com/CSharpGodotTools/Template) - A template used for quickly setting up new Godot 4 C# games.
 - [Nokorpo/LibreAim](https://github.com/Nokorpo/LibreAim) - Free and open source FPS aim trainer made with Godot.
 - [FOSS-Supremacy/OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - A GTA 3 reimplementation on the Godot Engine
 - [ColormaticStudios/quality-godot-first-person-2](https://github.com/ColormaticStudios/quality-godot-first-person-2) - Read/write mirror of: https://git.colormatic.org/ColormaticStudios/quality-godot-first-person An actually good first person controller for the Godot Engine (version 2)
@@ -9773,7 +9772,7 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [softwaredoug/fail-whale](https://github.com/softwaredoug/fail-whale) - Doomscroll but through this AI universe
 - [o40/seesay](https://github.com/o40/seesay) - Live image description solution using ESP32-CAM + Phone + Server
-- [inline-chat/inline](https://github.com/inline-chat/inline) - 🎈 Incredibly fast, native chat app for teams
+- [inline-chat/inline](https://github.com/inline-chat/inline) - 💬 A better way to chat for teams
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
 - [ared469/awesome-pcaptools](https://github.com/ared469/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [producthunt/producthunt-osx](https://github.com/producthunt/producthunt-osx) - The best new products, every day on Mac.
@@ -9854,7 +9853,7 @@
 - [Sprytile/Sprytile](https://github.com/Sprytile/Sprytile) - A Blender add-on for building tile based low-poly scenes with paint/map editor like tools
 - [LuxCoreRender/BlendLuxCore](https://github.com/LuxCoreRender/BlendLuxCore) - Blender Integration for LuxCore
 - [DesignLipsx/Textify](https://github.com/DesignLipsx/Textify) - Streamline and Enhance Blender’s Text Editor.
-- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.2.3.0.
+- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.3.0.0.
 - [TermuxHackz/CAM-DUMPER](https://github.com/TermuxHackz/CAM-DUMPER) - KALI LINUX / TERMUX tool for hacking victim android front camera.
 - [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: The comprehensive toolkit for developing plugins and widgets for Figma
 - [lukasoppermann/design-tokens](https://github.com/lukasoppermann/design-tokens) - 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
@@ -10474,7 +10473,7 @@
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
@@ -11395,7 +11394,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [mamoniem/UnrealEditorPythonScripts](https://github.com/mamoniem/UnrealEditorPythonScripts) - Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project and any purpose as long as it is not violating the LICENSE file or the Unreal Engine EULA.
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
@@ -13626,17 +13625,6 @@
 - [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi) - Native Ubuntu installations for Apple silicon hardware
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 
-## ui-design 
-
-- [Proxlight/Buildfy-Free](https://github.com/Proxlight/Buildfy-Free) - An easy and fast way to create a Python GUI 🐍 | This software allows you to create complex UI faster than ever⚡
-- [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) - Python Terminal Toolkit - a Spiced Up Cross Compatible TUI Library 🌶️
-- [Viktoo/Insert3D](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model in Swift
-- [Correia-jpv/fucking-Awesome-Design-Tools](https://github.com/Correia-jpv/fucking-Awesome-Design-Tools) - The best design tools and plugins for everything. With repository stars⭐ and forks🍴
-- [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-
 ## unity 
 
 - [justinpbarnett/unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
@@ -13750,7 +13738,6 @@
 - [Venage5603/Tokyo-Night-Dark-Enhanced](https://github.com/Venage5603/Tokyo-Night-Dark-Enhanced) - an edit of tokyo night dark with some small changes and additions
 - [SpeculativeCoder/UnrealEngine-HTML5-ES3](https://github.com/SpeculativeCoder/UnrealEngine-HTML5-ES3) - Unreal Engine 4.27 HTML5 ES3 (WebGL 2) & 4.24 HTML5 ES2 (WebGL 1)
 - [OTFCG/Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis) - a comprehensive collection of video game tech analysis resources
-- [ChangeStudios/ProjectCrash](https://github.com/ChangeStudios/ProjectCrash) - Platformer fighting game made with Unreal Engine 5.
 - [apchavan/GameplayAbilitySystem_Aura](https://github.com/apchavan/GameplayAbilitySystem_Aura) - Source repo for Aura game developed while learning Stephen's Gameplay Ability System (GAS) course on Udemy.
 - [getsentry/sentry-unreal](https://github.com/getsentry/sentry-unreal) - Unreal Engine
 - [OudomMunint/Unreal-3rd-person-shooter-4.27](https://github.com/OudomMunint/Unreal-3rd-person-shooter-4.27) - A 3rd person shooter, this was a solo university assignment in Games design and development. Feel free to use it as a template for your own projects.
