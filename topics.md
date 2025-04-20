@@ -1347,7 +1347,7 @@
 - [Correia-jpv/fucking-awesome-pentest](https://github.com/Correia-jpv/fucking-awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things. With repository stars⭐ and forks🍴
 - [developer-sumit/awesome-software-licenses](https://github.com/developer-sumit/awesome-software-licenses) - A comprehensive guide to understanding various open-source licenses. This repository explains the terms and conditions of each license, helping developers make informed decisions when using, modifying
 - [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
-- [blefnk/awesome-github-repos](https://github.com/blefnk/awesome-github-repos) - ✨ A large number of GitHub repos on all kinds of interesting topics, which @blefnk  considers awesome, have been starred and recommended to everyone. The current collection contains over 1700 really c
+- [blefnk/awgh-awesome-github](https://github.com/blefnk/awgh-awesome-github) - ⭐ A large number of GitHub repos on all kinds of interesting topics, which @blefnk  considers awesome, have been starred and recommended to everyone. The current collection contains over 1700 really c
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [Kiran1689/kiran1689](https://github.com/Kiran1689/kiran1689) - Dynamic readme profile template. Do not just fork, Give Star too :)
 - [aldi/bulma-login-template](https://github.com/aldi/bulma-login-template) - Bulma Login Template designed using Bulma CSS Framework
@@ -3298,7 +3298,7 @@
 - [Defective4/TUI-Mines](https://github.com/Defective4/TUI-Mines) - A Minesweeper clone designed to run entirely in terminal. The winning project of the October Coding Jam 2023
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-- [nichind/pybalt](https://github.com/nichind/pybalt) - tool/python-module for downloading videos from YouTube, Twitter (X), Instagram, Reddit, Soundcloud and more! Powered by the @imputnet cobalt instances.
+- [nichind/pybalt](https://github.com/nichind/pybalt) - ☄️ Your ultimate tool & python module to download videos and audio from various platforms. Supports YouTube, Instagram, Twitter (X), Reddit, TikTok, BiliBili & More! Powered by cobalt instances
 - [arimatakao/mdx](https://github.com/arimatakao/mdx) - mdx is a command-line interface program for downloading manga from the MangaDex website. The program uses MangaDex API to fetch manga content.
 - [Wraient/octopus](https://github.com/Wraient/octopus) - Watch TV Show / Movies with cli
 - [p-obrthr/all-in-intelligence](https://github.com/p-obrthr/all-in-intelligence) - texas holdem poker per terminal
@@ -4447,7 +4447,7 @@
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
@@ -7074,7 +7074,7 @@
 
 ## instagram 
 
-- [nichind/pybalt](https://github.com/nichind/pybalt) - tool/python-module for downloading videos from YouTube, Twitter (X), Instagram, Reddit, Soundcloud and more! Powered by the @imputnet cobalt instances.
+- [nichind/pybalt](https://github.com/nichind/pybalt) - ☄️ Your ultimate tool & python module to download videos and audio from various platforms. Supports YouTube, Instagram, Twitter (X), Reddit, TikTok, BiliBili & More! Powered by cobalt instances
 - [CamTosh/instagram-bot-dm](https://github.com/CamTosh/instagram-bot-dm) - Instagram bot to send direct messages
 - [instabotai/instabotai](https://github.com/instabotai/instabotai) - Instagram AI bot with face detection. It works without instagram api, need only login and password.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
@@ -8766,7 +8766,7 @@
 
 ## nextjs 
 
-- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ Neatly composed rules for AI IDEs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
+- [blefnk/awllm-awesome-llm](https://github.com/blefnk/awllm-awesome-llm) - ❇️ Neatly composed rules for AI IDEs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free, Open-Source Invoice PDF Generator – Live Preview, Runs in Your Browser, No Sign-Up
@@ -9853,7 +9853,7 @@
 - [Sprytile/Sprytile](https://github.com/Sprytile/Sprytile) - A Blender add-on for building tile based low-poly scenes with paint/map editor like tools
 - [LuxCoreRender/BlendLuxCore](https://github.com/LuxCoreRender/BlendLuxCore) - Blender Integration for LuxCore
 - [DesignLipsx/Textify](https://github.com/DesignLipsx/Textify) - Streamline and Enhance Blender’s Text Editor.
-- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.3.0.0.
+- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.3.1.0.
 - [TermuxHackz/CAM-DUMPER](https://github.com/TermuxHackz/CAM-DUMPER) - KALI LINUX / TERMUX tool for hacking victim android front camera.
 - [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: The comprehensive toolkit for developing plugins and widgets for Figma
 - [lukasoppermann/design-tokens](https://github.com/lukasoppermann/design-tokens) - 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
@@ -11129,7 +11129,7 @@
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [whiletruelearn/termichess](https://github.com/whiletruelearn/termichess) - Play chess in your terminal.
-- [nichind/pybalt](https://github.com/nichind/pybalt) - tool/python-module for downloading videos from YouTube, Twitter (X), Instagram, Reddit, Soundcloud and more! Powered by the @imputnet cobalt instances.
+- [nichind/pybalt](https://github.com/nichind/pybalt) - ☄️ Your ultimate tool & python module to download videos and audio from various platforms. Supports YouTube, Instagram, Twitter (X), Reddit, TikTok, BiliBili & More! Powered by cobalt instances
 - [ARYANSINGH0611/PronouncePerfect](https://github.com/ARYANSINGH0611/PronouncePerfect) - PronouncePerfect helps kids improve pronunciation and reading with interactive speech-based activities.
 - [javedali99/python-resources-for-earth-sciences](https://github.com/javedali99/python-resources-for-earth-sciences) - A Curated List of Python Resources for Earth Sciences
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
@@ -11494,7 +11494,7 @@
 - [acnsoft/SpyDork](https://github.com/acnsoft/SpyDork) - SpyDork is a python dork generator.
 - [theahmadov/dash](https://github.com/theahmadov/dash) - DASH is deep osint Scanner. You just need username to start osint scan.
 - [sabri-zaki/EasY_HaCk](https://github.com/sabri-zaki/EasY_HaCk) - Hack the World using Termux
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -13325,7 +13325,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -13494,7 +13494,7 @@
 
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [nichind/pybalt](https://github.com/nichind/pybalt) - tool/python-module for downloading videos from YouTube, Twitter (X), Instagram, Reddit, Soundcloud and more! Powered by the @imputnet cobalt instances.
+- [nichind/pybalt](https://github.com/nichind/pybalt) - ☄️ Your ultimate tool & python module to download videos and audio from various platforms. Supports YouTube, Instagram, Twitter (X), Reddit, TikTok, BiliBili & More! Powered by cobalt instances
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
@@ -13779,7 +13779,7 @@
 - [sideeffects/HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) - Houdini Engine Plugin for Unreal Engine.
 - [TriAxis-Games/RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent) - Unreal Engine 5 plugin component for rendering runtime generated content.
 - [VoxelPlugin/VoxelPluginFreeLegacy](https://github.com/VoxelPlugin/VoxelPluginFreeLegacy) - Voxel Plugin Legacy for Unreal Engine
-- [xavier150/Blender-For-UnrealEngine-Addons](https://github.com/xavier150/Blender-For-UnrealEngine-Addons) - I have created this addons for export asset from Blender to Unreal Engine 4
+- [xavier150/Blender-For-UnrealEngine-Addons](https://github.com/xavier150/Blender-For-UnrealEngine-Addons) - I have created this addons for export asset from Blender to Unreal Engine
 - [ShadowfallStudios/ALS-Community](https://github.com/ShadowfallStudios/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 5.4 with additional features & bug fixes
 - [lgsvl/simulator](https://github.com/lgsvl/simulator) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
 - [gildor2/UEViewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets (UE Viewer).
