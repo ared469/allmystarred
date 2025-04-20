@@ -2219,7 +2219,7 @@
 ## Others 
 
 - [BlueBirdBack/godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) - 🎮 Comprehensive .cursorrules configuration for Godot 4.4 game development in Cursor AI. Includes coding standards, best practices, and performance optimization guidelines for modern Godot projects.
-- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ Neatly composed rules for AI IDEs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
+- [blefnk/awllm-awesome-llm](https://github.com/blefnk/awllm-awesome-llm) - ❇️ Neatly composed rules for AI IDEs like Cursor, Windsurf, VSCode Microsoft GitHub Copilot, Reliverse AI, etc. Optimized for modern frontend development with Next.js 15, React 19, TypeScript 5, Tailw
 - [Qwertic/cursorrules](https://github.com/Qwertic/cursorrules) - A collection of .cursorrules
 - [razbakov/ai-secretary](https://github.com/razbakov/ai-secretary) - AI-First Organization
 - [hao-ji-xing/awesome-cursor](https://github.com/hao-ji-xing/awesome-cursor) - A curated collection of tools and resources for Cursor.
@@ -2691,7 +2691,7 @@
 - [Correia-jpv/fucking-awesome-pentest](https://github.com/Correia-jpv/fucking-awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things. With repository stars⭐ and forks🍴
 - [developer-sumit/awesome-software-licenses](https://github.com/developer-sumit/awesome-software-licenses) - A comprehensive guide to understanding various open-source licenses. This repository explains the terms and conditions of each license, helping developers make informed decisions when using, modifying
 - [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
-- [blefnk/awesome-github-repos](https://github.com/blefnk/awesome-github-repos) - ✨ A large number of GitHub repos on all kinds of interesting topics, which @blefnk  considers awesome, have been starred and recommended to everyone. The current collection contains over 1700 really c
+- [blefnk/awgh-awesome-github](https://github.com/blefnk/awgh-awesome-github) - ⭐ A large number of GitHub repos on all kinds of interesting topics, which @blefnk  considers awesome, have been starred and recommended to everyone. The current collection contains over 1700 really c
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [Correia-jpv/fucking-awesome-chrome-devtools](https://github.com/Correia-jpv/fucking-awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-awesome-docker](https://github.com/Correia-jpv/fucking-awesome-docker) - 🐳 A curated list of Docker resources and projects. With repository stars⭐ and forks🍴
@@ -3603,7 +3603,7 @@
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
 - [Gtajisan/FARHAN-Shot](https://github.com/Gtajisan/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-- [nichind/pybalt](https://github.com/nichind/pybalt) - tool/python-module for downloading videos from YouTube, Twitter (X), Instagram, Reddit, Soundcloud and more! Powered by the @imputnet cobalt instances.
+- [nichind/pybalt](https://github.com/nichind/pybalt) - ☄️ Your ultimate tool & python module to download videos and audio from various platforms. Supports YouTube, Instagram, Twitter (X), Reddit, TikTok, BiliBili & More! Powered by cobalt instances
 - [stephenpapierski/PiGarage](https://github.com/stephenpapierski/PiGarage) - Smart garage door controller for RaspberryPi and Hubitat
 - [aaronwmorris/indi-allsky](https://github.com/aaronwmorris/indi-allsky) - Software to manage a Linux-based All Sky Camera.
 - [rajtilakjee/simone](https://github.com/rajtilakjee/simone) - Repurpose your YouTube videos by converting them into blog posts.
@@ -3778,7 +3778,7 @@
 - [HugoTini/DeepBump](https://github.com/HugoTini/DeepBump) - Normal & height maps generation from single pictures
 - [benrugg/AI-Render](https://github.com/benrugg/AI-Render) - Stable Diffusion in Blender
 - [LuxCoreRender/BlendLuxCore](https://github.com/LuxCoreRender/BlendLuxCore) - Blender Integration for LuxCore
-- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.3.0.0.
+- [josemarinfarina/SciBlend-AdvancedCore](https://github.com/josemarinfarina/SciBlend-AdvancedCore) - Scientific Solutions for Blender. Import VTK, VTU, PVTU, NetCDF and SHP to Blender. Easy animation import and scene setup v.3.1.0.
 - [joelibaceta/video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference.
 - [AhmetHamzaEmra/Intelegent_Lock](https://github.com/AhmetHamzaEmra/Intelegent_Lock) - lock mechanism with face recognition and liveness detection
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
@@ -4108,7 +4108,7 @@
 - [microsoft/AirSim-NeurIPS2019-Drone-Racing](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing) - Drone Racing @ NeurIPS 2019, built on Microsoft AirSim
 - [Jim-Kroovy/Mr-Mannequins-Tools](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools) - Read the wiki installation instructions for sublime character rigging, intuitive Blender imports and easy Unreal exports!
 - [mamoniem/UnrealEditorPythonScripts](https://github.com/mamoniem/UnrealEditorPythonScripts) - Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project and any purpose as long as it is not violating the LICENSE file or the Unreal Engine EULA.
-- [xavier150/Blender-For-UnrealEngine-Addons](https://github.com/xavier150/Blender-For-UnrealEngine-Addons) - I have created this addons for export asset from Blender to Unreal Engine 4
+- [xavier150/Blender-For-UnrealEngine-Addons](https://github.com/xavier150/Blender-For-UnrealEngine-Addons) - I have created this addons for export asset from Blender to Unreal Engine
 - [pichillilorenzo/JavaScriptEnhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) - JavaScript Enhancements is a plugin for Sublime Text 3. It offers not only a smart javascript autocomplete but also a lot of features about creating, developing and managing javascript projects (real-
 - [yavorsky/Bump](https://github.com/yavorsky/Bump) - 🌱 Sublime Text 3 Plugin to keep package.json dependencies fresh.
 - [srusskih/SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - awesome Python autocompletion with SublimeText
@@ -4312,7 +4312,7 @@
 - [v3n0m-Scanner/V3n0M-Scanner](https://github.com/v3n0m-Scanner/V3n0M-Scanner) - Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [sabri-zaki/EasY_HaCk](https://github.com/sabri-zaki/EasY_HaCk) - Hack the World using Termux
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
