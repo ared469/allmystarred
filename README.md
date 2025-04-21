@@ -156,6 +156,7 @@
 
 ## C 
 
+- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [DroneBridge/DroneBridge](https://github.com/DroneBridge/DroneBridge) - DroneBridge is a system based on the WifiBroadcast approach. A bidirectional digital radio link between two endpoints is established using standard WiFi hardware and a custom protocol. DroneBridge is 
 - [TI-Toolkit/dusb-wireshark-dissector](https://github.com/TI-Toolkit/dusb-wireshark-dissector) - A Wireshark dissector for the DUSB protocol used by Texas Instruments calculators
 - [MathisLav/rndis-wireshark](https://github.com/MathisLav/rndis-wireshark) - An RNDIS dissector plugin for Wireshark
@@ -324,6 +325,7 @@
 
 ## C# # 
 
+- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [justinpbarnett/unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
@@ -1352,6 +1354,7 @@
 
 ## HTML 
 
+- [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
@@ -1600,6 +1603,7 @@
 
 ## JavaScript 
 
+- [maximecb/Turing-Drawings](https://github.com/maximecb/Turing-Drawings) - Randomly generated Turing machines draw images and animations on a 2D canvas.
 - [Marc-Pk/ProcrastiScan](https://github.com/Marc-Pk/ProcrastiScan) - 
 - [blairjordan/blair-room-3d](https://github.com/blairjordan/blair-room-3d) - 💻 My office - in 3D
 - [mkkellogg/GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) - Three.js-based implementation of 3D Gaussian splatting
@@ -1998,6 +2002,7 @@
 
 ## Julia 
 
+- [JuliaWaveScattering/MultipleScattering.jl](https://github.com/JuliaWaveScattering/MultipleScattering.jl) - A Julia library for simulating, processing, and plotting multiple scattering of waves.
 - [svaksha/Julia.jl](https://github.com/svaksha/Julia.jl) - Curated decibans of Julia programming language.
 - [FermiQC/Fermi.jl](https://github.com/FermiQC/Fermi.jl) - Fermi quantum chemistry program
 - [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs
@@ -2227,8 +2232,7 @@
 - [diegopastor/awesome-football-analytics](https://github.com/diegopastor/awesome-football-analytics) - A curated list of football analytics awesome resources, articles, books and more!
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [lharries/awesome-mcp-servers](https://github.com/lharries/awesome-mcp-servers) - A collection of MCP servers.
-- [seanboyce/Calculus-the-game](https://github.com/seanboyce/Calculus-the-game) - An electronic strategy board game about mining an asteroid and barter.
-- [lookr-fyi/job-application-bot-by-ollama-ai](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai) - JobHuntr.fyi is a native macOS desktop app that uses Ollama-powered AI to apply for jobs on LinkedIn—automatically, 24/7. No OpenAI API key required.
+- [lookr-fyi/job-application-bot-by-ollama-ai](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai) - Personalize job applications at scale: semantic filters, tailored cover letters, and DM to hiring team.
 - [Daisy-Zhang/Awesome-Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes) - A list of datasets, tools, papers and code related to Deepfakes.
 - [dootss/shodan-dorks](https://github.com/dootss/shodan-dorks) - An auto-updating list of shodan dorks with info on the amount of results they return!
 - [0xPugal/Awesome-Dorks](https://github.com/0xPugal/Awesome-Dorks) - Dorks for Bug Bounty Hunting
@@ -3339,6 +3343,10 @@
 
 ## Python 
 
+- [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli) - Your agentic CLI developer
+- [derenrich/hdr-steganography](https://github.com/derenrich/hdr-steganography) - one image file that looks very different depending on your system
+- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
+- [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
 - [TANABEDAIGAKU/vndb-mcp](https://github.com/TANABEDAIGAKU/vndb-mcp) - A Model Context Protocol (MCP) server for accessing the Visual Novel Database (VNDB) API. This enables Claude AI to search and retrieve visual novel information.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [SimonWaldherr/DIY-Arcade-Machine](https://github.com/SimonWaldherr/DIY-Arcade-Machine) - Play classic arcade games on a 64x64 RGB LED Matrix, powered by the Raspberry RP2040.
@@ -3361,6 +3369,7 @@
 - [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - Wan 2.1 for the GPU Poor
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ared469/whatsapp-mcp](https://github.com/ared469/whatsapp-mcp) - WhatsApp MCP server
+- [seanboyce/Calculus-the-game](https://github.com/seanboyce/Calculus-the-game) - An electronic strategy board game about mining an asteroid and barter.
 - [azmenak/InfiniteYou](https://github.com/azmenak/InfiniteYou) - 🔥 InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
 - [sliday/resume-job-matcher](https://github.com/sliday/resume-job-matcher) - AI-powered Python script for automated resume-job matching with scoring, PDF generation, and personalized email responses.
 - [sahilg06/EmoGen](https://github.com/sahilg06/EmoGen) - PyTorch Implementation for Paper "Emotionally Enhanced Talking Face Generation" (ICCVW'23 and ACM-MMW'23)
@@ -3890,7 +3899,7 @@
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [biopython/biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self) - A fork of the popular discord.py for user accounts.
 - [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
 - [AstraaDev/Discord-All-Tools-In-One](https://github.com/AstraaDev/Discord-All-Tools-In-One) - ATIO is a AIO Script Developed with Python3. It gathers a total of 23 Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc). It has a pleasant and intuitive interface
@@ -4978,6 +4987,7 @@
 
 ## Swift 
 
+- [oxremy/BlinkMore](https://github.com/oxremy/BlinkMore) - open-source macOS app to help with digital eye strain
 - [carekit-apple/CareKit](https://github.com/carekit-apple/CareKit) - CareKit is an open source software framework for creating apps that help people better understand and manage their health.
 - [Toni77777/awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - :rocket: Awesome SwiftUI Libraries
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
