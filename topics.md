@@ -276,6 +276,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vagrant](#vagrant)
@@ -503,7 +504,7 @@
 - [aylar-ghezelbash/awesome-ai-agents](https://github.com/aylar-ghezelbash/awesome-ai-agents) - A curated list of awesome top best AI Agents
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [sydverma123/awesome-ai-repositories](https://github.com/sydverma123/awesome-ai-repositories) - A curated list of open source repositories for AI Engineers
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [nandhakt/awesome-ai-coding-resources](https://github.com/nandhakt/awesome-ai-coding-resources) - A curated collection of AI coding tools, tutorials, and resources to get started with AI assisted coding.
 - [threehymns/awesome-terminals](https://github.com/threehymns/awesome-terminals) - A curated collection of modern, feature-rich (or minimal!) terminal emulators for developers. Discover, compare, and choose your next terminal with ease!
 - [shamrock7/awesome-fashion-ai](https://github.com/shamrock7/awesome-fashion-ai) - 整理与概述时尚及电商相关研究论文的资源库
@@ -822,7 +823,7 @@
 
 ## api 
 
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NAAS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer
 - [mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
@@ -927,7 +928,7 @@
 - [lightdock/lightdock](https://github.com/lightdock/lightdock) - Protein-protein, protein-peptide and protein-DNA docking framework based on the GSO algorithm
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [csinva/csinva.github.io](https://github.com/csinva/csinva.github.io) - Slides, paper notes, class notes, blog posts, and research on ML 📉, statistics 📊, and AI 🤖.
 - [uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) - An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant wit
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
@@ -1196,7 +1197,7 @@
 - [sydverma123/awesome-ai-repositories](https://github.com/sydverma123/awesome-ai-repositories) - A curated list of open source repositories for AI Engineers
 - [iwyvi/awesome-tools](https://github.com/iwyvi/awesome-tools) - A curated list of awesome tools I used.
 - [strongcourage/awesome-directed-fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) - A curated list of awesome directed fuzzing research papers
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [erikgahner/awesome-statistics](https://github.com/erikgahner/awesome-statistics) - A curated collection of links to statistics material
@@ -2013,7 +2014,7 @@
 - [sydverma123/awesome-ai-repositories](https://github.com/sydverma123/awesome-ai-repositories) - A curated list of open source repositories for AI Engineers
 - [iwyvi/awesome-tools](https://github.com/iwyvi/awesome-tools) - A curated list of awesome tools I used.
 - [strongcourage/awesome-directed-fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) - A curated list of awesome directed fuzzing research papers
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [subidit/typophilia](https://github.com/subidit/typophilia) - 💝 Trivia about typefaces.
@@ -3662,7 +3663,7 @@
 - [LasagnaCake/Makai](https://github.com/LasagnaCake/Makai) - A C++20 3D (+"2D") application & game framework library.
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 - [JaCzekanski/Avocado](https://github.com/JaCzekanski/Avocado) - 🥑 PlayStation 1 emulator
-- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency home security camera by using native WebRTC with the v4l2 hardware H.264 encoder and the software-based OpenH264 encoder for live video stream.
+- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency security camera by using native WebRTC with the v4l2 hardware H.264 and the software OpenH264 encoder.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [tuiwidgets/tuiwidgets](https://github.com/tuiwidgets/tuiwidgets) - Terminal user inferface toolkit
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
@@ -5700,6 +5701,7 @@
 
 ## go 
 
+- [al-sultani/prokzee](https://github.com/al-sultani/prokzee) - A cross-platform desktop application for HTTP/HTTPS traffic interception and analysis, built with Go. Features modern UI, traffic manipulation tools, request resending, fuzzing capabilities, and AI-po
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
@@ -7688,7 +7690,7 @@
 
 ## json 
 
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NAAS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [TUVIMEN/forumscraper](https://github.com/TUVIMEN/forumscraper) - automatic and extensive scraper for forums
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -8244,7 +8246,7 @@
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [p-obrthr/all-in-intelligence](https://github.com/p-obrthr/all-in-intelligence) - texas holdem poker per terminal
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
@@ -8423,7 +8425,7 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [gcorso/DiffDock](https://github.com/gcorso/DiffDock) - Implementation of DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [diegoinacio/creative-coding-notebooks](https://github.com/diegoinacio/creative-coding-notebooks) - 🎨 An authorial set of fundamental Python recipes on Creative Coding and Computer Art.
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -9578,7 +9580,6 @@
 - [anan235/dia-multilingual](https://github.com/anan235/dia-multilingual) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [daodao97/github-deepwiki-button](https://github.com/daodao97/github-deepwiki-button) - Add a button to redirect to deepwiki.com in GitHub
 - [whiteSHADOW1234/WhisperTranscriber](https://github.com/whiteSHADOW1234/WhisperTranscriber) - 🎙️ Effortlessly transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Google Colab — no setup required!
-- [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [punnerud/cursor_ollama_proxy](https://github.com/punnerud/cursor_ollama_proxy) - 
 - [Operative-Sh/web-eval-agent](https://github.com/Operative-Sh/web-eval-agent) - An MCP server that autonomously evaluates web applications.
 - [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
@@ -10755,7 +10756,6 @@
 - [open-edge-platform/anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -11464,7 +11464,7 @@
 - [jiafeiandarianagrande/Instagram-Agent](https://github.com/jiafeiandarianagrande/Instagram-Agent) - Instagram-Agent is a versatile Python tool designed for automating interactions on Instagram, such as liking photos, following users, and commenting on posts. It utilizes the Instagram API to streamli
 - [sepandhaghighi/clox](https://github.com/sepandhaghighi/clox) - ⏰ A Geeky Clock for Terminal Enthusiasts
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [C0MPL3XDEV/E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) - E4GL30S1NT - Simple Information Gathering Tool
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [pygamelib/pygamelib](https://github.com/pygamelib/pygamelib) - A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.
@@ -11889,6 +11889,7 @@
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
@@ -12128,7 +12129,7 @@
 - [stephenpapierski/PiGarage](https://github.com/stephenpapierski/PiGarage) - Smart garage door controller for RaspberryPi and Hubitat
 - [Defective4/pirocast](https://github.com/Defective4/pirocast) - [WIP] Transform your Raspberry Pi into an autonomous radio receiver
 - [aaronwmorris/indi-allsky](https://github.com/aaronwmorris/indi-allsky) - Software to manage a Linux-based All Sky Camera.
-- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency home security camera by using native WebRTC with the v4l2 hardware H.264 encoder and the software-based OpenH264 encoder for live video stream.
+- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency security camera by using native WebRTC with the v4l2 hardware H.264 and the software OpenH264 encoder.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [B3ND1X/air-script](https://github.com/B3ND1X/air-script) - Air Script is a powerful Wi-Fi auditing tool with optional email alerts for captured handshakes.
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -12627,7 +12628,7 @@
 - [puresec/awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 - [gmh5225/awesome-llvm-security](https://github.com/gmh5225/awesome-llvm-security) - awesome llvm security [Welcome to PR]
 - [hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [kraloveckey/venom](https://github.com/kraloveckey/venom) - 👽 The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
 - [theo-abel/awesome-anti-virtualization](https://github.com/theo-abel/awesome-anti-virtualization) - A curated list of awesome resources related to anti virtualization techniques
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
@@ -13062,6 +13063,7 @@
 ## self-hosted 
 
 - [ai-joe-git/Belullama](https://github.com/ai-joe-git/Belullama) - Belullama is a comprehensive AI application that bundles Ollama, Open WebUI, and Automatic1111 (Stable Diffusion WebUI) into a single, easy-to-use package.
+- [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -13576,7 +13578,7 @@
 - [sepandhaghighi/clox](https://github.com/sepandhaghighi/clox) - ⏰ A Geeky Clock for Terminal Enthusiasts
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image rendering support
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
@@ -13979,6 +13981,17 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi) - Native Ubuntu installations for Apple silicon hardware
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
+
+## ui-design 
+
+- [Proxlight/Buildfy-Free](https://github.com/Proxlight/Buildfy-Free) - An easy and fast way to create a Python GUI 🐍 | This software allows you to create complex UI faster than ever⚡
+- [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) - Python Terminal Toolkit - a Spiced Up Cross Compatible TUI Library 🌶️
+- [Viktoo/Insert3D](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model in Swift
+- [Correia-jpv/fucking-Awesome-Design-Tools](https://github.com/Correia-jpv/fucking-Awesome-Design-Tools) - The best design tools and plugins for everything. With repository stars⭐ and forks🍴
+- [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 
 ## unity 
 
