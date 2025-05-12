@@ -156,6 +156,8 @@
 
 ## C 
 
+- [ubisoft/Chroma](https://github.com/ubisoft/Chroma) - Chroma (developed by Ubisoft) is a one-stop solution for detecting color blindness-related issues in games. It replicates Protanopia, Deuteranopia, and Tritanopia filters over the game screen, helping
+- [steineggerlab/foldseek](https://github.com/steineggerlab/foldseek) - Foldseek enables fast and sensitive comparisons of large structure sets.
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) - Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
@@ -465,6 +467,14 @@
 
 ## C++ 
 
+- [abchouhan/acreplay-parser](https://github.com/abchouhan/acreplay-parser) - Assetto Corsa replay parser and importer for Blender.
+- [berkay-top/Tic-Tac-Toe](https://github.com/berkay-top/Tic-Tac-Toe) - Tic-Tac-Toe Game
+- [kbingham/libcamera](https://github.com/kbingham/libcamera) - libcamera - Making complex cameras easy. This is a personal fork, please use the upstream repository at https://git.libcamera.org/libcamera/libcamera.git/
+- [cloudwiser/ObjectDetectionRPiZero](https://github.com/cloudwiser/ObjectDetectionRPiZero) - TensorFlow Lite object detection example for Raspberry Pi Zero
+- [ferluht/loopa](https://github.com/ferluht/loopa) - A portable raspberry pi zero powered sound computer with looper-based workflow
+- [tenable/pi_sniffer](https://github.com/tenable/pi_sniffer) - The pocket-sized wireless sniffer
+- [ClemensElflein/open_mower_ros](https://github.com/ClemensElflein/open_mower_ros) - 
+- [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - The universal dashboard for embedded systems.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly inst
@@ -490,6 +500,7 @@
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [CasperTheCat/UnrealPSOPlugin](https://github.com/CasperTheCat/UnrealPSOPlugin) - Unreal 5 PSO Helper Plugin
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [sankethj/ZiFi](https://github.com/sankethj/ZiFi) - Wifi hacking tool using ESP8266 ( Evil-twin method )
@@ -858,6 +869,7 @@
 
 ## Dart 
 
+- [ammolytics/projects](https://github.com/ammolytics/projects) - Source code and instructions for do-it-yourself projects.
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) - ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
@@ -881,6 +893,7 @@
 
 ## Dockerfile 
 
+- [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [hopeman15/awesome-regenerative-agriculture](https://github.com/hopeman15/awesome-regenerative-agriculture) - 🌾 A curated list of awesome regenerative agriculture topics and resources.
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -1128,6 +1141,9 @@
 
 ## Go 
 
+- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds wtih a simple CLI tool
+- [mycweb/mycelium](https://github.com/mycweb/mycelium) - Typed Formats for Storing & Transferring Data & Code
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [joachimbbp/neurovolume](https://github.com/joachimbbp/neurovolume) - 🧠 Converts neurological MRI scans to VDBs for visualizations.
 - [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)
@@ -1379,6 +1395,7 @@
 
 ## HTML 
 
+- [benjamin-maynard/Pi-Camera-in-a-box](https://github.com/benjamin-maynard/Pi-Camera-in-a-box) - Stream your Raspberry Pi Camera Module directly to your web browser
 - [punnerud/cursor_ollama_proxy](https://github.com/punnerud/cursor_ollama_proxy) - 
 - [punnerud/gemma3_image_to_text](https://github.com/punnerud/gemma3_image_to_text) - 
 - [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
@@ -1630,6 +1647,10 @@
 
 ## JavaScript 
 
+- [waveform80/pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
+- [Anodynous/stenogotchi](https://github.com/Anodynous/stenogotchi) - Portable stenography using Plover and bluetooth keyboard emulation on a Raspberry Pi Zero W
+- [jxlarrea/ha-bt-proximity](https://github.com/jxlarrea/ha-bt-proximity) - Distributed Bluetooth Room Presence Sensor for Home Assistant
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [Dukweeno/Duckuino](https://github.com/Dukweeno/Duckuino) - Simple DuckyScript to Arduino C converter.
 - [francescovaglia/kliply](https://github.com/francescovaglia/kliply) - Chrome Extension to summarize YouTube videos
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
@@ -1685,7 +1706,6 @@
 - [0xvashishth/CalcHub](https://github.com/0xvashishth/CalcHub) - 🚀 A curated collection of calculators for various aspects of mathematics. Anyone with a little understanding of web development may design a unique calculator and make a pull.
 - [Y0UR-U5ERNAME/gbs-plugin-collection](https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection) - a collection of GB Studio 3.0 plugins
 - [pau-tomas/gb-studio-plugins](https://github.com/pau-tomas/gb-studio-plugins) - A set of experimental plugins for GB Studio
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [memalf/medium-unlocker](https://github.com/memalf/medium-unlocker) - Unlock Medium for free access.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [MehmetBozkir/React-Portfolio](https://github.com/MehmetBozkir/React-Portfolio) - 🌐 Protfolio Website | Plain and Simple Nextjs.
@@ -2054,6 +2074,8 @@
 
 ## Jupyter Notebook 
 
+- [dmnfarrell/snipgenie](https://github.com/dmnfarrell/snipgenie) - command line and desktop tool for microbial variant calling
+- [pram84/rna-3d-folding](https://github.com/pram84/rna-3d-folding) - 🧪Predicting 🧬RNA 3D Structures 🚀ML
 - [saccofrancesco/deepshot](https://github.com/saccofrancesco/deepshot) - DeepShot is a machine learning model designed to predict NBA game outcomes using advanced team statistics and rolling averages. It combines historical performance trends with contextual game data to d
 - [nglviewer/nglview](https://github.com/nglviewer/nglview) - Jupyter widget to interactively view molecular structures and trajectories
 - [kishanrajput23/Awesome-Python-Projects](https://github.com/kishanrajput23/Awesome-Python-Projects) - Contribute in this repository by raising genuine PR. Get verified, and earn the free swags from Hacktoberfest 2023.
@@ -2212,6 +2234,7 @@
 
 ## Makefile 
 
+- [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 - [ruanbekker/awesome-docker-compose](https://github.com/ruanbekker/awesome-docker-compose) - My Collection of Docker Compose Files. Use "make up" to test it.
 - [brisbanesocialchess/awesome-social-chess](https://github.com/brisbanesocialchess/awesome-social-chess) - 
 - [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
@@ -2278,6 +2301,11 @@
 
 ## Others 
 
+- [Quang123-op/Heart_Attack](https://github.com/Quang123-op/Heart_Attack) - Predict the likelihood of heart attacks using machine learning. Includes data preprocessing, feature selection, model training, and evaluation to assist early diagnosis and intervention
+- [vasya-zh/PiZeroHat](https://github.com/vasya-zh/PiZeroHat) - Raspberry Pi Zero Shield/Hat KiCad component and example project
+- [Leoneq/iNapMalinka](https://github.com/Leoneq/iNapMalinka) - Your NRF24L01 transmitter that can play pokemon
+- [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero(wh)/zero2(wh)/5B/4B/3B+
+- [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [m8/awesome-arduino](https://github.com/m8/awesome-arduino) - A curated list of awesome Arduino tools and projects.
 - [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of Workflow Automation  Software, Engines and Tools
 - [grdashark/BLEShark](https://github.com/grdashark/BLEShark) - An ESP-32 based multi-tool for pentesting.
@@ -3322,6 +3350,7 @@
 
 ## PHP 
 
+- [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [carlnewton/habitat](https://github.com/carlnewton/habitat) - Habitat is a free and open source self-hosted social platform for local communities
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a mod
 - [lastguest/pixeler](https://github.com/lastguest/pixeler) - CLI image renderer
@@ -3421,6 +3450,45 @@
 
 ## Python 
 
+- [open-stage/blender-dmx](https://github.com/open-stage/blender-dmx) - Blender addon to design and render DMX lighting.
+- [Yuntokon/BlenderLayer](https://github.com/Yuntokon/BlenderLayer) - Blender Layer is a plugin that allows you to stream 3D View from Blender into Krita, behaving like a normal layer: You can trace over it, change the blending mode and even apply layer styles!
+- [30350n/pcb2blender](https://github.com/30350n/pcb2blender) - KiCad to Blender 3D model workflow
+- [Charley3d/lip-sync](https://github.com/Charley3d/lip-sync) - Lip Sync 2D for free in Blender
+- [AntonFlorey/PolyZamboni](https://github.com/AntonFlorey/PolyZamboni) - A Blender Addon for Low-Poly Papercraft
+- [em-llm/EM-LLM-model](https://github.com/em-llm/EM-LLM-model) - 
+- [AvaLovelace1/LegoGPT](https://github.com/AvaLovelace1/LegoGPT) - Official repository for LegoGPT, the first approach for generating physically stable LEGO brick models from text prompts.
+- [sam1am/cli-viz](https://github.com/sam1am/cli-viz) - An audio visualizer that runs in the linux terminal and reacts to the microphone.
+- [jdc-cunningham/modular-pi-cam](https://github.com/jdc-cunningham/modular-pi-cam) - A modular camera body for raspberry pi
+- [Paradoxdruid/pyLIDAR](https://github.com/Paradoxdruid/pyLIDAR) - python scripts to interact with the LD06 LIDAR
+- [satoshikawato/gbdraw](https://github.com/satoshikawato/gbdraw) - A genome diagram generator for microbes
+- [BernhoferM/TMbed](https://github.com/BernhoferM/TMbed) - Transmembrane proteins predicted through Language Model embeddings
+- [mauriceling/advancesyntoolkit](https://github.com/mauriceling/advancesyntoolkit) - Toolkit for Modelling and Simulation of Gene Expressions and Metabolism
+- [Mansur090909/Drug_Potency_PredictionML](https://github.com/Mansur090909/Drug_Potency_PredictionML) - Allows users to investigate a target protein / disease, and generate a machine learning model to predict potency in any compound (in SMILES format) against that target as represented by the pIC50 metr
+- [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
+- [SensorsIot/IOTstack](https://github.com/SensorsIot/IOTstack) - Docker stack for getting started on IOT on the Raspberry PI
+- [fossasia/susi_linux](https://github.com/fossasia/susi_linux) - Hardware for SUSI AI https://susi.ai
+- [bmccafferty/ping-pong-led-wall](https://github.com/bmccafferty/ping-pong-led-wall) - My Ping Ping LED Wall, Created with Neopixels (WS2812(B))
+- [michelep/PiDashCam](https://github.com/michelep/PiDashCam) - Raspberry Pi Zero W dash camera for your auto
+- [CarCarGroup05/RobotVacuum](https://github.com/CarCarGroup05/RobotVacuum) - Due to this aging society, we intended to develop a robot vacuum to care for senior citizens. It has the ability not only to clean the floor but also to detect whether a senior citizen have fallen usi
+- [pageauc/track-inout](https://github.com/pageauc/track-inout) - Windows, Unix, Raspberry Pi program uses opencv and python to track moving objects that enter and leave camera view and cross a vert or horz trigger center line.  Can be configured to take an image an
+- [scaidermern/piCamBot](https://github.com/scaidermern/piCamBot) - Security camera based on a raspberry pi and Telegram, controllable by smartphone
+- [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
+- [SvenVD/rpisurv](https://github.com/SvenVD/rpisurv) - Raspberry Pi surveillance
+- [pibooth/pibooth](https://github.com/pibooth/pibooth) - The pibooth project provides a Photo Booth application out-of-the-box for Raspberry Pi and opencv compatible devices
+- [dataplayer12/homesecurity](https://github.com/dataplayer12/homesecurity) - Security camera with Raspberry pi and NVIDIA Jetson platforms
+- [midasgossye/NixieClock](https://github.com/midasgossye/NixieClock) - Software code for a Raspberry pi powered Nixie Clock
+- [mastersubhajit/raspberry-pi-camera](https://github.com/mastersubhajit/raspberry-pi-camera) - Stream Live footage from your raspberry pi camera module
+- [dnywh/pi-frame](https://github.com/dnywh/pi-frame) - Print your own changing picture frame using an e-ink display and Raspberry Pi.
+- [ichisadashioko/raspizero-hid](https://github.com/ichisadashioko/raspizero-hid) - Turn Raspberry Pi Zero into a HID keystroke injection device.
+- [AlfredoSequeida/roomba_flamethrower](https://github.com/AlfredoSequeida/roomba_flamethrower) - Raspberry Pi Zero W powered Roomba Flamethrower controlled by an Xbox One Controller.
+- [erviveksoni/raspberrypi-controlled-tello](https://github.com/erviveksoni/raspberrypi-controlled-tello) - Control DJI Tello using Raspberry Pi Zero and Xbox One S Controller
+- [quaxalber/bluetooth_2_usb](https://github.com/quaxalber/bluetooth_2_usb) - Convert a Raspberry Pi into a HID relay that translates Bluetooth keyboard and mouse input to USB. Minimal configuration. Zero hassle.
+- [euniceylee/waves](https://github.com/euniceylee/waves) - raspberry pi project that visualizes sound waves
+- [waveform80/picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
+- [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
+- [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [sshahryiar/Raspberry-Pi-Pico](https://github.com/sshahryiar/Raspberry-Pi-Pico) - My projects with RP2040 Raspberry Pi Pico and Pico W
 - [toxydose/Duckyspark](https://github.com/toxydose/Duckyspark) - Translator from USB-Rubber-Ducky payloads to a Digispark code.
 - [lavafroth/pwnpi-amora](https://github.com/lavafroth/pwnpi-amora) - A wireless keystroke injection tool built on the Raspberry Pi Pico W using CircuitPython.
@@ -4750,6 +4818,8 @@
 
 ## Rust 
 
+- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore 5,000+ genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- [reynoldsbd/lunacam](https://github.com/reynoldsbd/lunacam) - Camera streaming system for Raspberry Pi
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [David-OConnor/plascad](https://github.com/David-OConnor/plascad) - 
@@ -4920,6 +4990,18 @@
 
 ## Shell 
 
+- [Harsh-bin/dotfold](https://github.com/Harsh-bin/dotfold) - A small, password-protected TUI + CLI tool that hides folders by prefixing them with "." and securely stores folder metadata using OpenSSL and a SHA-256 hashed password.
+- [AchimPieters/MagicZeroMirror](https://github.com/AchimPieters/MagicZeroMirror) - MagicMirror²
+- [vs4vijay/SwissArmyPi](https://github.com/vs4vijay/SwissArmyPi) - A set of utility/tools to make Raspberry Pi [Zero W] into Swiss Army Knife
+- [mrtejas99/wifi-extender](https://github.com/mrtejas99/wifi-extender) - A WiFi repeater built around Raspberry Pi under 10 US$
+- [Paraphraser/PiBuilder](https://github.com/Paraphraser/PiBuilder) - Ideas for building a Raspberry Pi from "bare metal" to ready-to-run IOTstack
+- [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
+- [Botspot/Pi-Power-Tools](https://github.com/Botspot/Pi-Power-Tools) - General Purpose Raspbian Image & SD Card Manager
+- [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
+- [hwdsl2/openvpn-install](https://github.com/hwdsl2/openvpn-install) - OpenVPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE, Amazon Linux 2 and Raspberry Pi OS
+- [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay 2, and Spotify Connect
+- [hwdsl2/wireguard-install](https://github.com/hwdsl2/wireguard-install) - WireGuard VPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE and Raspberry Pi OS
+- [marcone/teslausb](https://github.com/marcone/teslausb) - A smart USB drive for Tesla Dashcam - extended storage, auto archive, web viewer
 - [ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi](https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi) - A £10 Rubber Ducky USB HID! A USB device which emulates a keyboard and automates key entry.
 - [ai-joe-git/Belullama](https://github.com/ai-joe-git/Belullama) - Belullama is a comprehensive AI application that bundles Ollama, Open WebUI, and Automatic1111 (Stable Diffusion WebUI) into a single, easy-to-use package.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
@@ -5153,6 +5235,8 @@
 
 ## Swift 
 
+- [jaywcjlove/TextSoundSaver](https://github.com/jaywcjlove/TextSoundSaver) - Using the TextSoundSaver application, you can convert text into realistic synthesized speech. The app achieves smooth and natural text-to-speech conversion. In addition to providing excellent voice sy
+- [pranavkarthik10/PodPals](https://github.com/pranavkarthik10/PodPals) - Control your music using airpods gestures
 - [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
 - [andrewarrow/ReadHerring](https://github.com/andrewarrow/ReadHerring) - iOS app to read a pdf of a screenplay with various voices
 - [rational-kunal/NeoBrutalism](https://github.com/rational-kunal/NeoBrutalism) - NeoBrutalism SwiftUI components
@@ -5231,6 +5315,8 @@
 
 ## TypeScript 
 
+- [5hubham5ingh/searchawesomes](https://github.com/5hubham5ingh/searchawesomes) - A fuzzy finder to quickly search through the vast collection of "awesome" GitHub repositories, directly in your browser.
+- [VirusDecode-project/VirusDecode](https://github.com/VirusDecode-project/VirusDecode) - VirusDecode integrates bioinformatics tools for efficient virus sequence analysis, supporting rapid mRNA vaccine development with a biopython.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [KyleTryon/BlenderQ](https://github.com/KyleTryon/BlenderQ) - A TUI for batch rendering Blender files
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
