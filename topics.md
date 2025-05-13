@@ -262,6 +262,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -276,6 +277,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
@@ -6051,7 +6053,7 @@
 - [GodotVR/godot-xr-tools](https://github.com/GodotVR/godot-xr-tools) - Support scenes for AR and VR in Godot
 - [nathanhoad/godot_sound_manager](https://github.com/nathanhoad/godot_sound_manager) - A simple music and sound effect player for the Godot Engine
 - [Shin-NiL/Godot-Android-Admob-Plugin](https://github.com/Shin-NiL/Godot-Android-Admob-Plugin) - Android AdMob plugin for Godot Game Engine 3.2 or higher
-- [ahopness/GodotRetro](https://github.com/ahopness/GodotRetro) - A pack of retro shaders to Godot!
+- [ahopness/GodotRetro](https://github.com/ahopness/GodotRetro) - A pack of retro shaders for Godot!
 - [peter-kish/gloot](https://github.com/peter-kish/gloot) - A universal inventory system for the Godot game engine.
 - [nezvers/Godot_goodies](https://github.com/nezvers/Godot_goodies) - Collection of nice stuff for Godot
 - [paulloz/godot-ink](https://github.com/paulloz/godot-ink) - Ink integration for Godot Engine.
@@ -8009,7 +8011,7 @@
 - [Cyber-Courses/Cyber-Library](https://github.com/Cyber-Courses/Cyber-Library) - 👋 Welcome to the Cyber Library your ultimate resource for everything cybersecurity.
 - [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5 & 3).
+- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5, 4 & 3).
 - [lvntky/fbgl](https://github.com/lvntky/fbgl) - Lightweight 2D Framebuffer Library for Linux
 - [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [robleto/design-books](https://github.com/robleto/design-books) - A curated list of books related to all facets of design.
@@ -8081,7 +8083,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5 & 3).
+- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5, 4 & 3).
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
 - [MrHarshArora/CyberGhostWeapon](https://github.com/MrHarshArora/CyberGhostWeapon) - This is a SMS And Call Bomber For Linux And Termux
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
@@ -10016,7 +10018,7 @@
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [mapbox/magic-tape](https://github.com/mapbox/magic-tape) - tape plus some goodies
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
-- [pH-7/Download-Simply-Videos-From-YouTube](https://github.com/pH-7/Download-Simply-Videos-From-YouTube) - Allows you to download and save very easily any of your favorite videos and entire playlists from YouTube. All you need to do is just run this Python script and follow the prompt :)
+- [pH-7/Download-Simply-Videos-From-YouTube](https://github.com/pH-7/Download-Simply-Videos-From-YouTube) - Python script that downloads and saves any of your favorite YouTube videos and playlists. All you need to do is just run the Python script and follow the terminal prompt.
 - [akopdev/obsidian-bibtex-manager](https://github.com/akopdev/obsidian-bibtex-manager) - Create literature notes in Obsidian from BibTeX entries, display formatted reference lists, and instantly generate citations.
 - [clairefro/obsidian-plugin-etymology-lookup](https://github.com/clairefro/obsidian-plugin-etymology-lookup) - Obsidian plugin for looking up the etymology of words in your notes with one click
 - [acheong08/obi-sync](https://github.com/acheong08/obi-sync) - Reverse engineering of the native Obsidian sync and publish server
@@ -10468,7 +10470,6 @@
 - [godot-addons/godot-behavior-tree-plugin](https://github.com/godot-addons/godot-behavior-tree-plugin) - Behavior Tree implementation for the Godot Engine as an addon in pure GDScript
 - [anthonyec/godot_little_camera_preview](https://github.com/anthonyec/godot_little_camera_preview) - 🎥 Picture-in-picture style preview for both 2D and 3D cameras
 - [wyhinton/AwesomeHoudini](https://github.com/wyhinton/AwesomeHoudini) - A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem.
-- [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [SebLague/Procedural-Planets](https://github.com/SebLague/Procedural-Planets) - 
 - [weigert/SimpleHydrology](https://github.com/weigert/SimpleHydrology) - Procedural Hydrology / River / Lake Simulation
@@ -10600,7 +10601,6 @@
 - [freeCodeCamp/open-source-for-good-directory](https://github.com/freeCodeCamp/open-source-for-good-directory) - A directory for freeCodeCamp's Open Source for Good apps - solutions for nonprofits
 - [freeCodeCamp/pantry-for-good](https://github.com/freeCodeCamp/pantry-for-good) - An open source food bank logistics and inventory management tool
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
-- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
 - [TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty & Pentesting
@@ -12358,7 +12358,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi) - curated list of projects with raspberry pi
 - [cardonabits/haxo-hw](https://github.com/cardonabits/haxo-hw) - Haxophone, an electronic musical instrument that resembles a saxophone
-- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5 & 3).
+- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5, 4 & 3).
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
 - [stephenpapierski/PiGarage](https://github.com/stephenpapierski/PiGarage) - Smart garage door controller for RaspberryPi and Hubitat
 - [Defective4/pirocast](https://github.com/Defective4/pirocast) - [WIP] Transform your Raspberry Pi into an autonomous radio receiver
@@ -13694,6 +13694,12 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) - Provides a structured process for converting a Request into a Response
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 
+## tailwind 
+
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
 ## tailwindcss 
 
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser
@@ -14240,6 +14246,46 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi) - Native Ubuntu installations for Apple silicon hardware
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
+
+## ui 
+
+- [ai-joe-git/Belullama](https://github.com/ai-joe-git/Belullama) - Belullama is a comprehensive AI application that bundles Ollama, Open WebUI, and Automatic1111 (Stable Diffusion WebUI) into a single, easy-to-use package.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [Correia-jpv/fucking-awesome-ios-ui](https://github.com/Correia-jpv/fucking-awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries. With repository stars⭐ and forks🍴
+- [mob-sakai/ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.
+- [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to deco
+- [tuiwidgets/tuiwidgets](https://github.com/tuiwidgets/tuiwidgets) - Terminal user inferface toolkit
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
+- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
+- [Team-on/UnityGameTemplate](https://github.com/Team-on/UnityGameTemplate) - Template with all necessary stuff taken care, just create your games main features.
+- [healkeiser/fxgui](https://github.com/healkeiser/fxgui) - Custom Python classes and utilities tailored for Qt built UI, in VFX-oriented DCC applications.
+- [Volorf/xr-prototypes](https://github.com/Volorf/xr-prototypes) - A collection of my XR prototypes as apk files for Meta Quest devices.
+- [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
+- [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) - Python Terminal Toolkit - a Spiced Up Cross Compatible TUI Library 🌶️
+- [stanislawfortonski/StickMan-3D](https://github.com/stanislawfortonski/StickMan-3D) - StickMan 3D: First Round | indie fighting game | C++ OpenGL
+- [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
+- [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
+- [EnviralDesign/TD-UberGui](https://github.com/EnviralDesign/TD-UberGui) - UberGui is a lightweight multi-threaded, webRender UI module for TouchDesigner
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife) - android ui调试工具
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
+- [Mountea-Framework/MounteaInventoryEquipment](https://github.com/Mountea-Framework/MounteaInventoryEquipment) - Mountea Inventory & Equipment is an Open-source Mountea Framework components based simple framework allowing you to construct Inventory systems fast, easily and with advanced options.
+- [Mountea-Framework/MounteaDialogueSystem](https://github.com/Mountea-Framework/MounteaDialogueSystem) - Mountea Dialogue System is an Open-source Mountea Framework tool for Unreal Engine for creating (not just) complex dialogues! Provides its own Dialogue Tree editor and validation system.
+- [Mountea-Framework/MounteaInteractionSystem](https://github.com/Mountea-Framework/MounteaInteractionSystem) - Open-source components based tool for smart Actor Interaction with other Actors. Developed with Designers in mind to allow you as easy as possible implementation while maintaining high scalability and
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [jxom/bumbag-ui](https://github.com/jxom/bumbag-ui) - Build themeable React & React Native applications with your Bumbag 👝
+- [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
+- [Kehom/GodotAddonPack](https://github.com/Kehom/GodotAddonPack) - A collection of pure GDScript addons for Godot
+- [gchq/gaffer-tools](https://github.com/gchq/gaffer-tools) - gaffer-tools is deprecated. Use https://github.com/gchq/gafferpy instead
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+- [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+- [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 
 ## ui-design 
 
