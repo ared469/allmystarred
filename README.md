@@ -524,7 +524,7 @@
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
 - [JaCzekanski/Avocado](https://github.com/JaCzekanski/Avocado) - 🥑 PlayStation 1 emulator
-- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5 & 3).
+- [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5, 4 & 3).
 - [bl4ze4447/Work-Break](https://github.com/bl4ze4447/Work-Break) - Project made as a request from my girlfriend :)
 - [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency p2p camera by using native WebRTC with the v4l2 hardware H.264 and the software OpenH264 encoder.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
@@ -3076,7 +3076,7 @@
 - [proyecto26/awesome-unity](https://github.com/proyecto26/awesome-unity) - A curated list of awesome Unity games! 🎮
 - [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
 - [VacaRoxa/gamedev4noobs](https://github.com/VacaRoxa/gamedev4noobs) - Olá, sejam bem-vindos ao repositório _gamedev4noobs_ do Estúdio Vaca Roxa. O propósito desse repositório, além de contribuir para o projeto 4noobs, é ensinar o básico do desenvolvimento de jogos para 
-- [ahopness/GodotRetro](https://github.com/ahopness/GodotRetro) - A pack of retro shaders to Godot!
+- [ahopness/GodotRetro](https://github.com/ahopness/GodotRetro) - A pack of retro shaders for Godot!
 - [nezvers/Godot_goodies](https://github.com/nezvers/Godot_goodies) - Collection of nice stuff for Godot
 - [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
 - [zolagonano/awesome-zeronet](https://github.com/zolagonano/awesome-zeronet) - An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites.
@@ -3748,7 +3748,7 @@
 - [makehumancommunity/makehuman](https://github.com/makehumancommunity/makehuman) - This is the main repository for the MakeHuman application as such.
 - [LaTeXing/LaTeXing](https://github.com/LaTeXing/LaTeXing) - LaTeXing - Professional Typesetting - An extension for Sublime Text which makes your life  easier and more comfortable while creating your documents.
 - [vanvalenlab/deepcell-tf](https://github.com/vanvalenlab/deepcell-tf) - Deep Learning Library for Single Cell Analysis
-- [pH-7/Download-Simply-Videos-From-YouTube](https://github.com/pH-7/Download-Simply-Videos-From-YouTube) - Allows you to download and save very easily any of your favorite videos and entire playlists from YouTube. All you need to do is just run this Python script and follow the prompt :)
+- [pH-7/Download-Simply-Videos-From-YouTube](https://github.com/pH-7/Download-Simply-Videos-From-YouTube) - Python script that downloads and saves any of your favorite YouTube videos and playlists. All you need to do is just run the Python script and follow the terminal prompt.
 - [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [navis-org/navis](https://github.com/navis-org/navis) - Python library for analysis of neuroanatomical data.
@@ -4862,7 +4862,6 @@
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [Akzestia/waifu-colorscripts](https://github.com/Akzestia/waifu-colorscripts) - Adds anime Waifu to your terminal ^_^
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
-- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [pbellchambers/rustyhack-mmo](https://github.com/pbellchambers/rustyhack-mmo) - An ASCII "roguelike" MMORPG / MUD written in rust (barebones).
 - [huggingface/hf-hub](https://github.com/huggingface/hf-hub) - Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
@@ -5414,6 +5413,7 @@
 - [MrLostInTheInternet/terminal-portfolio](https://github.com/MrLostInTheInternet/terminal-portfolio) - My portfolio styled like a linux terminal. It is still in progress. It can handle tab completion of words, navigate between pages using the terminal and more. Hope you like it, enjoy :)
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
+- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [mrkev/webgpu-waveform](https://github.com/mrkev/webgpu-waveform) - Render waveforms to &lt;canvas /&gt; using WebGPU
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
