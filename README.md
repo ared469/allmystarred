@@ -526,7 +526,7 @@
 - [JaCzekanski/Avocado](https://github.com/JaCzekanski/Avocado) - 🥑 PlayStation 1 emulator
 - [gavinlyonsrepo/Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A  C++ Library for Linux based single board computers ( sbc ) to drive electronic displays. Developed and tested on Raspberry pi (5, 4 & 3).
 - [bl4ze4447/Work-Break](https://github.com/bl4ze4447/Work-Break) - Project made as a request from my girlfriend :)
-- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency p2p camera by using native WebRTC with the v4l2 hardware H.264 and the software OpenH264 encoder.
+- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Native WebRTC low-latency P2P video streaming on Raspberry Pi with V4L2 hardware H.264 and OpenH264 software encoding support.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [18Markus1984/3D-Tetris](https://github.com/18Markus1984/3D-Tetris) - This repository documents the creation of a 3x3x12 LED matrix that enables users to play a fully functional 3D Tetris game. The project leverages an ESP32-based development board (ESPduino) with integ
 - [simbody/simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
@@ -1664,7 +1664,7 @@
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [jonroig/usBabyNames.js](https://github.com/jonroig/usBabyNames.js) - NPM / JS / SQLIte: US Baby Name Data 1880-2023
+- [jonroig/usBabyNames.js](https://github.com/jonroig/usBabyNames.js) - NPM / JS / SQLIte: US Baby Name Data 1880-2024
 - [mcpdotdirect/template-mcp-server](https://github.com/mcpdotdirect/template-mcp-server) - Template to quickly set up your own MCP server
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -2179,7 +2179,6 @@
 - [SimpleMobileTools/Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
-- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app
 - [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
@@ -3394,7 +3393,7 @@
 ## Perl 
 
 - [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer
-- [micans/bash-utils](https://github.com/micans/bash-utils) - Unix terminal histograms and bar charts (hissyfit). Small data/file munge, morph, find and count scripts/functions in various languages, mostly bash and perl.  For apparix see the apparix repository t
+- [micans/bash-utils](https://github.com/micans/bash-utils) - Unix terminal histograms, sequencing depth and bar charts (hissyfit). Small data/file munge, morph, find and count scripts/functions in various languages, mostly bash and perl.  For apparix see the ap
 - [sanko/App-bsky](https://github.com/sanko/App-bsky) - Terminal Bluesky client in Perl
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner
@@ -5477,6 +5476,7 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [PavelLaptev/css-houdini-squircle](https://github.com/PavelLaptev/css-houdini-squircle) - A tiny CSS Houdini module that allows to add a squircle shape to HTML elements
+- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app
 - [leocabeza/smashbros-api](https://github.com/leocabeza/smashbros-api) - Unofficial smash bros api
 - [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) - A tool to convert 3D models into Minecraft formats such as .schematic, .litematic, .schem and .nbt
 - [sgenoud/replicad](https://github.com/sgenoud/replicad) - The library to build browser based 3D models with code.
