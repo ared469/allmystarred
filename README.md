@@ -469,6 +469,10 @@
 
 ## C++ 
 
+- [MothCocoon/FlowGraph](https://github.com/MothCocoon/FlowGraph) - Design-agnostic node system for scripting game’s flow in Unreal Engine
+- [AntonFlorey/MakePlanarFacesPlus](https://github.com/AntonFlorey/MakePlanarFacesPlus) - Blender Addon to flatten mesh faces
+- [decrazyo/fdxb](https://github.com/decrazyo/fdxb) - Arduino FDX-B reader built from discrete components.
+- [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
 - [abchouhan/acreplay-parser](https://github.com/abchouhan/acreplay-parser) - Assetto Corsa replay parser and importer for Blender.
 - [berkay-top/Tic-Tac-Toe](https://github.com/berkay-top/Tic-Tac-Toe) - Tic-Tac-Toe Game
 - [kbingham/libcamera](https://github.com/kbingham/libcamera) - libcamera - Making complex cameras easy. This is a personal fork, please use the upstream repository at https://git.libcamera.org/libcamera/libcamera.git/
@@ -937,7 +941,7 @@
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
 - [plaans/gobot-sim](https://github.com/plaans/gobot-sim) - High-level robotic simulator based on the Godot engine.
 - [geegaz/Multiple-Windows-tutorial](https://github.com/geegaz/Multiple-Windows-tutorial) - Godot 4 tutorial for making a character that moves outside of the game window
-- [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - [mirror] 99 Managers Futsal Edition, is a Futsal Manager game made with Godot Engine 4
+- [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - Archived and moved to https://codeberg.org/dulvui/99managers-futsal-edition. 99 Managers Futsal Edition, is a Futsal Manager game made with Godot Engine 4
 - [TokisanGames/Sky3D](https://github.com/TokisanGames/Sky3D) - Atmospheric Day/Night Cycle for Godot 4
 - [blackears/cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder) - A Godot plugin to let you block in levels inside the Godot editor.
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
@@ -971,7 +975,7 @@
 - [etherealxx/ai-for-game-godot-college-projects](https://github.com/etherealxx/ai-for-game-godot-college-projects) - Compilation of my AI subject project on 5th semester
 - [ArtyIF/aacc](https://github.com/ArtyIF/aacc) - Arty's Arcadey Car Controller for Godot
 - [Donitzo/godot-simple-portal-system](https://github.com/Donitzo/godot-simple-portal-system) - A simple portal system for viewport-based portals in Godot 4.
-- [Khaligufzel/Dimensionfall](https://github.com/Khaligufzel/Dimensionfall) - A survival game inspired by Cataclysm: Dark Days Ahead and Bright Nights.
+- [Dimensionfall/Dimensionfall](https://github.com/Dimensionfall/Dimensionfall) - A survival game inspired by Cataclysm: Dark Days Ahead and Bright Nights.
 - [snipercup/CataX](https://github.com/snipercup/CataX) - A survival game inspired by Cataclysm: Dark Days Ahead and Bright Nights.
 - [Cute-Fame-Studio/3D-TurnBasedCombat](https://github.com/Cute-Fame-Studio/3D-TurnBasedCombat) - 3D Open-Source Turn-Based Combat Template (Godot)
 - [bikemurt/Godot_TestProject](https://github.com/bikemurt/Godot_TestProject) - Test project for Godot 4 3D.
@@ -1191,7 +1195,6 @@
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [cassieopea/CommandLineMaze](https://github.com/cassieopea/CommandLineMaze) - A golang port of https://github.com/OneLoneCoder/CommandLineFPS
@@ -1216,7 +1219,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
-- [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
+- [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Linux/macOS
 - [gleich/terminal](https://github.com/gleich/terminal) - ssh terminal.mattglei.ch
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 - [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok
@@ -1393,6 +1396,7 @@
 
 ## HTML 
 
+- [yongkaiwu/FairAI](https://github.com/yongkaiwu/FairAI) - This is a collection of papers and other resources related to fairness.
 - [benjamin-maynard/Pi-Camera-in-a-box](https://github.com/benjamin-maynard/Pi-Camera-in-a-box) - Stream your Raspberry Pi Camera Module directly to your web browser
 - [punnerud/cursor_ollama_proxy](https://github.com/punnerud/cursor_ollama_proxy) - 
 - [punnerud/gemma3_image_to_text](https://github.com/punnerud/gemma3_image_to_text) - 
@@ -1653,7 +1657,7 @@
 - [Dukweeno/Duckuino](https://github.com/Dukweeno/Duckuino) - Simple DuckyScript to Arduino C converter.
 - [francescovaglia/kliply](https://github.com/francescovaglia/kliply) - Chrome Extension to summarize YouTube videos
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
@@ -1718,6 +1722,7 @@
 - [mapbox/magic-tape](https://github.com/mapbox/magic-tape) - tape plus some goodies
 - [M3-org/CharacterStudio](https://github.com/M3-org/CharacterStudio) - Open source web based custom VRM avatar creation platform
 - [Bilovodskyi/3D-shooter-game](https://github.com/Bilovodskyi/3D-shooter-game) - 3D city built entirely in Blender. I used react-three-fiber to render the Blender city map in the browser, and react-three/rapier for physics. More features are in progress…
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. ✈️
 - [d-zone-org/d-zone](https://github.com/d-zone-org/d-zone) - An ambient life simulation driven by user activity within a Discord server
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
@@ -1852,6 +1857,7 @@
 - [Mechazawa/FuckFuckAdblock](https://github.com/Mechazawa/FuckFuckAdblock) - Acts like FuckAdBlock.js but always says that no adblock was detected
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [fulldecent/github-pages-template](https://github.com/fulldecent/github-pages-template) - An opinionated starting point and build system for awesome, collaboratively-edited HTML websites
 - [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3) - A curated list of awesome Web3 resources, libraries, tools and more.
 - [alpererdogan8/generative-prompts](https://github.com/alpererdogan8/generative-prompts) - An extension for displaying entries from the Awesome ChatGPT Prompts repository and featuring a prompt generator.
@@ -2040,7 +2046,7 @@
 - [Ashish-Bansal/audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
 - [amitness/papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that links video explanations to research papers on arxiv.org
 - [ghostwords/chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
-- [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DIC
+- [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, H
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [brendankenny/call-trace](https://github.com/brendankenny/call-trace) - 
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
@@ -2073,6 +2079,8 @@
 
 ## Jupyter Notebook 
 
+- [dreji18/Fairness-in-AI](https://github.com/dreji18/Fairness-in-AI) - Detecting Bias and ensuring Fairness in AI solutions
+- [alanchn31/Data-Science-Portfolio](https://github.com/alanchn31/Data-Science-Portfolio) - Personal Data Science Projects
 - [dmnfarrell/snipgenie](https://github.com/dmnfarrell/snipgenie) - command line and desktop tool for microbial variant calling
 - [pram84/rna-3d-folding](https://github.com/pram84/rna-3d-folding) - 🧪Predicting 🧬RNA 3D Structures 🚀ML
 - [saccofrancesco/deepshot](https://github.com/saccofrancesco/deepshot) - DeepShot is a machine learning model designed to predict NBA game outcomes using advanced team statistics and rolling averages. It combines historical performance trends with contextual game data to d
@@ -2087,7 +2095,7 @@
 - [whiteSHADOW1234/WhisperTranscriber](https://github.com/whiteSHADOW1234/WhisperTranscriber) - 🎙️ Effortlessly transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Google Colab — no setup required!
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 - [nordszamora/lung-cancer-detection](https://github.com/nordszamora/lung-cancer-detection) - The machine learning project pipeline for lung cancer analysis and prediction at a low cost.
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 - [agentica-project/rllm](https://github.com/agentica-project/rllm) - Democratizing Reinforcement Learning for LLMs
 - [devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
@@ -2188,6 +2196,7 @@
 
 ## Lua 
 
+- [2DGD-F0TH/2DGD_F0TH](https://github.com/2DGD-F0TH/2DGD_F0TH) - [CC BY-NC-SA] A compendium of the community knowledge on game design and development
 - [airbus-cert/Winshark](https://github.com/airbus-cert/Winshark) - A wireshark plugin to instrument ETW
 - [Lekensteyn/wireguard-dissector](https://github.com/Lekensteyn/wireguard-dissector) - Wireshark dissector (written in Lua) for dissecting the WireGuard tunneling protocol.
 - [ared469/plugin-shark](https://github.com/ared469/plugin-shark) - a collection of useful wireshark/tshark plugins
@@ -2300,6 +2309,16 @@
 
 ## Others 
 
+- [Pantong51/GASContent](https://github.com/Pantong51/GASContent) - Repo to gather all Gameplay Ability System content for UE4
+- [stevendborrelli/bluesky-tech-starter-packs](https://github.com/stevendborrelli/bluesky-tech-starter-packs) - A list of tech-related Bluesky starter packs
+- [MHM5000/pass](https://github.com/MHM5000/pass) - How to deal with Passwords
+- [jphall663/awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome responsible machine learning resources.
+- [lukasz-madon/awesome-concepts](https://github.com/lukasz-madon/awesome-concepts) - Awesome list about all kinds of interesting topics: Laws, Principles, Mental Models, Cognitive Biases
+- [kkm24132/ResponsibleAI](https://github.com/kkm24132/ResponsibleAI) - Capture fundamentals around ethics of AI, responsible AI  from principle, process, standards, guidelines, ecosystem, regulation/risk standpoint.
+- [AthenaCore/AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) - A curated list of awesome academic research, books, code of ethics, data sets, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Resp
+- [Giskard-AI/awesome-ai-safety](https://github.com/Giskard-AI/awesome-ai-safety) - 📚 A curated list of papers & technical articles on AI Quality & Safety
+- [EthicalML/awesome-artificial-intelligence-regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
+- [datamllab/awesome-fairness-in-ai](https://github.com/datamllab/awesome-fairness-in-ai) - A curated list of awesome Fairness in AI resources
 - [Quang123-op/Heart_Attack](https://github.com/Quang123-op/Heart_Attack) - Predict the likelihood of heart attacks using machine learning. Includes data preprocessing, feature selection, model training, and evaluation to assist early diagnosis and intervention
 - [vasya-zh/PiZeroHat](https://github.com/vasya-zh/PiZeroHat) - Raspberry Pi Zero Shield/Hat KiCad component and example project
 - [Leoneq/iNapMalinka](https://github.com/Leoneq/iNapMalinka) - Your NRF24L01 transmitter that can play pokemon
@@ -2631,7 +2650,7 @@
 - [Kuronons/FZ_graphics](https://github.com/Kuronons/FZ_graphics) - Flipper Zero Custom animations, profile and passport pictures by Kuronons
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [security-cheatsheet/wireshark-cheatsheet](https://github.com/security-cheatsheet/wireshark-cheatsheet) - Wireshark Cheat Sheet
-- [labex-labs/awesome-programming-projects](https://github.com/labex-labs/awesome-programming-projects) - Practice 777 Programming Projects | This repo collects 777 of programming projects for different tech stacks. It covers a wide range of programming languages, frameworks, and tools.
+- [labex-labs/awesome-programming-projects](https://github.com/labex-labs/awesome-programming-projects) - Build your first apps with 776+ beginner coding projects. Learn programming through guided practice and real-world development.
 - [3nock/SpiderSuite](https://github.com/3nock/SpiderSuite) - Advance web security spider/crawler
 - [CodheadClub/AwesomeResources](https://github.com/CodheadClub/AwesomeResources) - An awesome list of computer science related resources.
 - [SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
@@ -2639,15 +2658,15 @@
 - [josepraveen/free_monthly_learning_resources](https://github.com/josepraveen/free_monthly_learning_resources) - free monthly courses, exam vouchers, and scholarships from various websites. Don't forget to star ⭐ this repository.
 - [joewdavies/awesome-frontend-gis](https://github.com/joewdavies/awesome-frontend-gis) - Geospatial resources for web development :earth_africa: 🗺️
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily.
-- [labex-labs/docker-free-tutorials](https://github.com/labex-labs/docker-free-tutorials) - Practice Docker Free Tutorials | This repo collects 41 of free tutorials for Docker. Docker is revolutionizing application deployment and scaling. This Skill Tree presents a systematic approach to lea
-- [labex-labs/practice-linux-programming-courses](https://github.com/labex-labs/practice-linux-programming-courses) - Linux Programming Courses | This repo collects 14 of programming courses for Linux. Linux is a powerful, open-source operating system. This Skill Tree offers a comprehensive learning path for masterin
-- [labex-labs/practice-devops-programming-courses](https://github.com/labex-labs/practice-devops-programming-courses) - DevOps Programming Courses | This repo collects 8 of programming courses for DevOps. DevOps is revolutionizing software development and IT operations. This Skill Tree presents a structured learning pa
-- [labex-labs/practice-linux-programming-projects](https://github.com/labex-labs/practice-linux-programming-projects) - Practice Linux Programming Projects | This repo collects 22 of programming projects for Linux. Linux is a powerful, open-source operating system. This Skill Tree offers a comprehensive learning path f
-- [labex-labs/practice-python-programming-projects](https://github.com/labex-labs/practice-python-programming-projects) - Practice Python Programming Projects | This repo collects 92 of programming projects for Python. Python is a versatile, high-level programming language. This Skill Tree presents a systematic approach 
-- [labex-labs/practice-html-programming-projects](https://github.com/labex-labs/practice-html-programming-projects) - Practice HTML Programming Projects | This repo collects 57 of programming projects for HTML. HTML is the foundation of web development. This Skill Tree offers a comprehensive learning path for masteri
-- [labex-labs/practice-css-programming-projects](https://github.com/labex-labs/practice-css-programming-projects) - Practice CSS Programming Projects | This repo collects 49 of programming projects for CSS. CSS is essential for styling web pages. This Skill Tree presents a systematic approach to learning CSS. Perfe
-- [labex-labs/practice-javascript-programming-projects](https://github.com/labex-labs/practice-javascript-programming-projects) - Practice JavaScript Programming Projects | This repo collects 104 of programming projects for JavaScript. JavaScript is the programming language of the web. This Skill Tree presents a systematic appro
-- [labex-labs/linux-practice-challenges](https://github.com/labex-labs/linux-practice-challenges) - Linux Practice Challenges | This repo collects 161 of programming labs exercises for Linux Practice Challenges. In this course, you will find a collection of Linux practice challenges that will help y
+- [labex-labs/docker-free-tutorials](https://github.com/labex-labs/docker-free-tutorials) - Practice Docker Free Tutorials | This repo collects 41 of free tutorials for Docker. Docker is revolutionizing application deployment and scaling. This Skill Tree offers a systematic way to learn cont
+- [labex-labs/practice-linux-programming-courses](https://github.com/labex-labs/practice-linux-programming-courses) - Master Linux programming with 6 beginner-to-advanced courses. Interactive labs and guided projects perfect for new programmers.
+- [labex-labs/practice-devops-programming-courses](https://github.com/labex-labs/practice-devops-programming-courses) - Master DevOps programming with 8 beginner-to-advanced courses. Interactive labs and guided projects perfect for new programmers.
+- [labex-labs/practice-linux-programming-projects](https://github.com/labex-labs/practice-linux-programming-projects) - Build real Linux projects with 22 beginner-friendly challenges. Learn by doing with guided coding exercises and practical applications.
+- [labex-labs/practice-python-programming-projects](https://github.com/labex-labs/practice-python-programming-projects) - Build real Python projects with 92 beginner-friendly challenges. Learn by doing with guided coding exercises and practical applications.
+- [labex-labs/practice-html-programming-projects](https://github.com/labex-labs/practice-html-programming-projects) - Build real HTML projects with 57 beginner-friendly challenges. Learn by doing with guided coding exercises and practical applications.
+- [labex-labs/practice-css-programming-projects](https://github.com/labex-labs/practice-css-programming-projects) - Build real CSS projects with 49 beginner-friendly challenges. Learn by doing with guided coding exercises and practical applications.
+- [labex-labs/practice-javascript-programming-projects](https://github.com/labex-labs/practice-javascript-programming-projects) - Build real JavaScript projects with 104 beginner-friendly challenges. Learn by doing with guided coding exercises and practical applications.
+- [labex-labs/linux-practice-challenges](https://github.com/labex-labs/linux-practice-challenges) - Learn Linux from scratch with 156 beginner-friendly labs. Step-by-step tutorials and hands-on practice for coding beginners.
 - [marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) - A curated list of awesome marketing tools and resources
 - [smithy-lang/awesome-smithy](https://github.com/smithy-lang/awesome-smithy) - Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -2747,7 +2766,6 @@
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - The awesome list of all the awesome lists
 - [ared469/awesome-entertainment](https://github.com/ared469/awesome-entertainment) - List of awesome apps and website for entertainment.
-- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [diessica/awesome-sketch](https://github.com/diessica/awesome-sketch) - :books: delightful stuff for SketchApp students.
 - [hridaydutta123/awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) - A curated list of awesome twitter tools
@@ -3447,6 +3465,15 @@
 
 ## Python 
 
+- [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
+- [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [darkwaves-ofc/nude-detect](https://github.com/darkwaves-ofc/nude-detect) - NudeDetect is a Python-based tool for detecting nudity and adult content in images. This project combines the capabilities of the NudeNet library, EasyOCR for text detection, and the Better Profanity 
+- [microsoft/responsible-ai-toolbox-genbit](https://github.com/microsoft/responsible-ai-toolbox-genbit) - A tool for gender bias identification in text. Part of Microsoft's Responsible AI toolbox.
+- [gender-bias/gender-bias](https://github.com/gender-bias/gender-bias) - Reading for gender bias
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing for AI & LLM systems
+- [matus-pikuliak/genderbench](https://github.com/matus-pikuliak/genderbench) - GenderBench - Evaluation suite for gender biases in LLMs
+- [blackrabbit17/xenolab](https://github.com/blackrabbit17/xenolab) - A monitoring station for carnivorous flora.
 - [open-stage/blender-dmx](https://github.com/open-stage/blender-dmx) - Blender addon to design and render DMX lighting.
 - [Yuntokon/BlenderLayer](https://github.com/Yuntokon/BlenderLayer) - Blender Layer is a plugin that allows you to stream 3D View from Blender into Krita, behaving like a normal layer: You can trace over it, change the blending mode and even apply layer styles!
 - [30350n/pcb2blender](https://github.com/30350n/pcb2blender) - KiCad to Blender 3D model workflow
@@ -3719,7 +3746,7 @@
 - [n0fate/volafox](https://github.com/n0fate/volafox) - Mac OS X Memory Analysis Toolkit
 - [anki-code/xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 - [xatier/rc-files](https://github.com/xatier/rc-files) - rc-files, configuration files, ...etc since 2012.
-- [PathOnAI/awesome-ai-agents](https://github.com/PathOnAI/awesome-ai-agents) - Collection of Materials on AI Agents
+- [PathOnAIOrg/awesome-ai-agents](https://github.com/PathOnAIOrg/awesome-ai-agents) - Collection of Materials on AI Agents
 - [liblaf/awesome-list-generator](https://github.com/liblaf/awesome-list-generator) - 📚✨ Automate awesome lists with GitHub metadata & markdown magic!
 - [gammapy/gammapy](https://github.com/gammapy/gammapy) - A Python package for gamma-ray astronomy
 - [ohidurbappy/ScriptKiddy](https://github.com/ohidurbappy/ScriptKiddy) - 💻Scripts that will make you feel WOW 😍
@@ -3853,7 +3880,7 @@
 - [Azr43lKn1ght/DFIR-LABS](https://github.com/Azr43lKn1ght/DFIR-LABS) - DFIR LABS - A compilation of challenges that aims to provide practice in simple to advanced concepts in the following topics: Digital Forensics, Incident Response, Malware Analysis and Threat Hunting.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
-- [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+- [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
 - [haskellcamargo/sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
 - [Ryheembon/Hangman-](https://github.com/Ryheembon/Hangman-) - A simple yet engaging implementation of the classic Hangman game in Python. This project allows a player to guess letters and attempt to figure out a hidden word, all while trying to avoid "hanging" b
@@ -4203,7 +4230,7 @@
 - [don1138/blender-itp](https://github.com/don1138/blender-itp) - Blender Add-On To Change Properties on One or More Image Texture Nodes
 - [A7med9870/Blender-Car-Streamliner](https://github.com/A7med9870/Blender-Car-Streamliner) - A Car Centered Focused Blender Addon, helps with modeling, rigging and exporting your car model to Unreal Engine, plus more
 - [don1138/blender-qle](https://github.com/don1138/blender-qle) - Blender Add-on to Add a Basic Lighting Environment to a Scene
-- [cipryyyy/BlenderSimulation](https://github.com/cipryyyy/BlenderSimulation) - 
+- [cipryyyy/Blender_is_physics](https://github.com/cipryyyy/Blender_is_physics) - 
 - [ichlubna/blenderScripts](https://github.com/ichlubna/blenderScripts) - Random Python scripts for Blender
 - [verlorengest/BlenderManager](https://github.com/verlorengest/BlenderManager) - Streamline Your Blender Workflow: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More
 - [torrinworx/Cozy-Auto-Texture](https://github.com/torrinworx/Cozy-Auto-Texture) - A Blender add-on for generating free textures using the Stable Diffusion AI text to image model.
@@ -4330,7 +4357,7 @@
 - [Dene33/blender_jarvis](https://github.com/Dene33/blender_jarvis) - Control Blender through text prompts with help of ChatGPT
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents.
 - [scorpion81/Blender-Molecular-Script](https://github.com/scorpion81/Blender-Molecular-Script) - This is the molecular python script for blender, originally coded by Pyroevil.  A bit similar to Lagoa Multiphysic in Softimage.
 - [microsoft/AirSim-NeurIPS2019-Drone-Racing](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing) - Drone Racing @ NeurIPS 2019, built on Microsoft AirSim
 - [Jim-Kroovy/Mr-Mannequins-Tools](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools) - Read the wiki installation instructions for sublime character rigging, intuitive Blender imports and easy Unreal exports!
@@ -4437,7 +4464,7 @@
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [trigger/trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices.
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [0FFENS1VE-R3AL/Keylogger](https://github.com/0FFENS1VE-R3AL/Keylogger) - Keylogger | A program that saves all keystrokes in a .txt file.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -4671,7 +4698,7 @@
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -4737,7 +4764,7 @@
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -4815,6 +4842,8 @@
 
 ## Rust 
 
+- [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore 5,000+ genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - [reynoldsbd/lunacam](https://github.com/reynoldsbd/lunacam) - Camera streaming system for Raspberry Pi
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -4825,7 +4854,7 @@
 - [linux-china/mcp-rs-template](https://github.com/linux-china/mcp-rs-template) - Model Context Protocol (MCP) CLI server template for Rust
 - [Harry-027/JotDown](https://github.com/Harry-027/JotDown) - An MCP Server in Rust for creating Notion pages & mdBooks with LLMs 🦀
 - [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes
-- [hail-hydrant/zxc](https://github.com/hail-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
+- [heil-hydrant/zxc](https://github.com/heil-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
 - [theOGognf/private_poker](https://github.com/theOGognf/private_poker) - A poker library, server, client, and TUI.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [EnsoBuild/temper](https://github.com/EnsoBuild/temper) - Temper your expectations - Ethereum Transaction Simulator
@@ -4929,7 +4958,7 @@
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [zff-team/zff-rs](https://github.com/zff-team/zff-rs) - Library to handle the files in zff format (file format to store and handle forensic acquisitions).
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
@@ -5312,6 +5341,8 @@
 
 ## TypeScript 
 
+- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A free online pixel art drawing tool
 - [5hubham5ingh/searchawesomes](https://github.com/5hubham5ingh/searchawesomes) - A fuzzy finder to quickly search through the vast collection of "awesome" GitHub repositories, directly in your browser.
 - [VirusDecode-project/VirusDecode](https://github.com/VirusDecode-project/VirusDecode) - VirusDecode integrates bioinformatics tools for efficient virus sequence analysis, supporting rapid mRNA vaccine development with a biopython.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
@@ -5471,7 +5502,7 @@
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [jspsych/jsPsych](https://github.com/jspsych/jsPsych) - Create behavioral experiments in a browser using JavaScript
-- [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
+- [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [PavelLaptev/css-houdini-squircle](https://github.com/PavelLaptev/css-houdini-squircle) - A tiny CSS Houdini module that allows to add a squircle shape to HTML elements
