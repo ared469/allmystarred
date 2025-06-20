@@ -519,6 +519,7 @@
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [CasperTheCat/UnrealPSOPlugin](https://github.com/CasperTheCat/UnrealPSOPlugin) - Unreal 5 PSO Helper Plugin
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [sankethj/ZiFi](https://github.com/sankethj/ZiFi) - Wifi hacking tool using ESP8266 ( Evil-twin method )
@@ -4716,7 +4717,7 @@
 - [yagiziskirik/PYrus](https://github.com/yagiziskirik/PYrus) - PYrus is a prank virus built on python. It does not harm the computer in any way.
 - [HarshscGithub/Atarbals-Modern-Antivirus](https://github.com/HarshscGithub/Atarbals-Modern-Antivirus) - This whole new antivirus. In this antivirus the UI is superb. It look like real antivirus. But it is not real antivirus it doesn't scan for any viruses it is just UI prank/Game and is used for enterta
 - [3kh0/echodown](https://github.com/3kh0/echodown) - 🚀 A very real and legit DDoS/Network stresser that totally works (sarcasm)
-- [nordbearbotdev/Torpeda](https://github.com/nordbearbotdev/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
+- [V8ST8K/Torpeda](https://github.com/V8ST8K/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
 - [yunghog/og-bomber-gui](https://github.com/yunghog/og-bomber-gui) - SMS Spoofer | Graphical User Interface application
 - [Toxic-Noob/ToxicBomber](https://github.com/Toxic-Noob/ToxicBomber) - A Powerful SMS Bomber Tool For Bangladesh.
 - [BishopFox/rickmote](https://github.com/BishopFox/rickmote) - The Rickmote Controller: Hijack TVs using Google Chromecast
@@ -4950,6 +4951,7 @@
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [pbellchambers/rustyhack-mmo](https://github.com/pbellchambers/rustyhack-mmo) - An ASCII "roguelike" MMORPG / MUD written in rust (barebones).
 - [huggingface/hf-hub](https://github.com/huggingface/hf-hub) - Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [mgeisler/lipsum](https://github.com/mgeisler/lipsum) - Lorem ipsum generator for Rust
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
@@ -5410,7 +5412,7 @@
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A free online pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
 - [5hubham5ingh/searchawesomes](https://github.com/5hubham5ingh/searchawesomes) - A fuzzy finder to quickly search through the vast collection of "awesome" GitHub repositories, directly in your browser.
 - [VirusDecode-project/VirusDecode](https://github.com/VirusDecode-project/VirusDecode) - VirusDecode integrates bioinformatics tools for efficient virus sequence analysis, supporting rapid mRNA vaccine development with a biopython.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
@@ -5521,7 +5523,6 @@
 - [protontypes/open-climate-fund](https://github.com/protontypes/open-climate-fund) - Building an open science funding revolution for open source climate action!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [jaroslaw-weber/calm-garden-cli](https://github.com/jaroslaw-weber/calm-garden-cli) - discreet box breathing cli app with progress tracking
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
