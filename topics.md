@@ -5063,6 +5063,7 @@
 
 ## firefox 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into web documents.
@@ -8327,7 +8328,7 @@
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [Whomrx666/Hack-satelit](https://github.com/Whomrx666/Hack-satelit) - This is a satellite hack prank tool to show off and prank your friends like a real hacker
-- [nordbearbotdev/Torpeda](https://github.com/nordbearbotdev/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
+- [V8ST8K/Torpeda](https://github.com/V8ST8K/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
 - [payloadbox/command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) - 🎯 Command Injection Payload List
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
@@ -11430,7 +11431,7 @@
 
 ## pixel-art 
 
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A free online pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
 - [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - An extensive node suite for ComfyUI with over 210 new nodes
 - [bbbbbr/gimp-plugin-pixel-art-scalers](https://github.com/bbbbbr/gimp-plugin-pixel-art-scalers) - Gimp plugin for scaling / rescaling images with Pixel Art Scaler algorithms such as hqx, xbr and scalex
 - [Arthur-Nitzz/GB-Studio-Community-Assets](https://github.com/Arthur-Nitzz/GB-Studio-Community-Assets) - A repository of user-submitted original assets usable in GB Studio, with no attribution required.
@@ -12256,7 +12257,7 @@
 - [1N3/BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
 - [yagiziskirik/PYrus](https://github.com/yagiziskirik/PYrus) - PYrus is a prank virus built on python. It does not harm the computer in any way.
 - [3kh0/echodown](https://github.com/3kh0/echodown) - 🚀 A very real and legit DDoS/Network stresser that totally works (sarcasm)
-- [nordbearbotdev/Torpeda](https://github.com/nordbearbotdev/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
+- [V8ST8K/Torpeda](https://github.com/V8ST8K/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
 - [yunghog/og-bomber-gui](https://github.com/yunghog/og-bomber-gui) - SMS Spoofer | Graphical User Interface application
 - [rickyfazaa/MySPAMBot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP) - Tools (ONLY for +62 or ID NUMBER!) untuk Prank Spam Brutal Python via OTP SMS dan WhatsApp ( WA ) Non-stop Karena Error Handlings
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -12425,7 +12426,7 @@
 - [t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell) - A Windows reverse shell payload generator and handler that abuses the http(s) protocol to establish a beacon-like reverse shell.
 - [Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX) - An evil RAT (Remote Administration Tool) for macOS / OS X.
 - [HarshscGithub/Atarbals-Modern-Antivirus](https://github.com/HarshscGithub/Atarbals-Modern-Antivirus) - This whole new antivirus. In this antivirus the UI is superb. It look like real antivirus. But it is not real antivirus it doesn't scan for any viruses it is just UI prank/Game and is used for enterta
-- [nordbearbotdev/Torpeda](https://github.com/nordbearbotdev/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
+- [V8ST8K/Torpeda](https://github.com/V8ST8K/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
 - [AvinashReddy3108/YetAnotherSMSBomber](https://github.com/AvinashReddy3108/YetAnotherSMSBomber) - Clean, small and powerful SMS bomber script.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [fportantier/habu](https://github.com/fportantier/habu) - Hacking Toolkit
@@ -14262,7 +14263,7 @@
 - [Deadshot0x7/007-TheBond](https://github.com/Deadshot0x7/007-TheBond) - This Script will help you to gather information about your victim or friend.
 - [Whomrx666/Hack-satelit](https://github.com/Whomrx666/Hack-satelit) - This is a satellite hack prank tool to show off and prank your friends like a real hacker
 - [donttracked/zombie_voice_bot](https://github.com/donttracked/zombie_voice_bot) - Бомбер звонками, подшути над друзьями😀 Звонки с анонимного номера 📞 Вбей номер и смотри за реакцией 😂
-- [nordbearbotdev/Torpeda](https://github.com/nordbearbotdev/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
+- [V8ST8K/Torpeda](https://github.com/V8ST8K/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 
@@ -14382,7 +14383,7 @@
 
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A free online pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -14815,7 +14816,7 @@
 
 ## vue 
 
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A free online pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [evrimagaci/periodum](https://github.com/evrimagaci/periodum) - Periodum: An Interactive, Open-Source Periodic Table!
