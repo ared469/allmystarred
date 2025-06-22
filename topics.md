@@ -354,7 +354,6 @@
 - [Science001/threejs-combat](https://github.com/Science001/threejs-combat) - A basic threejs app with two characters fighting. Created to get started with threejs and experiment with it.
 - [Soft8Soft/threejs-blender-template](https://github.com/Soft8Soft/threejs-blender-template) - Starter project for creating WebGL apps with Blender and Three.js
 - [enkisoftware/voxel-models](https://github.com/enkisoftware/voxel-models) - Free voxel models for Avoyd Voxel Editor: make voxel art, export to 3D mesh etc. All downloadable assets are licensed under CC BY 4.0.
-- [amosgyamfi/open-3d-models](https://github.com/amosgyamfi/open-3d-models) - Ready-to-use 3D models for your iOS and visionOS projects
 - [ansys/pyansys-geometry](https://github.com/ansys/pyansys-geometry) - A Python wrapper for Ansys Geometry Services
 - [amiryeg/Altium-Libraries](https://github.com/amiryeg/Altium-Libraries) - Open source Altium libraries including symbols, footprints, and 3D models for thousands of part
 - [SapwoodStudio/Transmogrifier](https://github.com/SapwoodStudio/Transmogrifier) - A Blender addon for batch converting 3D files and associated textures into other formats.
@@ -6058,7 +6057,7 @@
 - [mayank-prasoon/world-maker](https://github.com/mayank-prasoon/world-maker) - A world building app
 - [puchik/godot-extras](https://github.com/puchik/godot-extras) - LOD and optimization C++ addons and shaders for Godot 4 and Godot 3
 - [newjoker6/Asset-Drawer](https://github.com/newjoker6/Asset-Drawer) - Moves the FileDock to the bottom of the screen, similar to Unity and Unreal. You can also use the shortcut key to show and hide it.
-- [FOSS-Supremacy/OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - A GTA 3 reimplementation on the Godot Engine
+- [FOSS-Supremacy/OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - A GTA 3 reimplementation on the Redot Engine
 - [TheWalruzz/godot-questify](https://github.com/TheWalruzz/godot-questify) - Graph-based quest editor and manager for Godot 4.
 - [SIsilicon/Godot-God-Rays-Plugin](https://github.com/SIsilicon/Godot-God-Rays-Plugin) - 
 - [ColormaticStudios/quality-godot-first-person-2](https://github.com/ColormaticStudios/quality-godot-first-person-2) - Read/write mirror of: https://git.colormatic.org/ColormaticStudios/quality-godot-first-person An actually good first person controller for the Godot Engine (version 2)
@@ -7416,7 +7415,7 @@
 - [readium/swift-toolkit](https://github.com/readium/swift-toolkit) - A toolkit for ebooks, audiobooks and comics written in Swift
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
-- [amosgyamfi/open-3d-models](https://github.com/amosgyamfi/open-3d-models) - Ready-to-use 3D models for your iOS and visionOS projects
+- [amosgyamfi/swiftui-ios-26](https://github.com/amosgyamfi/swiftui-ios-26) - Ready-to-use SwiftUI designs, modifier use cases, Liquid Glass, and more.
 - [yukiny0811/swifty-creatives](https://github.com/yukiny0811/swifty-creatives) - Creative coding framework for Swift. Built on Apple's Metal. Inspired by Processing. Supports visionOS.
 - [bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) - 📚 Directory of iOS books
 - [Correia-jpv/fucking-awesome-swift](https://github.com/Correia-jpv/fucking-awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute! With repository stars⭐ and forks🍴
@@ -9558,7 +9557,7 @@
 - [akien-mga/dynadungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using Godot Engine - Not actively developed since 2015.
 - [CSharpGodotTools/Template](https://github.com/CSharpGodotTools/Template) - A template used for quickly setting up new Godot 4 C# games.
 - [Nokorpo/LibreAim](https://github.com/Nokorpo/LibreAim) - Free and open source FPS aim trainer made with Godot.
-- [FOSS-Supremacy/OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - A GTA 3 reimplementation on the Godot Engine
+- [FOSS-Supremacy/OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - A GTA 3 reimplementation on the Redot Engine
 - [ColormaticStudios/quality-godot-first-person-2](https://github.com/ColormaticStudios/quality-godot-first-person-2) - Read/write mirror of: https://git.colormatic.org/ColormaticStudios/quality-godot-first-person An actually good first person controller for the Godot Engine (version 2)
 - [quinnvoker/qurobullet](https://github.com/quinnvoker/qurobullet) - A powerful 2D projectile system module for Godot!
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
@@ -9828,6 +9827,8 @@
 
 ## others 
 
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, Bayt, & Naukri
+- [devfire/corrosion](https://github.com/devfire/corrosion) - Network fault injection simulator
 - [Cupprum/Blinker](https://github.com/Cupprum/Blinker) - Flipper Zero Application for LED Blinking
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
@@ -11429,7 +11430,7 @@
 
 ## pixel-art 
 
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A sprite animation pixel art editor
 - [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - An extensive node suite for ComfyUI with over 210 new nodes
 - [bbbbbr/gimp-plugin-pixel-art-scalers](https://github.com/bbbbbr/gimp-plugin-pixel-art-scalers) - Gimp plugin for scaling / rescaling images with Pixel Art Scaler algorithms such as hqx, xbr and scalex
 - [Arthur-Nitzz/GB-Studio-Community-Assets](https://github.com/Arthur-Nitzz/GB-Studio-Community-Assets) - A repository of user-submitted original assets usable in GB Studio, with no attribution required.
@@ -12949,6 +12950,7 @@
 
 ## rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -13928,7 +13930,7 @@
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [tsgrissom/FlappyClone-iOS-App](https://github.com/tsgrissom/FlappyClone-iOS-App) - Experimental clone of Flappy Bird designed for iOS devices using combination of SpriteKit and SwiftUI; Beware the programmer art
-- [amosgyamfi/open-3d-models](https://github.com/amosgyamfi/open-3d-models) - Ready-to-use 3D models for your iOS and visionOS projects
+- [amosgyamfi/swiftui-ios-26](https://github.com/amosgyamfi/swiftui-ios-26) - Ready-to-use SwiftUI designs, modifier use cases, Liquid Glass, and more.
 - [yukiny0811/swifty-creatives](https://github.com/yukiny0811/swifty-creatives) - Creative coding framework for Swift. Built on Apple's Metal. Inspired by Processing. Supports visionOS.
 - [Correia-jpv/fucking-open-source-ios-apps](https://github.com/Correia-jpv/fucking-open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps. With up-to-date repository stars⭐ and forks🍴
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
@@ -14381,7 +14383,7 @@
 
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A sprite animation pixel art editor
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -14814,7 +14816,7 @@
 
 ## vue 
 
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A sprite animation pixel art editor
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [evrimagaci/periodum](https://github.com/evrimagaci/periodum) - Periodum: An Interactive, Open-Source Periodic Table!
