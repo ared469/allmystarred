@@ -1050,7 +1050,7 @@
 - [rakugoteam/VisualNovelKit](https://github.com/rakugoteam/VisualNovelKit) - Combo of addons + template to create visual novels in Godot inspired by Ren'Py
 - [mayank-prasoon/world-maker](https://github.com/mayank-prasoon/world-maker) - A world building app
 - [newjoker6/Asset-Drawer](https://github.com/newjoker6/Asset-Drawer) - Moves the FileDock to the bottom of the screen, similar to Unity and Unreal. You can also use the shortcut key to show and hide it.
-- [FOSS-Supremacy/OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - A GTA 3 reimplementation on the Godot Engine
+- [FOSS-Supremacy/OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - A GTA 3 reimplementation on the Redot Engine
 - [TheWalruzz/godot-questify](https://github.com/TheWalruzz/godot-questify) - Graph-based quest editor and manager for Godot 4.
 - [SIsilicon/Godot-God-Rays-Plugin](https://github.com/SIsilicon/Godot-God-Rays-Plugin) - 
 - [ColormaticStudios/quality-godot-first-person-2](https://github.com/ColormaticStudios/quality-godot-first-person-2) - Read/write mirror of: https://git.colormatic.org/ColormaticStudios/quality-godot-first-person An actually good first person controller for the Godot Engine (version 2)
@@ -2719,7 +2719,7 @@
 - [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 - [cameronking4/Clothware.io](https://github.com/cameronking4/Clothware.io) - Turn 2D images of clothing into usable 3D garments. Use Clothware API to automate your clothing design, character design or integrate into your e-commerce solution.
 - [enkisoftware/voxel-models](https://github.com/enkisoftware/voxel-models) - Free voxel models for Avoyd Voxel Editor: make voxel art, export to 3D mesh etc. All downloadable assets are licensed under CC BY 4.0.
-- [amosgyamfi/open-3d-models](https://github.com/amosgyamfi/open-3d-models) - Ready-to-use 3D models for your iOS and visionOS projects
+- [amosgyamfi/swiftui-ios-26](https://github.com/amosgyamfi/swiftui-ios-26) - Ready-to-use SwiftUI designs, modifier use cases, Liquid Glass, and more.
 - [steliosploumpis/tongue](https://github.com/steliosploumpis/tongue) - We propose a framework that accurately derives the 3D tongue shape from single images. A high detailed 3D point cloud of the tongue surface and a full head topology along with the tongue expression ca
 - [amiryeg/Altium-Libraries](https://github.com/amiryeg/Altium-Libraries) - Open source Altium libraries including symbols, footprints, and 3D models for thousands of part
 - [zshn25/compilation-of-3d-mesh-model-resources](https://github.com/zshn25/compilation-of-3d-mesh-model-resources) - A compilation of 3D mesh models found on the web for research purposes
@@ -2796,7 +2796,6 @@
 - [Aatmaj-Zephyr/A-collection-of-useful-repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) - This is a collection of useful repositories providing resources for learning. Feel free to contribute here
 - [aitoollist/awesome-ai-tool-list](https://github.com/aitoollist/awesome-ai-tool-list) - An awesome directory of AI tools. The list here is the data source for the searchable web directory @ https://www.aitoollist.org . Discover tools to supercharge your AI journey. Star this repo and joi
 - [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing) - Collection of awesome 😎️ Python resources for testing
-- [awesomelistsio/awesome-drone-engineers](https://github.com/awesomelistsio/awesome-drone-engineers) - A curated list of resources, tools, and communities for drone engineers.
 - [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest) - An Awesome List of Awesome Hacktoberfest-Related Projects
 - [GniLudio/awesome-youtube](https://github.com/GniLudio/awesome-youtube) - Awesome YouTube videos about all kinds of topics.
 - [kalanakt/awesome-telegram](https://github.com/kalanakt/awesome-telegram) - A curated list of awesome telegram groups, channels, bots, open source projects And Libraries
@@ -3504,6 +3503,7 @@
 
 ## Python 
 
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, Bayt, & Naukri
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
@@ -4377,6 +4377,7 @@
 - [ared469/garak](https://github.com/ared469/garak) - the LLM vulnerability scanner
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [NIRVANALAN/GaussianAnything](https://github.com/NIRVANALAN/GaussianAnything) - High-quality and editable surfel 3D Gaussian generation through native 3D diffusion (ICLR 2025)
+- [awesomelistsio/awesome-drone-engineers](https://github.com/awesomelistsio/awesome-drone-engineers) - A curated list of resources, tools, and communities for drone engineers.
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [damozhang/awesome-ios-star](https://github.com/damozhang/awesome-ios-star) - All data is from https://github.com/vsouza/awesome-ios. Only the GitHub star count is added to this list.  Update weekly.
 - [Correia-jpv/fucking-awesome-honeypots](https://github.com/Correia-jpv/fucking-awesome-honeypots) - An awesome list of honeypot resources. With repository stars⭐ and forks🍴
@@ -4897,6 +4898,8 @@
 
 ## Rust 
 
+- [devfire/corrosion](https://github.com/devfire/corrosion) - Network fault injection simulator
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
@@ -5410,7 +5413,7 @@
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
-- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A pixel art editor
+- [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A sprite animation pixel art editor
 - [5hubham5ingh/searchawesomes](https://github.com/5hubham5ingh/searchawesomes) - A fuzzy finder to quickly search through the vast collection of "awesome" GitHub repositories, directly in your browser.
 - [VirusDecode-project/VirusDecode](https://github.com/VirusDecode-project/VirusDecode) - VirusDecode integrates bioinformatics tools for efficient virus sequence analysis, supporting rapid mRNA vaccine development with a biopython.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
