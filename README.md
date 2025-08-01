@@ -203,6 +203,7 @@
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [ossec/ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
+- [LasagnaCake/Makai](https://github.com/LasagnaCake/Makai) - A C++20 3D (+"2D") application & game framework library.
 - [xemeds/obstruction-game](https://github.com/xemeds/obstruction-game) - Console version of the pen and paper game Obstruction with the Minimax algorithm.
 - [pavlosdais/Quoridor](https://github.com/pavlosdais/Quoridor) - A terminal implementation of the game Quoridor with an engine
 - [nielssp/csol](https://github.com/nielssp/csol) - A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.) to play in the terminal
@@ -318,7 +319,7 @@
 - [h3xduck/TCPcannon](https://github.com/h3xduck/TCPcannon) - Offensive Linux tool for network attacks. Built from the ground with only C.
 - [h3xduck/Umbra](https://github.com/h3xduck/Umbra) - A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can spawn a reverse shell to a remote host, launch malware and more.
 - [h3xduck/aircrack-ng](https://github.com/h3xduck/aircrack-ng) - WiFi security auditing tools suite
-- [h3xduck/TaintBlade](https://github.com/h3xduck/TaintBlade) - 
+- [h3xduck/TaintBlade](https://github.com/h3xduck/TaintBlade) - A protocol reverse engineering framework with a custom Intel PIN multi-color tainting engine
 - [EntySec/Pwny](https://github.com/EntySec/Pwny) - Pwny is an implementation of an advanced payload written in pure C and designed for portability and extensibility.
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [microsoft/msquic](https://github.com/microsoft/msquic) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
@@ -351,7 +352,7 @@
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [justinpbarnett/unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
+- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 - [ryholmdahl/vibe-gamedev](https://github.com/ryholmdahl/vibe-gamedev) - A tool for vibecoding in Unity.
 - [seansirota/Genetics-Simulation](https://github.com/seansirota/Genetics-Simulation) - This is my genetics simulation project which simulates various concepts of genetics and reproduction
 - [ddoak/peppy](https://github.com/ddoak/peppy) - A VR app which allows creation and manipulation of dynamic models of polypeptides. Focus is fun and learning.
@@ -405,7 +406,7 @@
 - [quyen-jr/2D-fighting-game-online-unity](https://github.com/quyen-jr/2D-fighting-game-online-unity) - A 2d online fighting game using unity +photon pun2 + firebase realtime database . Includes basic functions of logging in, registering, buying and choosing characters, creating rooms, participating in 
 - [ethan-moyer/SmallFighter](https://github.com/ethan-moyer/SmallFighter) - A fighting game for two players made with Unity!
 - [SightlessDog/Fighting](https://github.com/SightlessDog/Fighting) - A combat system developed in unity
-- [ATHellboy/SampleProject-FightingGame](https://github.com/ATHellboy/SampleProject-FightingGame) - Sample project to show my coding approaches and knowledge, also some architectures (and patterns) which I've used in Unity3D.
+- [ATHellboy/SampleProject-FightingGame](https://github.com/ATHellboy/SampleProject-FightingGame) - A sample project designed to demonstrate advanced C# coding practices and architectural expertise in Unity. This showcase serves as a practical example of my ability to build scalable and maintainable
 - [homemech/unity-pattern-combo](https://github.com/homemech/unity-pattern-combo) - An action/fighting game combo system utilizing the command pattern. For Unity/C#, created as a supplement for Unity e-book "Level up your code with game programming patterns"
 - [ht2k9/MonoGame-TopDown-Shooter](https://github.com/ht2k9/MonoGame-TopDown-Shooter) - Top-Down 2D zombie wave shooter, developed in MonoGame XNA Visual Studio.
 - [ggu/3DAssetsToSprite](https://github.com/ggu/3DAssetsToSprite) - Export 3D models for your 2D game
@@ -424,7 +425,7 @@
 - [Syomus/ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Procedural generation library for Unity
 - [paternostrox/AdaptableTrees](https://github.com/paternostrox/AdaptableTrees) - A procedural, obstacle avoiding, tree mesh generation tool for Unity.
 - [schaban/AnimTools](https://github.com/schaban/AnimTools) - Motion, deformation, IK.
-- [EliotVU/Unreal-Library](https://github.com/EliotVU/Unreal-Library) - Decompiler library for Unreal package files (.upk, .u, .uasset; etc), with support for Unreal Engine 1, 2, and 3
+- [EliotVU/Unreal-Library](https://github.com/EliotVU/Unreal-Library) - Decompiler for Unreal package files (.upk, .u, .uasset; etc), with support for Unreal Engine 1, 2, and 3
 - [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 - [StevenRice99/Unity-Tutorials](https://github.com/StevenRice99/Unity-Tutorials) - Samples from the slides for CSSE-4900 Game Design, Development, and Tools.
 - [learning-game-development/learning-unity-game-development-old](https://github.com/learning-game-development/learning-unity-game-development-old) - Projects, samples and templates created to learn game development with Unity
@@ -468,7 +469,7 @@
 - [AvillaDaniel/AvillaForensics](https://github.com/AvillaDaniel/AvillaForensics) - Avilla Forensics 3.0
 - [denyfebriant/simple-ransomware](https://github.com/denyfebriant/simple-ransomware) - 
 - [Viralmaniar/BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
-- [Idov31/Sandman](https://github.com/Idov31/Sandman) - Sandman is a NTP based backdoor for red team engagements in hardened networks.
+- [Idov31/Sandman](https://github.com/Idov31/Sandman) - Sandman is a NTP based backdoor for hardened networks.
 - [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) - A simple remote tool in C#.
 - [Ch0pin/AVIator](https://github.com/Ch0pin/AVIator) - Antivirus evasion project
 - [Owez/sysDeny](https://github.com/Owez/sysDeny) - A normal looking syskey box with a suprise at the end
@@ -532,7 +533,6 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [whiteSHADOW1234/PetCam](https://github.com/whiteSHADOW1234/PetCam) - A real-time pet camera application that allows users to remotely monitor and interact with their pets using a web browser, with video streamed from a designated client device to a central server and d
-- [LasagnaCake/Makai](https://github.com/LasagnaCake/Makai) - A C++20 3D (+"2D") application & game framework library.
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [ozdemirsalih/Casio-Cheat-Calculator](https://github.com/ozdemirsalih/Casio-Cheat-Calculator) - Modding a Casio fx-82MS calculator with an ESP8285.
@@ -571,7 +571,6 @@
 - [Every-Flavor-Robotics/etchbot](https://github.com/Every-Flavor-Robotics/etchbot) - Server backend for the Etch-a-Sketch robot
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [jdasilvalima/creativeCircuits](https://github.com/jdasilvalima/creativeCircuits) - [WIP] 🔬 A collection of Arduino scripts and TouchDesigner components to create interactive and immersive experiences
-- [pSwaqtch/kirmaadaa_3d](https://github.com/pSwaqtch/kirmaadaa_3d) - software part for a volumetric display prototype
 - [d99kris/namp](https://github.com/d99kris/namp) - Terminal-based audio player for Linux and macOS
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (CMatrix clone with 32-bit color and Unicode support)
@@ -607,7 +606,7 @@
 - [i-bardinov/bomberman-sdl2](https://github.com/i-bardinov/bomberman-sdl2) - Classic Bomberman clone on SDL2 and C++
 - [expressobits/inventory-system](https://github.com/expressobits/inventory-system) - Modular inventory system for godot 4 with nodes, compatible with multiplayer, separate logic from the UI, Using items as separate resources.
 - [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching) - A Motion Matching plugin for Godot 4
-- [libriscv/godot-sandbox](https://github.com/libriscv/godot-sandbox) - In-editor scripting and sandboxing for Godot
+- [libriscv/godot-sandbox](https://github.com/libriscv/godot-sandbox) - In-editor scripting and sandboxing for Godot 4.4+
 - [dimi309/small3d](https://github.com/dimi309/small3d) - Tiny C++ 3D game development library for Windows and Linux
 - [michaelrsweet/htmldoc](https://github.com/michaelrsweet/htmldoc) - HTML Conversion Software
 - [QC20/Haptic-Game-For-The-Blind](https://github.com/QC20/Haptic-Game-For-The-Blind) - HapNav is an innovative, ESP32-based game designed to empower the visually impaired. By using joystick navigation, it enhances spatial awareness and provides inclusive gaming experiences. Join us in t
@@ -692,7 +691,6 @@
 - [rlguy/Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) - The FLIP Fluids addon is a tool that helps you set up, run, and render high quality liquid fluid effects all within Blender, the free and open source 3D creation suite.
 - [Mountea-Framework/MounteaInventoryEquipment](https://github.com/Mountea-Framework/MounteaInventoryEquipment) - Mountea Inventory & Equipment is an Open-source Mountea Framework components based simple framework allowing you to construct Inventory systems fast, easily and with advanced options.
 - [Mountea-Framework/MounteaDialogueSystem](https://github.com/Mountea-Framework/MounteaDialogueSystem) - Mountea Dialogue System is an Open-source Mountea Framework tool for Unreal Engine for creating (not just) complex dialogues! Provides its own Dialogue Tree editor and validation system.
-- [nachomonkey/RefreshAllNodes](https://github.com/nachomonkey/RefreshAllNodes) - Unreal Engine plugin that refreshes and compiles all of your blueprints.
 - [JonasReich/OpenUnrealUtilities](https://github.com/JonasReich/OpenUnrealUtilities) - Open Unreal Utilities - Open Source Utilties for Unreal Engine
 - [Voidware-Prohibited/ALSXT](https://github.com/Voidware-Prohibited/ALSXT) - Advanced Locomotion System Refactored with expanded Character States, Improved Foot Print system, Sliding, Vaulting and Wallrunning(XT)
 - [CesiumGS/cesium-unreal](https://github.com/CesiumGS/cesium-unreal) - Bringing the 3D geospatial ecosystem to Unreal Engine
@@ -1057,7 +1055,7 @@
 - [TheWalruzz/godot-questify](https://github.com/TheWalruzz/godot-questify) - Graph-based quest editor and manager for Godot 4.
 - [SIsilicon/Godot-God-Rays-Plugin](https://github.com/SIsilicon/Godot-God-Rays-Plugin) - 
 - [ColormaticStudios/quality-godot-first-person-2](https://github.com/ColormaticStudios/quality-godot-first-person-2) - Read/write mirror of: https://git.colormatic.org/ColormaticStudios/quality-godot-first-person An actually good first person controller for the Godot Engine (version 2)
-- [Jamsers/Bistro-Demo-Tweaked](https://github.com/Jamsers/Bistro-Demo-Tweaked) - Bistro demo for Godot showcasing lighting and high quality assets.
+- [Jamsers/Bistro-Demo-Tweaked](https://github.com/Jamsers/Bistro-Demo-Tweaked) - Bistro demo project for Godot showcasing lighting and high quality assets.
 - [Dimev/Realistic-Atmosphere-Godot-and-UE4](https://github.com/Dimev/Realistic-Atmosphere-Godot-and-UE4) - A realistic atmosphere material for both the Godot game engine and Unreal Engine 4
 - [KoBeWi/Godot-Project-Builds](https://github.com/KoBeWi/Godot-Project-Builds) - Graphical automation tool for building and publishing Godot games.
 - [AnidemDex/Godot-EventSystem](https://github.com/AnidemDex/Godot-EventSystem) - 🪧 An easy but powerful event system implementation for Godot Engine
@@ -1102,7 +1100,7 @@
 - [awkwardpolygons/cartographer](https://github.com/awkwardpolygons/cartographer) - A GPU powered Terrain editor and renderer for Godot Engine
 - [ywmaa/Advanced-Movement-System-Godot](https://github.com/ywmaa/Advanced-Movement-System-Godot) - This project is a template for creating advanced Third/First Person movement in GODOT
 - [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
-- [c16s8/godot-game-settings](https://github.com/c16s8/godot-game-settings) - Create and manage game settings in Godot Engine.
+- [c16s8/godot-game-settings](https://github.com/c16s8/godot-game-settings) - Create and manage game settings in the Godot Engine.
 - [Maaack/Godot-Game-Template](https://github.com/Maaack/Godot-Game-Template) - Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [godot-extended-libraries/godot-debug-menu](https://github.com/godot-extended-libraries/godot-debug-menu) - Display in-game FPS/performance/hardware metrics in a Godot 4.x project
 - [don-tnowe/godot-resources-as-sheets-plugin](https://github.com/don-tnowe/godot-resources-as-sheets-plugin) - I needed to edit many Resource files, so figured someone would too.
@@ -1601,10 +1599,9 @@
 - [gideonshaked/wscli](https://github.com/gideonshaked/wscli) - word search CLI 🆎
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [Defective4/TUI-Mines](https://github.com/Defective4/TUI-Mines) - A Minesweeper clone designed to run entirely in terminal. The winning project of the October Coding Jam 2023
-- [Defective4/pirocast](https://github.com/Defective4/pirocast) - [WIP] Transform your Raspberry Pi into an autonomous radio receiver
 - [Retera/WarsmashModEngine](https://github.com/Retera/WarsmashModEngine) - An emulation engine to improve Warcraft III modding
 - [rashahacks/jsmon-burpsuite-extension](https://github.com/rashahacks/jsmon-burpsuite-extension) - 
-- [Hack23/cia](https://github.com/Hack23/cia) - Comprehensive open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering de
+- [Hack23/cia](https://github.com/Hack23/cia) - Citizen Intelligence Agency. Comprehensive open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and pa
 - [Black-Smith-Of-Fire/laser_escape](https://github.com/Black-Smith-Of-Fire/laser_escape) - Dodge the meteorites and earn points, a game in Java :)
 - [utsanjan/Tsunami-Bomber-Android](https://github.com/utsanjan/Tsunami-Bomber-Android) - A free to use OTP & Call flooding android application with unlimited sending capability.
 - [cdk/cdk](https://github.com/cdk/cdk) - The Chemistry Development Kit
@@ -1743,7 +1740,6 @@
 - [0xvashishth/CalcHub](https://github.com/0xvashishth/CalcHub) - 🚀 A curated collection of calculators for various aspects of mathematics. Anyone with a little understanding of web development may design a unique calculator and make a pull.
 - [Y0UR-U5ERNAME/gbs-plugin-collection](https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection) - a collection of GB Studio 3.0 plugins
 - [pau-tomas/gb-studio-plugins](https://github.com/pau-tomas/gb-studio-plugins) - A set of experimental plugins for GB Studio
-- [memalf/medium-unlocker](https://github.com/memalf/medium-unlocker) - Unlock Medium for free access.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [MehmetBozkir/React-Portfolio](https://github.com/MehmetBozkir/React-Portfolio) - 🌐 Protfolio Website | Plain and Simple Nextjs.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
@@ -1795,6 +1791,7 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [ersel/spotify-cli-mac](https://github.com/ersel/spotify-cli-mac) - 🎶 A nodejs app to control Spotify without leaving your terminal. 🎶
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+- [pSwaqtch/kirmaadaa_3d](https://github.com/pSwaqtch/kirmaadaa_3d) - software and 3d models for volumetric display prototypes
 - [zachey01/terminalPortfolio](https://github.com/zachey01/terminalPortfolio) - A personal website styled for UNIX terminal
 - [naemazam/terminal-portfolio](https://github.com/naemazam/terminal-portfolio) - An ordinary website can make and use by everyone. so What is The difference between a Geek and common people?
 - [raulpy271/portfolioInTerminal](https://github.com/raulpy271/portfolioInTerminal) - 🍏 A portfolio template in ReactJS for developers with terminal style
@@ -2133,7 +2130,7 @@
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 - [nordszamora/lung-cancer-detection](https://github.com/nordszamora/lung-cancer-detection) - The machine learning project pipeline for lung cancer analysis and prediction at a low cost.
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
-- [agentica-project/rllm](https://github.com/agentica-project/rllm) - Democratizing Reinforcement Learning for LLMs
+- [rllm-org/rllm](https://github.com/rllm-org/rllm) - Democratizing Reinforcement Learning for LLMs
 - [devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -2272,7 +2269,7 @@
 
 ## MDX 
 
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [Cyber-Courses/Cyber-Library](https://github.com/Cyber-Courses/Cyber-Library) - 👋 Welcome to the Cyber Library your ultimate resource for everything cybersecurity.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -2388,7 +2385,7 @@
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 - [dr-data/QC_cheatsheet](https://github.com/dr-data/QC_cheatsheet) - Cheatsheet for understanding Introductory Quantum Computing, including Qubits, Gates and Basic Circuit
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [getomni-ai/datasets](https://github.com/getomni-ai/datasets) - Public datsets made with https://getomni.ai/
 - [facefusion/facefusion-docker](https://github.com/facefusion/facefusion-docker) - Industry leading face manipulation platform
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -2398,7 +2395,7 @@
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [BlueBirdBack/godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) - 🎮 Comprehensive .cursorrules configuration for Godot 4.4 game development in Cursor AI. Includes coding standards, best practices, and performance optimization guidelines for modern Godot projects.
-- [blefnk/awllm-awesome-cursor-rules](https://github.com/blefnk/awllm-awesome-cursor-rules) - ❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailw
+- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailw
 - [Qwertic/cursorrules](https://github.com/Qwertic/cursorrules) - A collection of .cursorrules
 - [razbakov/ai-secretary](https://github.com/razbakov/ai-secretary) - AI-First Organization
 - [hao-ji-xing/awesome-cursor](https://github.com/hao-ji-xing/awesome-cursor) - A curated collection of tools and resources for Cursor.
@@ -2515,7 +2512,6 @@
 - [alxndrkalinin/awesome-deepneuroimage](https://github.com/alxndrkalinin/awesome-deepneuroimage) - A curated list of awesome deep learning applications in the field of neurological image analysis
 - [pimentel/deep_learning_papers](https://github.com/pimentel/deep_learning_papers) - A place to collect papers that are related to deep learning and computational biology
 - [gokceneraslan/awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
-- [Abhra00/walls](https://github.com/Abhra00/walls) - 
 - [Tatooo29/project-hub](https://github.com/Tatooo29/project-hub) - A public repository for project-hub
 - [finn9633/BatchGenie](https://github.com/finn9633/BatchGenie) - BatchGenie is an AI-powered, user-friendly tool designed to streamline and simplify batch file operations.
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
@@ -2614,7 +2610,6 @@
 - [xiv3r/awesome-termux-hacking](https://github.com/xiv3r/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [ared469/RedTeam-Tools](https://github.com/ared469/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
-- [jiafeiandarianagrande/Instagram-Agent](https://github.com/jiafeiandarianagrande/Instagram-Agent) - Instagram-Agent is a versatile Python tool designed for automating interactions on Instagram, such as liking photos, following users, and commenting on posts. It utilizes the Instagram API to streamli
 - [SHROUDSOURAV/Linux-Essentials-for-Hackers](https://github.com/SHROUDSOURAV/Linux-Essentials-for-Hackers) - This repository will contain Linux basic commands which is going to help the user navigate and learn how to use the linux efficiently
 - [ExpLife0011/awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) - windows kernel security development
 - [f3nter/HardBreak](https://github.com/f3nter/HardBreak) - A Wiki about Hardware Hacking
@@ -2663,6 +2658,7 @@
 - [margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
+- [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) - Here is my Wireshark Profiles repository.  To grab the profiles, click the Release below.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshootin
 - [serdaraltin/fusion-motion-engine](https://github.com/serdaraltin/fusion-motion-engine) - FusionMotionEngine integrates real-time animation and motion capture with Unreal Engine, utilizing Kinect2 and IMU sensors, AI, and OpenCV for advanced motion analysis and seamless development.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [figma/plugin-resources](https://github.com/figma/plugin-resources) - A collection of open source plugins, widgets and other resources for Figma + FigJam that have been shared on GitHub.
@@ -2860,7 +2856,7 @@
 - [Correia-jpv/fucking-awesome-pentest](https://github.com/Correia-jpv/fucking-awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things. With repository stars⭐ and forks🍴
 - [developer-sumit/awesome-software-licenses](https://github.com/developer-sumit/awesome-software-licenses) - A comprehensive guide to understanding various open-source licenses. This repository explains the terms and conditions of each license, helping developers make informed decisions when using, modifying
 - [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
-- [blefnk/awgh-awesome-github-repos](https://github.com/blefnk/awgh-awesome-github-repos) - ⭐ a massive collection of github repositories on all kinds of interesting topics, personally curated and recommended by @blefnk, has been manually starred for everyone. the current list features over 
+- [blefnk/awesome-github-repos](https://github.com/blefnk/awesome-github-repos) - ⭐ a massive collection of github repositories on all kinds of interesting topics, personally curated and recommended by @blefnk, has been manually starred for everyone. the current list features over 
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [Correia-jpv/fucking-awesome-chrome-devtools](https://github.com/Correia-jpv/fucking-awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-awesome-docker](https://github.com/Correia-jpv/fucking-awesome-docker) - 🐳 A curated list of Docker resources and projects. With repository stars⭐ and forks🍴
@@ -2945,7 +2941,7 @@
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 - [anshumanv/awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - A curated list of everything related to anime.
 - [RobinCsl/awesome-js-tooling-not-in-js](https://github.com/RobinCsl/awesome-js-tooling-not-in-js) - A curated list of JavaScript tooling not written in JavaScript
-- [gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
+- [gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list of wordlists for bruteforcing and fuzzing
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 - [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4) - A curated list of resources for working with Unreal Engine 4. (Awesome Unreal Engine 4)
 - [facyber/awesome-networking](https://github.com/facyber/awesome-networking) - A collection of awesome networking courses, books, tutorials and other resources
@@ -3524,14 +3520,14 @@
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) - MCP Interface for Video Jungle
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) - 
 - [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks ag
-- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, Bayt, & Naukri
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter & more
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.
 - [AIGODLIKE/ComfyUI-BlenderAI-node](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) - Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
 - [Armur-Ai/Auto-Pentest-GPT-AI](https://github.com/Armur-Ai/Auto-Pentest-GPT-AI) - LLM Powered Pentesting for your software
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -4090,6 +4086,7 @@
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [M-logique/Discord-Nuker](https://github.com/M-logique/Discord-Nuker) - Fast Discord Nuker written in python
 - [akashblackhat/gmail-hack.py](https://github.com/akashblackhat/gmail-hack.py) - Gmail id brut force attack Gmail id hack tools (use : kali linux and trmoux)
@@ -4287,7 +4284,7 @@
 - [absolute-quantum/cats-blender-plugin](https://github.com/absolute-quantum/cats-blender-plugin) - :smiley_cat: A tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max 
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [CashewTeam/Cashew-Nodes](https://github.com/CashewTeam/Cashew-Nodes) - Useful Blender geometry, shader, compositor node groups.
-- [oanegros/MicroscopyNodes](https://github.com/oanegros/MicroscopyNodes) - Loading and handling microscopy data in blender
+- [aafkegros/MicroscopyNodes](https://github.com/aafkegros/MicroscopyNodes) - Loading and handling microscopy data in blender
 - [specklesystems/speckle-blender](https://github.com/specklesystems/speckle-blender) - 
 - [maqq1e/CustomScriptManager](https://github.com/maqq1e/CustomScriptManager) - Easy way to control your custom python script and N-Panel extensions. No need to always load scripts in blender or creating separated junk addons. Only one addon for control all of them.
 - [Tams3d/T3D-GN-Presets](https://github.com/Tams3d/T3D-GN-Presets) - A Collection of Incredibly useful nodes for Geometry Nodes - Blender
@@ -4414,7 +4411,7 @@
 - [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Easy to use fansly.com content downloading tool. Written in python, but ships as a standalone Executable App for Windows too. Enjoy your Fansly content offline anytime, anywhere in the highest possibl
 - [wx-chevalier/Awesome-Lists-and-CheatSheets](https://github.com/wx-chevalier/Awesome-Lists-and-CheatSheets) - :books: Guide to Galaxy, curated, worthy and up-to-date links/reading List, CheatSheets, MindMaps for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月
 - [icopy-site/awesome](https://github.com/icopy-site/awesome) - collection of awesome lists
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [OTFCG/Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis) - a comprehensive collection of video game tech analysis resources
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
@@ -4566,7 +4563,7 @@
 - [w5teams/w5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
 - [waldo-vision/optical.flow.demo](https://github.com/waldo-vision/optical.flow.demo) - A project that uses optical flow and machine learning to detect aimhacking in video clips.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [stumpy-dev/stumpy](https://github.com/stumpy-dev/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [t4d/StalkPhish](https://github.com/t4d/StalkPhish) - StalkPhish - The Phishing kits stalker, harvesting phishing kits for investigations.
@@ -4588,6 +4585,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [R3DHULK/python-for-ethical-hacking](https://github.com/R3DHULK/python-for-ethical-hacking) - Build tools for hacking ethically using python.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
+- [The-Art-of-Hacking/websploit](https://github.com/The-Art-of-Hacking/websploit) - This is a learning created by Omar Santos (@santosomar) for different Cybersecurity training sessions. It includes many intentionally vulnerable applications running in Docker containers and thousands
 - [swisskyrepo/DamnWebScanner](https://github.com/swisskyrepo/DamnWebScanner) - Another web vulnerabilities scanner, this extension works on Chrome and Opera
 - [swisskyrepo/Wordpresscan](https://github.com/swisskyrepo/Wordpresscan) - WPScan rewritten in Python + some WPSeku ideas
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
@@ -4740,7 +4738,7 @@
 - [gamblor21/Laughing_Skull](https://github.com/gamblor21/Laughing_Skull) - When the light shines on this project an animated laughing skull appears along with audio of of evil laughing. Written in CircuitPython and tested on several Adafruit boards.
 - [yvdlima/matador_de_passarinho_kl](https://github.com/yvdlima/matador_de_passarinho_kl) - 
 - [yagiziskirik/PYrus](https://github.com/yagiziskirik/PYrus) - PYrus is a prank virus built on python. It does not harm the computer in any way.
-- [HarshscGithub/Atarbals-Modern-Antivirus](https://github.com/HarshscGithub/Atarbals-Modern-Antivirus) - This whole new antivirus. In this antivirus the UI is superb. It look like real antivirus. But it is not real antivirus it doesn't scan for any viruses it is just UI prank/Game and is used for enterta
+- [HarshscGithub/Atarbals-Modern-Antivirus](https://github.com/HarshscGithub/Atarbals-Modern-Antivirus) - ProteCTkers v1 Antivirus is an open-source antivirus solution developed by Harsh Chaudhari, designed to provide robust malware detection and system protection. Written in Python 3.0 using Tkinter for 
 - [3kh0/echodown](https://github.com/3kh0/echodown) - 🚀 A very real and legit DDoS/Network stresser that totally works (sarcasm)
 - [V8ST8K/Torpeda](https://github.com/V8ST8K/Torpeda) - 💣📚 Простой, но очень мощный SMS-Бобмер написанный на Python
 - [yunghog/og-bomber-gui](https://github.com/yunghog/og-bomber-gui) - SMS Spoofer | Graphical User Interface application
@@ -4933,7 +4931,7 @@
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
-- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore 5,000+ genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - [reynoldsbd/lunacam](https://github.com/reynoldsbd/lunacam) - Camera streaming system for Raspberry Pi
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
@@ -5039,7 +5037,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
 - [appsinacup/godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics) - Godot Rapier Physics – 2D and 3D physics engine for the Godot game engine. with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
@@ -5164,7 +5162,6 @@
 - [tiptoettt/instashell](https://github.com/tiptoettt/instashell) - Instagram Brute Forcer without password limit
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-- [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) - Here is my Wireshark Profiles repository.  To grab the profiles, click the Release below.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshootin
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [TermuxHackz/CAM-DUMPER](https://github.com/TermuxHackz/CAM-DUMPER) - KALI LINUX / TERMUX tool for hacking victim android front camera.
 - [Cod3r-Ak/TermuX-Custom](https://github.com/Cod3r-Ak/TermuX-Custom) - TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login
@@ -5237,7 +5234,6 @@
 - [hak5/packetsquirrel-payloads](https://github.com/hak5/packetsquirrel-payloads) - The Official Packet Squirrel Payload Repository
 - [hak5/keycroc-payloads](https://github.com/hak5/keycroc-payloads) - The Official Key Croc Payload Repository
 - [hak5/sharkjack-payloads](https://github.com/hak5/sharkjack-payloads) - The Official Hak5 Shark Jack Payload Repository
-- [The-Art-of-Hacking/websploit](https://github.com/The-Art-of-Hacking/websploit) - This is a learning created by Omar Santos (@santosomar) for different Cybersecurity training sessions. It includes many intentionally vulnerable applications running in Docker containers and thousands
 - [stormshadow07/backdoor-apk](https://github.com/stormshadow07/backdoor-apk) - backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, t
 - [cansofficall/aracindir](https://github.com/cansofficall/aracindir) - 
 - [gushmazuko/metasploit_in_termux](https://github.com/gushmazuko/metasploit_in_termux) - Install Metasploit Framework 6 in Termux
@@ -5455,7 +5451,7 @@
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [mitch292/reject-cookies](https://github.com/mitch292/reject-cookies) - A chrome extension that with auto - reject cookie banners and pop ups
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
@@ -5482,7 +5478,7 @@
 - [PV-Bhat/vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server) - The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call "Vibe Check" with LearnLM 2.0 Flash, fine-tun
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) - Enable any LLM (e.g. Claude) to interactively debug any language for you via MCP and a VS Code Extension
-- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser
+- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template.
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective. Supports OpenAI, Gemini, Claude, Ollama, MSTY and many more.
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
@@ -5566,7 +5562,6 @@
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
@@ -5636,7 +5631,7 @@
 - [AweXplor/awexplor.github.io](https://github.com/AweXplor/awexplor.github.io) - AwesomeExplorer (AweXplor) – the ultimate tool for exploring GitHub's awesome lists with ease and efficiency!
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
-- [geng-haoran/Simulately](https://github.com/geng-haoran/Simulately) - A universal summary of current robotics simulators
+- [RoboVerseOrg/Simulately](https://github.com/RoboVerseOrg/Simulately) - A universal summary of current robotics simulators
 - [senpai-so/on-deck-globe](https://github.com/senpai-so/on-deck-globe) - 3D globe visualizing the On Deck community.
 - [cosimo/TheGlobe](https://github.com/cosimo/TheGlobe) - The Globe, a Typescript + WebGL live 3D Earth traffic visualization
 - [lume/harp.gl](https://github.com/lume/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
@@ -5683,7 +5678,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTra
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
