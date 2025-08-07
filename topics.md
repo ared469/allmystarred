@@ -423,7 +423,7 @@
 - [Bforartists/Bforartists](https://github.com/Bforartists/Bforartists) - Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 - [allenai/objaverse-xl](https://github.com/allenai/objaverse-xl) - 🪐 Objaverse-XL is a Universe of 10M+ 3D Objects. Contains API Scripts for Downloading and Processing!
 - [festivities/Blender-miHoYo-Shaders](https://github.com/festivities/Blender-miHoYo-Shaders) - Shader for Blender attempting to replicate the shading of Genshin Impact. These are for datamined assets, not custom-made ones nor the MMD variants.
-- [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot, Rust, and Zig.
+- [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot and Rust.
 - [puchik/godot-extras](https://github.com/puchik/godot-extras) - LOD and optimization C++ addons and shaders for Godot 4 and Godot 3
 - [appsinacup/godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics) - Godot Rapier Physics – 2D and 3D physics engine for the Godot game engine. with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 - [nezvers/Godot_goodies](https://github.com/nezvers/Godot_goodies) - Collection of nice stuff for Godot
@@ -497,6 +497,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) - Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Playwright-based spiders with minimal manual coding. Ideal for large enterprises with recurring data ext
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, Hunyuan Video, LTX  Video and Flux.
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [xaviviro/refacer](https://github.com/xaviviro/refacer) - Refacer: One-Click Deepfake Multi-Face Swap Tool
 - [re50urces/Awesome-AI](https://github.com/re50urces/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
@@ -516,7 +517,7 @@
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
@@ -3003,7 +3004,7 @@
 - [0xPugal/Awesome-Dorks](https://github.com/0xPugal/Awesome-Dorks) - Dorks for Bug Bounty Hunting
 - [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [Anof-cyber/PyCript](https://github.com/Anof-cyber/PyCript) - Burp Suite extension for bypassing client-side encryption for pentesting and bug bounty
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) - Cross-site scripting labs for web application security enthusiasts
 - [3nock/SpiderSuite](https://github.com/3nock/SpiderSuite) - Advance web security spider/crawler
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
@@ -3942,7 +3943,7 @@
 - [salil-naik/css-art-gallery](https://github.com/salil-naik/css-art-gallery) - A collection of CSS Arts.
 - [nucliweb/People-You-Should-Follow-on-CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - People You Should Follow on CodePen
 - [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - A web component for visual art and creative coding with CSS
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - A web component for visual art and creative coding
 - [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of talks and articles about real world frontend development
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -5450,7 +5451,7 @@
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
 - [drxwat/goblins-game-gd](https://github.com/drxwat/goblins-game-gd) - Turn based strategy game made with Godot Engine.
 - [db0/hypnagonia](https://github.com/db0/hypnagonia) - Therapy through Nightmares
-- [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot, Rust, and Zig.
+- [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot and Rust.
 - [jonathaneeckhout/jdungeon](https://github.com/jonathaneeckhout/jdungeon) - An opensource 2d morpg game based on the Godot engine in a medieval inspired fantasy world
 - [Relintai/entity_spell_system](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.
 - [VacaRoxa/gamedev4noobs](https://github.com/VacaRoxa/gamedev4noobs) - Olá, sejam bem-vindos ao repositório _gamedev4noobs_ do Estúdio Vaca Roxa. O propósito desse repositório, além de contribuir para o projeto 4noobs, é ensinar o básico do desenvolvimento de jogos para 
@@ -5951,7 +5952,7 @@
 - [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) - collect all  awesome about IT
 - [digitalghost-dev/poke-cli](https://github.com/digitalghost-dev/poke-cli) - A hybrid CLI/TUI tool written in Go for viewing Pokémon data from the terminal!
 - [fogleman/ribbon](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in #golang.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
@@ -5971,7 +5972,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [jtrv/dotfiles](https://github.com/jtrv/dotfiles) - A repository for all my configurations
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 - [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok
 - [dos-2/oddshub](https://github.com/dos-2/oddshub) - A terminal UI designed for analyzing sports betting odds💰
@@ -6136,7 +6137,7 @@
 - [Maaack/Godot-Menus-Template](https://github.com/Maaack/Godot-Menus-Template) - Godot template with a main menu, options menus, credits, and a scene loader.
 - [kevinw/GodotVision](https://github.com/kevinw/GodotVision) - Godot in RealityKit / visionOS
 - [bitbrain/godot-tutorials](https://github.com/bitbrain/godot-tutorials) - A curation of Godot tutorial source code created by bitbrain.
-- [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot, Rust, and Zig.
+- [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot and Rust.
 - [MateuSai/Godot-Roguelike-Tutorial](https://github.com/MateuSai/Godot-Roguelike-Tutorial) - A series of videos on how to make a roguelike using the Godot game engine: https://www.youtube.com/playlist?list=PL2-ArCpIQtjELkyLKec8BaVVCeunuHSK9
 - [jonathaneeckhout/jdungeon](https://github.com/jonathaneeckhout/jdungeon) - An opensource 2d morpg game based on the Godot engine in a medieval inspired fantasy world
 - [godot-sdk-integrations/godot-ios-plugins](https://github.com/godot-sdk-integrations/godot-ios-plugins) - 
@@ -6292,7 +6293,7 @@
 - [elva-labs/awsesh](https://github.com/elva-labs/awsesh) - A charming TUI for AWS SSO session management ✨
 - [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [Kaamkiya/gg](https://github.com/Kaamkiya/gg) - :space_invader: Games you can play in your terminal written in Go
@@ -6493,7 +6494,7 @@
 - [B3ND1X/air-script](https://github.com/B3ND1X/air-script) - Air Script is a powerful Wi-Fi auditing tool with optional email alerts for captured handshakes.
 - [lacdis/instakilo](https://github.com/lacdis/instakilo) - Anonymously observe Instagram accounts.
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [Antu7/python-bruteForce](https://github.com/Antu7/python-bruteForce) - Brute Force Attack Tools Using Python
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
 - [bee-san/Search-That-Hash](https://github.com/bee-san/Search-That-Hash) - 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
@@ -8570,11 +8571,11 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -9753,7 +9754,7 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
@@ -10165,7 +10166,6 @@
 - [devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
-- [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - Wan 2.1 for the GPU Poor
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [lharries/awesome-mcp-servers](https://github.com/lharries/awesome-mcp-servers) - A collection of MCP servers.
 - [bluetuith-org/bluetooth-classic](https://github.com/bluetuith-org/bluetooth-classic) - Go-based APIs for interacting with native Bluetooth stacks for Bluetooth Classic functionalities.
@@ -10484,7 +10484,7 @@
 - [expected-ingot/flipper-xinput](https://github.com/expected-ingot/flipper-xinput) - Simple Xbox 360 controller emulator for the Flipper Zero
 - [zinongli/Metroflip](https://github.com/zinongli/Metroflip) - Metroflip Suica Fork
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [RocketGod-git/flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - Frequency and preset adjustable subghz radio frequency jammer for Flipper Zero
 - [UberGuidoZ/flipper-zero-rf-jammer](https://github.com/UberGuidoZ/flipper-zero-rf-jammer) - Frequency and preset adjustable subghz radio frequency jammer for Flipper Zero
 - [pentestfunctions/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes](https://github.com/pentestfunctions/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes) - A comprehensive guide for web application penetration testing and bug bounty hunting, covering methodologies, tools, and resources for identifying and exploiting vulnerabilities.
@@ -10534,7 +10534,7 @@
 - [alexadam/text-effects](https://github.com/alexadam/text-effects) - Text Effects
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
-- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.*.*
+- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.x.x
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -11295,7 +11295,7 @@
 - [CedArctic/DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) - USB Rubber Ducky type scripts written for the DigiSpark.
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) - 802.11 Attack Tool
 - [Anof-cyber/PyCript](https://github.com/Anof-cyber/PyCript) - Burp Suite extension for bypassing client-side encryption for pentesting and bug bounty
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
@@ -11417,7 +11417,7 @@
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [RichardAlmeyda/3num-tool](https://github.com/RichardAlmeyda/3num-tool) - Enumeration Tool
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [Syslifters/offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
@@ -11545,7 +11545,7 @@
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [lastguest/pixeler](https://github.com/lastguest/pixeler) - CLI image renderer
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [megoxv/DevCheats](https://github.com/megoxv/DevCheats) - Helpful cheatsheets for popular programming languages, frameworks, and development tools, with everything you need to know! 😊📚
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -12599,7 +12599,7 @@
 - [DSPsleeporg/smiles-transformer](https://github.com/DSPsleeporg/smiles-transformer) - Original implementation of the paper "SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery" by Shion Honda et al.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension) - A powerful tool that translates ComfyUI workflows into executable Python code.
 - [siliconflow/onediff](https://github.com/siliconflow/onediff) - OneDiff: An out-of-the-box acceleration library for diffusion models.
@@ -13145,7 +13145,7 @@
 - [Amjad50/plastic](https://github.com/Amjad50/plastic) - NES emulator in rust with egui and TUI
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [jtrv/dotfiles](https://github.com/jtrv/dotfiles) - A repository for all my configurations
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [zeh/random-art-generator](https://github.com/zeh/random-art-generator) - Command-line application to produce generative art based on a target image
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -13293,7 +13293,7 @@
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [Anof-cyber/PyCript](https://github.com/Anof-cyber/PyCript) - Burp Suite extension for bypassing client-side encryption for pentesting and bug bounty
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256, HS384 & HS512 JWT token brute force cracker.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
@@ -13574,7 +13574,7 @@
 - [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
 - [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) - 802.11 Attack Tool
-- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - If these strings are in your code, you might have a problem!
 - [Syslifters/offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
 - [Penetrum-Security/Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
@@ -14490,7 +14490,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [mezbaul-h/june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and  Coqui TTS Toolkit
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [SamirPaulb/real-time-voice-translator](https://github.com/SamirPaulb/real-time-voice-translator) - A desktop application that uses AI to translate voice between languages in real time, while preserving the speaker's tone and emotion.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -14815,7 +14815,7 @@
 - [mikeroyal/Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.
 - [barsdeveloper/ueblueprint](https://github.com/barsdeveloper/ueblueprint) - Unreal Engine's Blueprint visualization web library
 - [EliotVU/Unreal-Library](https://github.com/EliotVU/Unreal-Library) - Decompiler for Unreal package files (.upk, .u, .uasset; etc), with support for Unreal Engine 1, 2, and 3
-- [Cutter-H/ResourceComponentPlugin](https://github.com/Cutter-H/ResourceComponentPlugin) - Unreal Engine Plugin | Actor Component that can be used for various resources. Includes a modifiable Health component and a ready-made Health component with UI elements.
+- [Cutter-H/ResourceComponentPlugin](https://github.com/Cutter-H/ResourceComponentPlugin) - Unreal Engine Plugin - Actor Component that can be used for various resources. Includes a modifiable Health component and a ready-made Health component with UI elements.
 - [RahulChandra99/ue5-cpp-parkour-climbing-mechanics](https://github.com/RahulChandra99/ue5-cpp-parkour-climbing-mechanics) - parkour, climbing
 - [Tangha-Technologies/UnrealEnginePluginsDemo](https://github.com/Tangha-Technologies/UnrealEnginePluginsDemo) - All Demos of Unreal Engine Plugins In Fab
 - [Harrison1/unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
@@ -14833,7 +14833,7 @@
 - [Mountea-Framework/MounteaInventoryEquipment](https://github.com/Mountea-Framework/MounteaInventoryEquipment) - Mountea Inventory & Equipment is an Open-source Mountea Framework components based simple framework allowing you to construct Inventory systems fast, easily and with advanced options.
 - [Mountea-Framework/MounteaDialogueSystem](https://github.com/Mountea-Framework/MounteaDialogueSystem) - Mountea Dialogue System is an Open-source Mountea Framework tool for Unreal Engine for creating (not just) complex dialogues! Provides its own Dialogue Tree editor and validation system.
 - [JonasReich/OpenUnrealUtilities](https://github.com/JonasReich/OpenUnrealUtilities) - Open Unreal Utilities - Open Source Utilties for Unreal Engine
-- [Voidware-Prohibited/ALSXT](https://github.com/Voidware-Prohibited/ALSXT) - Advanced Locomotion System Refactored with expanded Character States, Improved Foot Print system, Sliding, Vaulting and Wallrunning(XT)
+- [Voidware-Prohibited/ALSXT](https://github.com/Voidware-Prohibited/ALSXT) - An Unreal Engine 5 plugin that extends ALS-Refactored with a set of popular replicated gameplay features, to demonstrate the extendability of ALS-Refactored in a Modular, Data-Driven, UE5 Way. The fea
 - [Solessfir/Toolbox](https://github.com/Solessfir/Toolbox) - Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development
 - [UNAmedia/ue5-cardboard-demo](https://github.com/UNAmedia/ue5-cardboard-demo) - "UE5 Cardboard VR" plugin demo
 - [Drakynfly/FaerieDataSystem](https://github.com/Drakynfly/FaerieDataSystem) - Multi-purpose inventory, equipment, and crafting system
@@ -15340,7 +15340,6 @@
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals
-- [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot, Rust, and Zig.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
