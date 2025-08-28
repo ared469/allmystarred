@@ -756,7 +756,6 @@
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.
 - [SpacehuhnTech/DeauthDetector](https://github.com/SpacehuhnTech/DeauthDetector) - Detect deauthentication frames using an ESP8266
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
-- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
@@ -828,7 +827,6 @@
 - [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
-- [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio) - A small web app to manage your personal library, designed for self-hosting
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [KawaiiHannah/pixel-character](https://github.com/KawaiiHannah/pixel-character) - A pixel art character generator that delivers in under 10kb
@@ -1041,7 +1039,7 @@
 - [Oen44/Godot-Inventory](https://github.com/Oen44/Godot-Inventory) - Available at Asset Library
 - [cloudofoz/godot-smashthemesh](https://github.com/cloudofoz/godot-smashthemesh) - Smash The Mesh (STM) is a Godot add-on that allows you to break 3D meshes into multiple pieces and apply physics to each fragment. It includes features for saving the results to disk (cache) for quick
 - [kevinw/GodotVisionExample](https://github.com/kevinw/GodotVisionExample) - Example template for GodotVision
-- [Nokorpo/LibreAim](https://github.com/Nokorpo/LibreAim) - Free and open source FPS aim trainer made with Godot.
+- [Nokorpo/LibreAim](https://github.com/Nokorpo/LibreAim) - Free and open source FPS aim trainer made with Godot. Project now moved to Codeberg
 - [Freedom-Hunter/Freedom-Hunter](https://github.com/Freedom-Hunter/Freedom-Hunter) - Monster Hunter like action RPG game
 - [retrohub-org/retrohub](https://github.com/retrohub-org/retrohub) - Retrogaming library frontend, built to be a highly customizable platform.
 - [rbarongr/GodotFirstPersonController](https://github.com/rbarongr/GodotFirstPersonController) - Basic First Person Controller for Godot 4
@@ -1169,7 +1167,6 @@
 ## Go 
 
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [openai/openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -2200,6 +2197,7 @@
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin
 - [Wei1234c/Clock_Generators](https://github.com/Wei1234c/Clock_Generators) - Clock generators ( Si5351 for now ) toolbox.
+- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
@@ -3544,7 +3542,7 @@
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
-- [oop7/YTSage](https://github.com/oop7/YTSage) - Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performa
+- [oop7/YTSage](https://github.com/oop7/YTSage) - Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performa
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
@@ -3724,6 +3722,7 @@
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ared469/whatsapp-mcp](https://github.com/ared469/whatsapp-mcp) - WhatsApp MCP server
 - [seanboyce/Calculus-the-game](https://github.com/seanboyce/Calculus-the-game) - An electronic strategy board game about mining an asteroid and barter.
+- [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio) - A small web app to manage your personal library, designed for self-hosting
 - [azmenak/InfiniteYou](https://github.com/azmenak/InfiniteYou) - 🔥 InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
 - [sliday/resume-job-matcher](https://github.com/sliday/resume-job-matcher) - AI-powered Python script for automated resume-job matching with scoring, PDF generation, and personalized email responses.
 - [sahilg06/EmoGen](https://github.com/sahilg06/EmoGen) - PyTorch Implementation for Paper "Emotionally Enhanced Talking Face Generation" (ICCVW'23 and ACM-MMW'23)
@@ -4017,7 +4016,7 @@
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
 - [gcorso/DiffDock](https://github.com/gcorso/DiffDock) - Implementation of DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking
 - [anbuinfosec/wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
 - [DIYer22/bpycv](https://github.com/DIYer22/bpycv) - Computer vision utils for Blender (generate instance annoatation, depth and 6D pose by one line code)
@@ -4133,7 +4132,7 @@
 - [mov-ebx/discord-scripts](https://github.com/mov-ebx/discord-scripts) - A collection of scripts written by me, for the Discord platform. Includes a launcher which allows you to easily launch and use any of them.
 - [tabreturn/blender-creative-coding](https://github.com/tabreturn/blender-creative-coding) - A collection of Blender creative coding experiments
 - [vipenti/3D-Human-Body-Generator](https://github.com/vipenti/3D-Human-Body-Generator) - 🎓 A project for my internship at the VRLab, at  University of Salerno. This project goal is to create a fully customizable 3D human body with your body measurements.
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [0x4D31/fatt](https://github.com/0x4D31/fatt) - FATT /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic
 - [techartorg/Blender-Python-Recipes](https://github.com/techartorg/Blender-Python-Recipes) - A collection of working samples to demonstrate how to accomplish certain programming tasks in Blender.
 - [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022)
@@ -4879,7 +4878,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
@@ -5472,6 +5471,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 - [mateussilva98/bookmarkeddit](https://github.com/mateussilva98/bookmarkeddit) - Reddit's missing save manager: Finally organize what matters to you
