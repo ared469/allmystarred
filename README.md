@@ -627,6 +627,7 @@
 - [sideeffects/SideFXLabs](https://github.com/sideeffects/SideFXLabs) - 
 - [appleseedhq/appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 - [UPBGE/upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
+- [DanielBoxer/UVgami](https://github.com/DanielBoxer/UVgami) - Automatic UV unwrapping add-on for Blender
 - [ThisisGame/cpp-game-engine-book](https://github.com/ThisisGame/cpp-game-engine-book) - 从零编写游戏引擎教程 Writing a game engine tutorial from scratch
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 - [MitchKeenan0/Tachyon](https://github.com/MitchKeenan0/Tachyon) - Cosmic beings come to blows in this explosive dueling game.
@@ -3630,7 +3631,7 @@
 - [evilvodun/wifi_passwords](https://github.com/evilvodun/wifi_passwords) - Steal windows wifi passwords with Flipper Zero
 - [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
 - [ankh2054/python-exploits](https://github.com/ankh2054/python-exploits) - Repository for python exploits
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -4333,7 +4334,6 @@
 - [bigandtallrecords/motionmaker](https://github.com/bigandtallrecords/motionmaker) - Blender add-on for making any object wobble or wiggle.
 - [DanieleBertagnoli/SyntheticVideoGeneration](https://github.com/DanieleBertagnoli/SyntheticVideoGeneration) - This project allows users to generate synthetic videos from CAD models, including .npy files with additional information. Models are loaded dynamically into a Blender scene, and the camera smoothly mo
 - [nutti/DeepLearning-In-Blender](https://github.com/nutti/DeepLearning-In-Blender) - 
-- [DanielBoxer/UVgami](https://github.com/DanielBoxer/UVgami) - Automatic UV unwrapping add-on for Blender
 - [GoldenQubicle/BAT4Blender](https://github.com/GoldenQubicle/BAT4Blender) - highly experimental isometric renderer for SimCity4
 - [KirilStrezikozin/BakeMaster-Blender-Addon](https://github.com/KirilStrezikozin/BakeMaster-Blender-Addon) - Welcome to BakeMaster, a powerful and feature-packed baking solution created for Blender - an open-source 3D Computer graphics software.
 - [ppmpreetham/bface-lights](https://github.com/ppmpreetham/bface-lights) - Blender addon to add lights to selected faces
@@ -5377,7 +5377,6 @@
 ## Svelte 
 
 - [kylemcdonald/lapd-face-search](https://github.com/kylemcdonald/lapd-face-search) - 
-- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [talesofai/comfyui-browser](https://github.com/talesofai/comfyui-browser) - An image/video/workflow browser and manager for ComfyUI.
 - [threehymns/awesome-terminals](https://github.com/threehymns/awesome-terminals) - A curated collection of modern, feature-rich (or minimal!) terminal emulators for developers. Discover, compare, and choose your next terminal with ease!
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
@@ -5495,6 +5494,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [mitch292/reject-cookies](https://github.com/mitch292/reject-cookies) - A chrome extension that with auto - reject cookie banners and pop ups
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
@@ -5506,7 +5506,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa is a Web Search API | This is Exa MCP (Model Context Protocol)
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - connect any ai agents to solana protocols
@@ -5739,7 +5739,7 @@
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
