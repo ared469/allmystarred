@@ -105,7 +105,7 @@
 
 ## Adblock Filter List 
 
-- [the-advoid/ad-void](https://github.com/the-advoid/ad-void) - ✈️ An efficient AdBlock filter list that blocks ads, trackers, malware, phishing attempts, fake download links, fake search results, and a lot more if you want it to! Things like: cookie-consent banne
+- [the-advoid/ad-void](https://github.com/the-advoid/ad-void) - 🛡️ An efficient ad-block filter list that blocks ads, trackers, malware, phishing, and a wide range of web annoyances - from cookie banners and pop-ups to fake links and intrusive widgets. 👾
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
@@ -121,7 +121,7 @@
 - [Arthur-Nitzz/GB-Studio-Community-Assets](https://github.com/Arthur-Nitzz/GB-Studio-Community-Assets) - A repository of user-submitted original assets usable in GB Studio, with no attribution required.
 - [DeerTears/GB-Studio-Community-Assets](https://github.com/DeerTears/GB-Studio-Community-Assets) - A repository of user-submitted original assets usable in GB Studio 2.0, with no attribution required.
 - [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
-- [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly
+- [donno2048/snake](https://github.com/donno2048/snake) - A 56 bytes snake game in assembly
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -1436,6 +1436,7 @@
 
 ## HTML 
 
+- [Ritul-Void/Oasis-98](https://github.com/Ritul-Void/Oasis-98) - OASISv1.0.1 is a lightweight decentralized chat application inspired by the retro look of Windows 98. This application enables users to generate unique user IDs for anonymous and private communication
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - ECP5 FPGA Dev Board in a Pi Zero form
 - [yongkaiwu/FairAI](https://github.com/yongkaiwu/FairAI) - This is a collection of papers and other resources related to fairness.
@@ -2343,7 +2344,6 @@
 
 ## Nix 
 
-- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [jvns/nixpkgs](https://github.com/jvns/nixpkgs) - my nix packages
 
 ## OCaml 
@@ -2847,6 +2847,7 @@
 - [kalanakt/awesome-telegram](https://github.com/kalanakt/awesome-telegram) - A curated list of awesome telegram groups, channels, bots, open source projects And Libraries
 - [awesomelistsio/awesome](https://github.com/awesomelistsio/awesome) - A collection of awesome lists that are about a variety of different topics.
 - [alexgoesgit/awesome-vmware](https://github.com/alexgoesgit/awesome-vmware) - A list of virtualization software with focus on VMware alternatives.
+- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - The awesome list of all the awesome lists
 - [ared469/awesome-entertainment](https://github.com/ared469/awesome-entertainment) - List of awesome apps and website for entertainment.
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
@@ -4172,7 +4173,7 @@
 - [ared469/bunkerweb](https://github.com/ared469/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [navin-hariharan/Master-Bomber](https://github.com/navin-hariharan/Master-Bomber) - The ultimate bomber be it mail, SMS or call. Anonymous mail and SMS sending options are also available :)
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
-- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
+- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
 - [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
 - [PhasesResearchLab/ESPEI](https://github.com/PhasesResearchLab/ESPEI) - Fitting thermodynamic models with pycalphad - https://doi.org/10.1557/mrc.2019.59
 - [shamprashant/Music-Mood-Recognition](https://github.com/shamprashant/Music-Mood-Recognition) - A machine learning approach to detect the mood of the song and queuing next songs according to that mood.
@@ -4339,7 +4340,7 @@
 - [specklesystems/speckle-blender](https://github.com/specklesystems/speckle-blender) - 
 - [maqq1e/CustomScriptManager](https://github.com/maqq1e/CustomScriptManager) - Easy way to control your custom python script and N-Panel extensions. No need to always load scripts in blender or creating separated junk addons. Only one addon for control all of them.
 - [Tams3d/T3D-GN-Presets](https://github.com/Tams3d/T3D-GN-Presets) - A Collection of Incredibly useful nodes for Geometry Nodes - Blender
-- [enenra/space-engineers-utilities](https://github.com/enenra/space-engineers-utilities) - A Blender 4.0+ addon to streamline working on assets for Space Engineers.
+- [enenra/space-engineers-utilities](https://github.com/enenra/space-engineers-utilities) - A Blender 4.5+ addon to streamline working on assets for Space Engineers.
 - [soupday/cc_blender_tools](https://github.com/soupday/cc_blender_tools) - Add-on for Blender, for importing and auto-setup of character creator 3 & 4 and iClone 7 & 8 character exports into Blender.
 - [CGCookie/retopoflow](https://github.com/CGCookie/retopoflow) - A suite of retopology tools for Blender
 - [makehumancommunity/mpfb2](https://github.com/makehumancommunity/mpfb2) - MPFB2 is a free and open source human generator for Blender
@@ -4831,7 +4832,7 @@
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Web-application firewalls (WAFs) from security standpoint.
+- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥
 - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -5024,7 +5025,7 @@
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [lemunozm/ruscii](https://github.com/lemunozm/ruscii) - Terminal graphics engine: build your games in the terminal!
 - [scottnm/wasteland-cracker](https://github.com/scottnm/wasteland-cracker) - a helper utility for cracking fallout: new vegas terminals
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [trevarj/termagotchi](https://github.com/trevarj/termagotchi) - Terminal-based Tamagotchi in Rust
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -5403,7 +5404,6 @@
 
 ## Swift 
 
-- [0xatrilla/LiquidSky](https://github.com/0xatrilla/LiquidSky) - iOS BlueSky app for iOS 26+
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -5489,7 +5489,7 @@
 - [ared469/term.everything](https://github.com/ared469/term.everything) - Run any GUI app in the terminal❗
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [speakeasy-api/gram](https://github.com/speakeasy-api/gram) - Platform to create, curate and host MCP servers ⚒️
-- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - 
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [LukeGus/Termix](https://github.com/LukeGus/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
@@ -5566,7 +5566,7 @@
 - [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) - 
 - [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [gyopak/sidellama](https://github.com/gyopak/sidellama) - 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
