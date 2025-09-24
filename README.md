@@ -105,7 +105,7 @@
 
 ## Adblock Filter List 
 
-- [the-advoid/ad-void](https://github.com/the-advoid/ad-void) - 🛡️ An efficient ad-block filter list that blocks ads, trackers, malware, phishing, and a wide range of web annoyances - from cookie banners and pop-ups to fake links and intrusive widgets. 👾
+- [the-advoid/ad-void](https://github.com/the-advoid/ad-void) - 🛡️ A set of modular, highly‑optimized, and efficient filter lists that block ads, trackers, malware, phishing, and intrusive web clutter - from cookie banners to fake links. 👾
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
@@ -756,7 +756,6 @@
 - [CraterCrash/godot-orchestrator](https://github.com/CraterCrash/godot-orchestrator) - Orchestrator: Unleashing Creativity with Visual Scripting
 - [AsPJT/DungeonTemplateLibrary](https://github.com/AsPJT/DungeonTemplateLibrary) - 🌏: Dungeon free resources (terrain & roguelike generation)
 - [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
-- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.
 - [SpacehuhnTech/DeauthDetector](https://github.com/SpacehuhnTech/DeauthDetector) - Detect deauthentication frames using an ESP8266
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -928,7 +927,6 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Elixir 
@@ -1255,7 +1253,7 @@
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Command-line launcher
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
@@ -1741,7 +1739,6 @@
 - [simplefastfunnels254/tg-cybersec](https://github.com/simplefastfunnels254/tg-cybersec) - Telegram cybersecurity channels
 - [tonypan2/minesweeper-mcp-server](https://github.com/tonypan2/minesweeper-mcp-server) - An MCP server for playing Minesweeper
 - [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
-- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 - [partridgejiang/Kekule.js](https://github.com/partridgejiang/Kekule.js) - A Javascript cheminformatics toolkit.
 - [n8n-io/n8n-desktop-app](https://github.com/n8n-io/n8n-desktop-app) - n8n Desktop App
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
@@ -1992,7 +1989,7 @@
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -2959,7 +2956,7 @@
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
 - [TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty & Pentesting
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
-- [dapurv5/awesome-red-teaming-llms](https://github.com/dapurv5/awesome-red-teaming-llms) - Repository accompanying the paper https://openreview.net/pdf?id=sSAp8ITBpC
+- [dapurv5/awesome-red-teaming-llms](https://github.com/dapurv5/awesome-red-teaming-llms) - Papers from our SoK on Red-Teaming (Accepted at TMLR)
 - [Recursoft/LogicDriver-Example](https://github.com/Recursoft/LogicDriver-Example) - Example Project for the Unreal Engine State Machine Plugin - Logic Driver Pro
 - [Megasteakman/MegaMocapVR](https://github.com/Megasteakman/MegaMocapVR) - A SteamVR powered mocap solution for Unreal Engine
 - [Buckminsterfullerene02/UE-Modding-Tools](https://github.com/Buckminsterfullerene02/UE-Modding-Tools) - A databank of every UE modding tool & guide that have potential to be used across multiple UE games
@@ -3175,6 +3172,7 @@
 - [ahopness/GodotRetro](https://github.com/ahopness/GodotRetro) - A pack of retro shaders for Godot.
 - [nezvers/Godot_goodies](https://github.com/nezvers/Godot_goodies) - Collection of nice stuff for Godot
 - [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
+- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.
 - [zolagonano/awesome-zeronet](https://github.com/zolagonano/awesome-zeronet) - An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites.
 - [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [Matthias84/awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv) - Curated list of free software and hardware to build remote controlled copters and planes
@@ -3553,7 +3551,7 @@
 - [chinoogawa/instaBrute](https://github.com/chinoogawa/instaBrute) - Instagram bruteforce exploit module
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
-- [Jitendra300/playing_games_on_phone_dial](https://github.com/Jitendra300/playing_games_on_phone_dial) - Playing any game using the world's most beautiful controller ever: A Phone Dial
+- [Jitendra300/playing_games_on_phone_dial](https://github.com/Jitendra300/playing_games_on_phone_dial) - Playing any game using the world's most beautiful game controller ever: A Phone Dial
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
@@ -3738,7 +3736,7 @@
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [skybrush-io/studio-blender](https://github.com/skybrush-io/studio-blender) - Skybrush Studio for Blender - a Blender addon for designing and validating drone shows
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-- [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, Hunyuan Video, LTX  Video and Flux.
+- [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ared469/whatsapp-mcp](https://github.com/ared469/whatsapp-mcp) - WhatsApp MCP server
 - [seanboyce/Calculus-the-game](https://github.com/seanboyce/Calculus-the-game) - An electronic strategy board game about mining an asteroid and barter.
@@ -3782,6 +3780,7 @@
 - [aineniamh/squirrel](https://github.com/aineniamh/squirrel) - 
 - [lowlevel01/c2p1nfo](https://github.com/lowlevel01/c2p1nfo) - Retrieves useful information to detect C2 pivot points to be used in queries on platforms (e.g. via Shodan, Censys, ...)
 - [jitcoder/lora-info](https://github.com/jitcoder/lora-info) - 
+- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 - [badjeff/comfyui_lora_tag_loader](https://github.com/badjeff/comfyui_lora_tag_loader) - 
 - [liusida/ComfyUI-B-LoRA](https://github.com/liusida/ComfyUI-B-LoRA) - A ComfyUI custom node that loads and applies B-LoRA models.
 - [kijai/ComfyUI-DiffusionLight](https://github.com/kijai/ComfyUI-DiffusionLight) - Using DiffusionLight in ComfyUI
@@ -4418,7 +4417,6 @@
 - [tkoyama010/awesome-jupyter-book](https://github.com/tkoyama010/awesome-jupyter-book) - A curated list of awesome stuff related to jupyter-book 😎
 - [command-tab/awesome-n64-development](https://github.com/command-tab/awesome-n64-development) - A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more
 - [Correia-jpv/fucking-awesome-python](https://github.com/Correia-jpv/fucking-awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.  With repository stars⭐ and forks🍴
-- [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security) - 
 - [lucianosrp/open-source-aviation](https://github.com/lucianosrp/open-source-aviation) - A list of open-source aviation projects and data
 - [raganmd/td_tools_release-collection](https://github.com/raganmd/td_tools_release-collection) - 
 - [Jive-Faury/TouchDesigner_Tools](https://github.com/Jive-Faury/TouchDesigner_Tools) - Collection of TD's tools in development
@@ -4550,7 +4548,7 @@
 - [friggog/tree-gen](https://github.com/friggog/tree-gen) - Procedural generation of tree models in blender
 - [BradyAJohnston/MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) - Toolbox for molecular animations in Blender, powered by Geometry Nodes.
 - [uhlik/bpy](https://github.com/uhlik/bpy) - blender python scripts
-- [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor, enabling end-to-end production from script to screen and back.
+- [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back.
 - [ranjian0/building_tools](https://github.com/ranjian0/building_tools) - Building generation addon for blender
 - [animate1978/MB-Lab](https://github.com/animate1978/MB-Lab) - MB-Lab is a character creation tool for Blender 4.0 and above, based off ManuelBastioniLAB
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
@@ -4927,7 +4925,7 @@
 ## Ruby 
 
 - [fozavci/viproy-voipkit](https://github.com/fozavci/viproy-voipkit) - VIPROY - VoIP Pen-Test Kit for Metasploit Framework
-- [sbounmy/hongbao_bitcoin](https://github.com/sbounmy/hongbao_bitcoin) - Amazon friends and family with custom Bitcoin bills
+- [sbounmy/hongbao_bitcoin](https://github.com/sbounmy/hongbao_bitcoin) - Satoshis for everyone. Gift Bitcoin note to your friends and family
 - [dohliam/jekyll-offline](https://github.com/dohliam/jekyll-offline) - Jekyll Offline - Turn any Jekyll site into an offline application with relative links
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
@@ -5080,7 +5078,7 @@
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [arocull/stag-toolkit](https://github.com/arocull/stag-toolkit) - Godot plugin for real-time 3D games, art, and simulations
+- [arocull/stag-toolkit](https://github.com/arocull/stag-toolkit) - Godot addon for real-time 3D games, art, and simulations
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [emmanueltouzery/hotwire](https://github.com/emmanueltouzery/hotwire) - Hotwire allows you to study network traffic of a few popular protocols in a simple way
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -5360,6 +5358,7 @@
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
 - [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [danielbraun89/devcontainer-features](https://github.com/danielbraun89/devcontainer-features) - 🐳 Extra add-in features for Devcontainers and GitHub Codespaces
@@ -5533,7 +5532,7 @@
 - [jasiek/webprog-anytone](https://github.com/jasiek/webprog-anytone) - Programming interface for Anytone radios using WebUSB
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa is a Web Search API | This is Exa MCP (Model Context Protocol)
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
