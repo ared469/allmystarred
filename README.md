@@ -978,7 +978,7 @@
 - [VinhPhmCng/GodotStylePlugin](https://github.com/VinhPhmCng/GodotStylePlugin) - A Godot addon providing unofficial in-editor style guide
 - [hgouveia/godot-blank-starter-template-3d](https://github.com/hgouveia/godot-blank-starter-template-3d) - Godot 3.x basic starter project with some predefined settings to achieve an high quality look
 - [brettchalupa/godot_skeleton](https://github.com/brettchalupa/godot_skeleton) - Flexible template repository for common game needs in Godot
-- [Maran23/script-ide](https://github.com/Maran23/script-ide) - Script-IDE is a plugin for Godot. It transforms the Script UI into an IDE like UI. Tabs are used for navigating between scripts. The default Outline got an overhaul and now shows all members of the sc
+- [Maran23/script-ide](https://github.com/Maran23/script-ide) - Script-IDE is a plugin for Godot. It transforms the Script UI into an IDE like UI. Multiline Tabs are used for navigating between scripts. The default Outline got an overhaul and now shows all members
 - [rakugoteam/Rakugo-archive](https://github.com/rakugoteam/Rakugo-archive) - Framework (inspired by Ren'Py) for story driven games in Godot.
 - [alfredbaudisch/GodotDynamicInventorySystem](https://github.com/alfredbaudisch/GodotDynamicInventorySystem) - Godot's fully dynamic inventory system, UI with infinite scrolling, item categories, equipment slots, database of items, inspired by Zelda Breath of the Wild
 - [leafboo/corgi-with-a-gun](https://github.com/leafboo/corgi-with-a-gun) - 🎮 Mini 2D top-down arcade game where a corgi has guns and shoots monsters
@@ -1441,6 +1441,7 @@
 - [punnerud/gemma3_image_to_text](https://github.com/punnerud/gemma3_image_to_text) - 
 - [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
+- [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio) - A small web app to manage your personal library, designed for self-hosting
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版
@@ -1739,7 +1740,6 @@
 - [simplefastfunnels254/tg-cybersec](https://github.com/simplefastfunnels254/tg-cybersec) - Telegram cybersecurity channels
 - [tonypan2/minesweeper-mcp-server](https://github.com/tonypan2/minesweeper-mcp-server) - An MCP server for playing Minesweeper
 - [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
-- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 - [partridgejiang/Kekule.js](https://github.com/partridgejiang/Kekule.js) - A Javascript cheminformatics toolkit.
 - [n8n-io/n8n-desktop-app](https://github.com/n8n-io/n8n-desktop-app) - n8n Desktop App
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
@@ -2105,7 +2105,7 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -3739,7 +3739,6 @@
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ared469/whatsapp-mcp](https://github.com/ared469/whatsapp-mcp) - WhatsApp MCP server
 - [seanboyce/Calculus-the-game](https://github.com/seanboyce/Calculus-the-game) - An electronic strategy board game about mining an asteroid and barter.
-- [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio) - A small web app to manage your personal library, designed for self-hosting
 - [azmenak/InfiniteYou](https://github.com/azmenak/InfiniteYou) - 🔥 InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
 - [sliday/resume-job-matcher](https://github.com/sliday/resume-job-matcher) - AI-powered Python script for automated resume-job matching with scoring, PDF generation, and personalized email responses.
 - [sahilg06/EmoGen](https://github.com/sahilg06/EmoGen) - PyTorch Implementation for Paper "Emotionally Enhanced Talking Face Generation" (ICCVW'23 and ACM-MMW'23)
@@ -3779,6 +3778,7 @@
 - [aineniamh/squirrel](https://github.com/aineniamh/squirrel) - 
 - [lowlevel01/c2p1nfo](https://github.com/lowlevel01/c2p1nfo) - Retrieves useful information to detect C2 pivot points to be used in queries on platforms (e.g. via Shodan, Censys, ...)
 - [jitcoder/lora-info](https://github.com/jitcoder/lora-info) - 
+- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 - [badjeff/comfyui_lora_tag_loader](https://github.com/badjeff/comfyui_lora_tag_loader) - 
 - [liusida/ComfyUI-B-LoRA](https://github.com/liusida/ComfyUI-B-LoRA) - A ComfyUI custom node that loads and applies B-LoRA models.
 - [kijai/ComfyUI-DiffusionLight](https://github.com/kijai/ComfyUI-DiffusionLight) - Using DiffusionLight in ComfyUI
@@ -3996,6 +3996,7 @@
 - [tansihmittal/textbehindvideo](https://github.com/tansihmittal/textbehindvideo) - Text Behind Video. Enjoy it is completely free.
 - [arinbjornk/llmtop](https://github.com/arinbjornk/llmtop) - A system monitoring tool powered by LLMs that provides real-time insights about your system's performance
 - [MrHarshArora/CyberGhostWeapon](https://github.com/MrHarshArora/CyberGhostWeapon) - This is a SMS And Call Bomber For Linux And Termux
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [JMcrafter26/awesome-ai-tools](https://github.com/JMcrafter26/awesome-ai-tools) - A list of AWESOME AI tools on Github
 - [MikeBirdTech/ai-toolkit](https://github.com/MikeBirdTech/ai-toolkit) - A collection of community created AI tools to improve your life
@@ -4302,7 +4303,6 @@
 - [astropy/astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [design-automation/houdarcs](https://github.com/design-automation/houdarcs) - Houdini Architecture Assets
-- [alexnardini/FLAM3_for_SideFX_Houdini](https://github.com/alexnardini/FLAM3_for_SideFX_Houdini) - The Fractal Flame Algorithm, FLAM3 for SideFX Houdini - aka: FLAM3H™
 - [TDChina/Houdini-Extensions](https://github.com/TDChina/Houdini-Extensions) - Houdini
 - [danielforgacs/houdini-tools](https://github.com/danielforgacs/houdini-tools) - Python Scripts for Sidefx Houdini
 - [firehawkvfx/firehawk-houdini-tools](https://github.com/firehawkvfx/firehawk-houdini-tools) - A collection of useful hda's and scripts used in the open firehawk vfx pipeline.
@@ -4801,7 +4801,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -4891,7 +4891,7 @@
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -5498,7 +5498,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 - [mateussilva98/bookmarkeddit](https://github.com/mateussilva98/bookmarkeddit) - Reddit's missing save manager: Finally organize what matters to you
@@ -5622,7 +5622,6 @@
 - [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
 - [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) - ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.
 - [protontypes/open-climate-fund](https://github.com/protontypes/open-climate-fund) - Building an open science funding revolution for open source climate action!
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [jaroslaw-weber/calm-garden-cli](https://github.com/jaroslaw-weber/calm-garden-cli) - discreet box breathing cli app with progress tracking
@@ -5647,7 +5646,7 @@
 - [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: The comprehensive toolkit for developing plugins and widgets for Figma
 - [lukasoppermann/design-tokens](https://github.com/lukasoppermann/design-tokens) - 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
-- [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
+- [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
 - [figma/plugin-samples](https://github.com/figma/plugin-samples) - 🔌 Sample Figma plugins.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
